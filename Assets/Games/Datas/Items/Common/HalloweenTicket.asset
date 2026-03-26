@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f879ec7efec249341b5d84ae8c0e69e8, type: 3}
+  m_Name: HalloweenTicket
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 7fbc55177ce3c6a4d9098732a03b50b2, type: 3}
+  id: 18
+  displayName: H Ticket
+  description: Halloween Ticket
+  price:
+    i: 2
+    a: 50

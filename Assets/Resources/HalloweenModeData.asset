@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 100a4ee078340f14586675b7fa8471fb, type: 3}
+  m_Name: HalloweenModeData
+  m_EditorClassIdentifier: 
+  day: 215
+  year: 2021
+  maxTurn: 5
+  moreTicketPrice:
+    i: 2
+    a: 300
+  moreTicketReward:
+    i: 18
+    a: 10
+  background:
+    staticBG: {fileID: 21300000, guid: c705c67db009e3640810422458bfe5ed, type: 3}
+    moveBGPrefab: {fileID: 7991348307957069275, guid: 35cb6cd552a50204f8ee675a9e908c7a,
+      type: 3}
+  zoneData:
+  - {fileID: 11400000, guid: 88bffa00968d39e4b9a268621818916a, type: 2}
+  - {fileID: 11400000, guid: b68d59c16dfe369468afdb403afbf4fd, type: 2}
+  - {fileID: 11400000, guid: 47564ff696eed564aa97d1d95467d203, type: 2}
+  - {fileID: 11400000, guid: 2594d00e149b6384c9726b4c4f4a60ec, type: 2}
+  - {fileID: 11400000, guid: de26bb4e8389eb444a514569247f6d36, type: 2}
+  - {fileID: 11400000, guid: 9e80c1c9c4e64b742b794deddc94a68d, type: 2}
+  - {fileID: 11400000, guid: 1a03f4e90cc840a449cfc35eb0e4ecf3, type: 2}
+  - {fileID: 11400000, guid: f1ac08824af7b6b468b952504182ae50, type: 2}
+  - {fileID: 11400000, guid: a06c22035455c414299eb02e8efec8b6, type: 2}
+  - {fileID: 11400000, guid: 67fdf89f459e8ae44a72820104815361, type: 2}
+  - {fileID: 11400000, guid: 86542f72a4c4d614f85a594395944502, type: 2}
+  - {fileID: 11400000, guid: 82726b1bdc3ae164f8ffd232f8d08410, type: 2}
+  - {fileID: 11400000, guid: a84a75db966e2774aab77e13807674ff, type: 2}
+  - {fileID: 11400000, guid: 5231130874b958f498ff81a5917ce790, type: 2}
+  - {fileID: 11400000, guid: 591916960c59aa849b35457074c04321, type: 2}
+  enemyData: {fileID: 11400000, guid: 7565c228c5e7b7e4889dd5f32811eee9, type: 2}
+  buyablePerDay: 5
+  buyableRemain: 0
+  remoteEnable: 1
+  remoteKey: halloweenkey
+  startDay: 12
+  startMonth: 7
+  startYear: 2021
+  endDay: 18
+  endMonth: 8
+  endYear: 2021
+  session: 0

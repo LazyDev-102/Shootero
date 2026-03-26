@@ -1,0 +1,1030 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 083873350260cee4b932b6985dd93f02, type: 3}
+  m_Name: EngineSlotData
+  m_EditorClassIdentifier: 
+  id: 3
+  gearSlotName: Engine Slot
+  currentLevel: 0
+  gearType: 4
+  levels:
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 1
+    priceUpgrade:
+      i: 1
+      a: 200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 2
+    priceUpgrade:
+      i: 1
+      a: 400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 3
+    priceUpgrade:
+      i: 1
+      a: 600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 4
+    priceUpgrade:
+      i: 1
+      a: 800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 5
+    priceUpgrade:
+      i: 1
+      a: 1000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 6
+    priceUpgrade:
+      i: 1
+      a: 1200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 7
+    priceUpgrade:
+      i: 1
+      a: 1400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 8
+    priceUpgrade:
+      i: 1
+      a: 1600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 9
+    priceUpgrade:
+      i: 1
+      a: 1800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 10
+    priceUpgrade:
+      i: 1
+      a: 2000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 11
+    priceUpgrade:
+      i: 1
+      a: 2200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 12
+    priceUpgrade:
+      i: 1
+      a: 2400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 13
+    priceUpgrade:
+      i: 1
+      a: 2600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 14
+    priceUpgrade:
+      i: 1
+      a: 2800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 15
+    priceUpgrade:
+      i: 1
+      a: 3000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 16
+    priceUpgrade:
+      i: 1
+      a: 3200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 17
+    priceUpgrade:
+      i: 1
+      a: 3400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 18
+    priceUpgrade:
+      i: 1
+      a: 3600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 19
+    priceUpgrade:
+      i: 1
+      a: 3800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 20
+    priceUpgrade:
+      i: 1
+      a: 4000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 21
+    priceUpgrade:
+      i: 1
+      a: 4200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 22
+    priceUpgrade:
+      i: 1
+      a: 4400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 23
+    priceUpgrade:
+      i: 1
+      a: 4600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 24
+    priceUpgrade:
+      i: 1
+      a: 4800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 25
+    priceUpgrade:
+      i: 1
+      a: 5000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 26
+    priceUpgrade:
+      i: 1
+      a: 5200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 27
+    priceUpgrade:
+      i: 1
+      a: 5400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 28
+    priceUpgrade:
+      i: 1
+      a: 5600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 29
+    priceUpgrade:
+      i: 1
+      a: 5800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 30
+    priceUpgrade:
+      i: 1
+      a: 6000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 31
+    priceUpgrade:
+      i: 1
+      a: 6200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 32
+    priceUpgrade:
+      i: 1
+      a: 6400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 33
+    priceUpgrade:
+      i: 1
+      a: 6600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 34
+    priceUpgrade:
+      i: 1
+      a: 6800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 35
+    priceUpgrade:
+      i: 1
+      a: 7000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 36
+    priceUpgrade:
+      i: 1
+      a: 7200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 37
+    priceUpgrade:
+      i: 1
+      a: 7400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 38
+    priceUpgrade:
+      i: 1
+      a: 7600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 39
+    priceUpgrade:
+      i: 1
+      a: 7800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 40
+    priceUpgrade:
+      i: 1
+      a: 8000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 41
+    priceUpgrade:
+      i: 1
+      a: 8200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 42
+    priceUpgrade:
+      i: 1
+      a: 8400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 43
+    priceUpgrade:
+      i: 1
+      a: 8600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 44
+    priceUpgrade:
+      i: 1
+      a: 8800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 45
+    priceUpgrade:
+      i: 1
+      a: 9000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 46
+    priceUpgrade:
+      i: 1
+      a: 9200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 47
+    priceUpgrade:
+      i: 1
+      a: 9400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 48
+    priceUpgrade:
+      i: 1
+      a: 9600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 49
+    priceUpgrade:
+      i: 1
+      a: 9800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 50
+    priceUpgrade:
+      i: 1
+      a: 10000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 51
+    priceUpgrade:
+      i: 1
+      a: 10200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 52
+    priceUpgrade:
+      i: 1
+      a: 10400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 53
+    priceUpgrade:
+      i: 1
+      a: 10600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 54
+    priceUpgrade:
+      i: 1
+      a: 10800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 55
+    priceUpgrade:
+      i: 1
+      a: 11000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 56
+    priceUpgrade:
+      i: 1
+      a: 11200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 57
+    priceUpgrade:
+      i: 1
+      a: 11400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 58
+    priceUpgrade:
+      i: 1
+      a: 11600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 59
+    priceUpgrade:
+      i: 1
+      a: 11800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 60
+    priceUpgrade:
+      i: 1
+      a: 12000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 61
+    priceUpgrade:
+      i: 1
+      a: 12200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 62
+    priceUpgrade:
+      i: 1
+      a: 12400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 63
+    priceUpgrade:
+      i: 1
+      a: 12600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 64
+    priceUpgrade:
+      i: 1
+      a: 12800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 65
+    priceUpgrade:
+      i: 1
+      a: 13000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 66
+    priceUpgrade:
+      i: 1
+      a: 13200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 67
+    priceUpgrade:
+      i: 1
+      a: 13400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 68
+    priceUpgrade:
+      i: 1
+      a: 13600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 69
+    priceUpgrade:
+      i: 1
+      a: 13800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 70
+    priceUpgrade:
+      i: 1
+      a: 14000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 71
+    priceUpgrade:
+      i: 1
+      a: 14200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 72
+    priceUpgrade:
+      i: 1
+      a: 14400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 73
+    priceUpgrade:
+      i: 1
+      a: 14600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 74
+    priceUpgrade:
+      i: 1
+      a: 14800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 75
+    priceUpgrade:
+      i: 1
+      a: 15000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 76
+    priceUpgrade:
+      i: 1
+      a: 15200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 77
+    priceUpgrade:
+      i: 1
+      a: 15400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 78
+    priceUpgrade:
+      i: 1
+      a: 15600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 79
+    priceUpgrade:
+      i: 1
+      a: 15800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 80
+    priceUpgrade:
+      i: 1
+      a: 16000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 81
+    priceUpgrade:
+      i: 1
+      a: 16200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 82
+    priceUpgrade:
+      i: 1
+      a: 16400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 83
+    priceUpgrade:
+      i: 1
+      a: 16600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 84
+    priceUpgrade:
+      i: 1
+      a: 16800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 85
+    priceUpgrade:
+      i: 1
+      a: 17000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 86
+    priceUpgrade:
+      i: 1
+      a: 17200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 87
+    priceUpgrade:
+      i: 1
+      a: 17400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 88
+    priceUpgrade:
+      i: 1
+      a: 17600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 89
+    priceUpgrade:
+      i: 1
+      a: 17800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 90
+    priceUpgrade:
+      i: 1
+      a: 18000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 91
+    priceUpgrade:
+      i: 1
+      a: 18200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 92
+    priceUpgrade:
+      i: 1
+      a: 18400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 93
+    priceUpgrade:
+      i: 1
+      a: 18600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 94
+    priceUpgrade:
+      i: 1
+      a: 18800
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 95
+    priceUpgrade:
+      i: 1
+      a: 19000
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 96
+    priceUpgrade:
+      i: 1
+      a: 19200
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 97
+    priceUpgrade:
+      i: 1
+      a: 19400
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 98
+    priceUpgrade:
+      i: 1
+      a: 19600
+  - sellPrices: []
+    enhanceRequire:
+    - i: 903
+      a: 99
+    priceUpgrade:
+      i: 1
+      a: 19800
+  coreStats:
+  - statData: {fileID: 11400000, guid: 855155120b7861f4a9769ef0de7b631a, type: 2}
+    values:
+    - Value: 10
+      Type: 0
+      Order: 0
+    - Value: 12
+      Type: 0
+      Order: 0
+    - Value: 14
+      Type: 0
+      Order: 0
+    - Value: 16
+      Type: 0
+      Order: 0
+    - Value: 18
+      Type: 0
+      Order: 0
+    - Value: 20
+      Type: 0
+      Order: 0
+    - Value: 22
+      Type: 0
+      Order: 0
+    - Value: 24
+      Type: 0
+      Order: 0
+    - Value: 26
+      Type: 0
+      Order: 0
+    - Value: 28
+      Type: 0
+      Order: 0
+    - Value: 30
+      Type: 0
+      Order: 0
+    - Value: 32
+      Type: 0
+      Order: 0
+    - Value: 34
+      Type: 0
+      Order: 0
+    - Value: 36
+      Type: 0
+      Order: 0
+    - Value: 38
+      Type: 0
+      Order: 0
+    - Value: 40
+      Type: 0
+      Order: 0
+    - Value: 42
+      Type: 0
+      Order: 0
+    - Value: 44
+      Type: 0
+      Order: 0
+    - Value: 46
+      Type: 0
+      Order: 0
+    - Value: 48
+      Type: 0
+      Order: 0
+    - Value: 52
+      Type: 0
+      Order: 0
+    - Value: 56
+      Type: 0
+      Order: 0
+    - Value: 60
+      Type: 0
+      Order: 0
+    - Value: 64
+      Type: 0
+      Order: 0
+    - Value: 68
+      Type: 0
+      Order: 0
+    - Value: 72
+      Type: 0
+      Order: 0
+    - Value: 76
+      Type: 0
+      Order: 0
+    - Value: 80
+      Type: 0
+      Order: 0
+    - Value: 84
+      Type: 0
+      Order: 0
+    - Value: 88
+      Type: 0
+      Order: 0
+    - Value: 92
+      Type: 0
+      Order: 0
+    - Value: 96
+      Type: 0
+      Order: 0
+    - Value: 100
+      Type: 0
+      Order: 0
+    - Value: 104
+      Type: 0
+      Order: 0
+    - Value: 108
+      Type: 0
+      Order: 0
+    - Value: 112
+      Type: 0
+      Order: 0
+    - Value: 116
+      Type: 0
+      Order: 0
+    - Value: 120
+      Type: 0
+      Order: 0
+    - Value: 124
+      Type: 0
+      Order: 0
+    - Value: 128
+      Type: 0
+      Order: 0
+    - Value: 134
+      Type: 0
+      Order: 0
+    - Value: 140
+      Type: 0
+      Order: 0
+    - Value: 146
+      Type: 0
+      Order: 0
+    - Value: 152
+      Type: 0
+      Order: 0
+    - Value: 158
+      Type: 0
+      Order: 0
+    - Value: 164
+      Type: 0
+      Order: 0
+    - Value: 170
+      Type: 0
+      Order: 0
+    - Value: 176
+      Type: 0
+      Order: 0
+    - Value: 182
+      Type: 0
+      Order: 0
+    - Value: 188
+      Type: 0
+      Order: 0
+    - Value: 194
+      Type: 0
+      Order: 0
+    - Value: 200
+      Type: 0
+      Order: 0
+    - Value: 206
+      Type: 0
+      Order: 0
+    - Value: 212
+      Type: 0
+      Order: 0
+    - Value: 218
+      Type: 0
+      Order: 0
+    - Value: 224
+      Type: 0
+      Order: 0
+    - Value: 230
+      Type: 0
+      Order: 0
+    - Value: 236
+      Type: 0
+      Order: 0
+    - Value: 242
+      Type: 0
+      Order: 0
+    - Value: 248
+      Type: 0
+      Order: 0
+    - Value: 256
+      Type: 0
+      Order: 0
+    - Value: 264
+      Type: 0
+      Order: 0
+    - Value: 272
+      Type: 0
+      Order: 0
+    - Value: 280
+      Type: 0
+      Order: 0
+    - Value: 288
+      Type: 0
+      Order: 0
+    - Value: 296
+      Type: 0
+      Order: 0
+    - Value: 304
+      Type: 0
+      Order: 0
+    - Value: 312
+      Type: 0
+      Order: 0
+    - Value: 320
+      Type: 0
+      Order: 0
+    - Value: 328
+      Type: 0
+      Order: 0
+    - Value: 336
+      Type: 0
+      Order: 0
+    - Value: 344
+      Type: 0
+      Order: 0
+    - Value: 352
+      Type: 0
+      Order: 0
+    - Value: 360
+      Type: 0
+      Order: 0
+    - Value: 368
+      Type: 0
+      Order: 0
+    - Value: 376
+      Type: 0
+      Order: 0
+    - Value: 384
+      Type: 0
+      Order: 0
+    - Value: 392
+      Type: 0
+      Order: 0
+    - Value: 400
+      Type: 0
+      Order: 0
+    - Value: 408
+      Type: 0
+      Order: 0
+    - Value: 418
+      Type: 0
+      Order: 0
+    - Value: 428
+      Type: 0
+      Order: 0
+    - Value: 438
+      Type: 0
+      Order: 0
+    - Value: 448
+      Type: 0
+      Order: 0
+    - Value: 458
+      Type: 0
+      Order: 0
+    - Value: 468
+      Type: 0
+      Order: 0
+    - Value: 478
+      Type: 0
+      Order: 0
+    - Value: 488
+      Type: 0
+      Order: 0
+    - Value: 498
+      Type: 0
+      Order: 0
+    - Value: 508
+      Type: 0
+      Order: 0
+    - Value: 518
+      Type: 0
+      Order: 0
+    - Value: 528
+      Type: 0
+      Order: 0
+    - Value: 538
+      Type: 0
+      Order: 0
+    - Value: 548
+      Type: 0
+      Order: 0
+    - Value: 558
+      Type: 0
+      Order: 0
+    - Value: 568
+      Type: 0
+      Order: 0
+    - Value: 578
+      Type: 0
+      Order: 0
+    - Value: 588
+      Type: 0
+      Order: 0
+    - Value: 598
+      Type: 0
+      Order: 0
+  item:
+    i: 0
+    lv: 0
+    r: 0
+    ss: 
+    ie: 0
+    gt: 0
+    inc: 0
+  materialID: 903
+  itemStack:
+    i: 1
+    a: 0
+  itemMatStack:
+    i: 903
+    a: 0
+  start: 0a000000
+  offset: 02000000
+  amplitude: 02000000

@@ -1,0 +1,69 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 324452a9d85a60f4fbb3cde6e08e958e, type: 3}
+  m_Name: ShipPackData
+  m_EditorClassIdentifier: 
+  packs:
+  - packName: Zeus
+    shipId: 7
+    bought: 0
+    levelShip: 19
+    iapKey: com.shootero.ship7pack
+    iapKeySale: com.shootero.ship7packsale
+    defaulIap: 19.99
+    productType: 1
+    rewards:
+    - id: 1
+      amount: 100000
+    - id: 2
+      amount: 500
+    - id: 7007
+      amount: 1
+  - packName: Bombard
+    shipId: 8
+    bought: 0
+    levelShip: 19
+    iapKey: com.shootero.ship8pack
+    iapKeySale: com.shootero.ship8packsale
+    defaulIap: 19.99
+    productType: 1
+    rewards:
+    - id: 1
+      amount: 100000
+    - id: 2
+      amount: 500
+    - id: 7008
+      amount: 1
+  - packName: Novathirster
+    shipId: 9
+    bought: 0
+    levelShip: 19
+    iapKey: com.shootero.ship9pack
+    iapKeySale: com.shootero.ship9packsale
+    defaulIap: 19.99
+    productType: 1
+    rewards:
+    - id: 1
+      amount: 100000
+    - id: 2
+      amount: 500
+    - id: 7009
+      amount: 1
+  levelUnlock: 24
+  remoteKey: shippackremotekey
+  startDay: 2
+  startMonth: 5
+  startYear: 2021
+  endDay: 10
+  endMonth: 5
+  endYear: 2021
+  enable: 1

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7f5a8fea8a17c418dcaac02a8677f7, type: 3}
+  m_Name: DropCollector
+  m_EditorClassIdentifier: 
+  nameCollector: Drop
+  items:
+  - {fileID: 11400000, guid: 2b09036609fb73e4497ce4f167b17fd3, type: 2}
+  - {fileID: 11400000, guid: 081030279f0384c4093f1fc446c208cc, type: 2}
+  - {fileID: 11400000, guid: a874d385ee777a2488efd04a56347528, type: 2}

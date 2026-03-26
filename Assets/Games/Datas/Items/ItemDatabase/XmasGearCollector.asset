@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7f5a8fea8a17c418dcaac02a8677f7, type: 3}
+  m_Name: XmasGearCollector
+  m_EditorClassIdentifier: 
+  nameCollector: Xmas Gear
+  items:
+  - {fileID: 11400000, guid: 2a57d62a9fed4414a9741aed75817ab9, type: 2}
+  - {fileID: 11400000, guid: 6959f6db7333ad44a888675e47a7ef7f, type: 2}
+  - {fileID: 11400000, guid: 6f47af16990738147a55bbea1c77117a, type: 2}
+  - {fileID: 11400000, guid: 47f8210333b2e544dac4bc514296c1af, type: 2}
+  - {fileID: 11400000, guid: 2c95e7d178e16a94085a8a914c203130, type: 2}

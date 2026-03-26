@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f9218c0b565a65488c08ac97b17c43c, type: 3}
+  m_Name: MaterialModeWave04
+  m_EditorClassIdentifier: 
+  waveMultipler: 4
+  preStartCondition: []
+  preEndCondition: []
+  obstacles: []
+  rangeChip:
+    startValue: 40
+    endValue: 50
+  rangeHealOrb:
+    startValue: 1
+    endValue: 3
+  rangeMaterial:
+    startValue: 1
+    endValue: 3
+  rangeGear:
+    startValue: 0
+    endValue: 0
+  enemyIds: 01000000080000000e000000
+  trapIds: 02000000
+  minibossIds: 
+  bossIds: 
+  isMinibossWave: 0
+  isBossWave: 0
+  difficultPercents:
+    typePercents:
+    - type: 0
+      percent: 70
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 10
+  trapDifficultPercents:
+    typePercents:
+    - type: 0
+      percent: 70
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 10
+    limitTrap: 7
+  configModeWaves:
+    limitRange:
+      startValue: 6
+      endValue: 7
+    timeRange:
+      startValue: 7
+      endValue: 9

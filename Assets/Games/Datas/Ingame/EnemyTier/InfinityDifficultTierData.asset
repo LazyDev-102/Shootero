@@ -1,0 +1,106 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28b1f81beea836e42a61a5d9fe0c50e7, type: 3}
+  m_Name: InfinityDifficultTierData
+  m_EditorClassIdentifier: 
+  enemyPercent:
+  - typePercents:
+    - type: 0
+      percent: 100
+    - type: 1
+      percent: 0
+    - type: 2
+      percent: 0
+  - typePercents:
+    - type: 0
+      percent: 80
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 0
+  - typePercents:
+    - type: 0
+      percent: 70
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 10
+  - typePercents:
+    - type: 0
+      percent: 50
+    - type: 1
+      percent: 30
+    - type: 2
+      percent: 20
+  - typePercents:
+    - type: 0
+      percent: 30
+    - type: 1
+      percent: 45
+    - type: 2
+      percent: 25
+  - typePercents:
+    - type: 0
+      percent: 30
+    - type: 1
+      percent: 45
+    - type: 2
+      percent: 25
+  trapPercent:
+  - typePercents:
+    - type: 0
+      percent: 60
+    - type: 1
+      percent: 40
+    - type: 2
+      percent: 0
+    limitTrap: 1
+  - typePercents:
+    - type: 0
+      percent: 80
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 0
+    limitTrap: 1
+  - typePercents:
+    - type: 0
+      percent: 70
+    - type: 1
+      percent: 20
+    - type: 2
+      percent: 10
+    limitTrap: 1
+  - typePercents:
+    - type: 0
+      percent: 50
+    - type: 1
+      percent: 30
+    - type: 2
+      percent: 20
+    limitTrap: 1
+  - typePercents:
+    - type: 0
+      percent: 30
+    - type: 1
+      percent: 45
+    - type: 2
+      percent: 25
+    limitTrap: 1
+  - typePercents:
+    - type: 0
+      percent: 30
+    - type: 1
+      percent: 45
+    - type: 2
+      percent: 25
+    limitTrap: 1

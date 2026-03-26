@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 915f1f61834932d47a5bd4e071881fc9, type: 3}
+  m_Name: PackItem1
+  m_EditorClassIdentifier: 
+  icon: {fileID: 0}
+  id: 201
+  displayName: Value Offfer 1
+  description: 
+  price:
+    i: 0
+    a: 0
+  iapKey: com.shootero.starter1
+  defaulIap: 0
+  iapSaleKey: com.shootero.starter1
+  defaulSale: 0
+  productType: 0
+  remoteKey: 
+  isFake: 0
+  fakeMulti: 0
+  isSale: 0
+  itemClaims:
+  - id: 2
+    amount: 50
+  - id: 1
+    amount: 5000

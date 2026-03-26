@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6676d601778a13142bbd4f591885a4c4, type: 3}
+  m_Name: OverheatModData
+  m_EditorClassIdentifier: 
+  modId: 55
+  type: 0
+  nameMod: OverHeat
+  modDescription: Damage increase base on HP loss
+  icon: {fileID: 21300000, guid: be564dc69219c7a46b0022bbce47c35b, type: 3}
+  rarity: 2
+  maxStack: 1
+  levelRequire: 17
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []

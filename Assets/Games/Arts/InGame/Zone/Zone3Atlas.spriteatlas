@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zone3Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 942b4950c48e4e449997e9b4ca834722, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: c905eb11dc3a27c48a3d0b460b87bf05, type: 3}
+  - {fileID: 21300000, guid: 2f75af7176714ce4298fd9ba58982792, type: 3}
+  - {fileID: 21300000, guid: 130b1af1eeb00194f9f6693b7de7ecfe, type: 3}
+  - {fileID: 21300000, guid: 98bc1a551cfe64345a93ff7b5e2adb69, type: 3}
+  - {fileID: 21300000, guid: 148fb9b5b3f7d6a45ac17e5b35439e9e, type: 3}
+  - {fileID: 21300000, guid: 59ddb6f6ff160644a93cc51db12c0f2d, type: 3}
+  - {fileID: 21300000, guid: b4f38f4996423394ba9dfafafffa28dc, type: 3}
+  - {fileID: 21300000, guid: 05a20069c49998d4eb01b845eca74e01, type: 3}
+  - {fileID: 21300000, guid: 8425a7e9869e0bf4087a544076ff012f, type: 3}
+  - {fileID: 21300000, guid: 6cedcc0a14328934bb8d9128ac045097, type: 3}
+  - {fileID: 21300000, guid: c93cf21a3d833cd429d87d8bb43a1ab6, type: 3}
+  - {fileID: 21300000, guid: 3d18a95a4db8ac342b8d877ada580cf2, type: 3}
+  - {fileID: 21300000, guid: da664b6a83fd56f4daf3a5e71e755c25, type: 3}
+  - {fileID: 21300000, guid: c94b76baa61ea414288d5b49358915a9, type: 3}
+  - {fileID: 21300000, guid: 27de875b41fc614438df686fa51a811f, type: 3}
+  - {fileID: 21300000, guid: 9c043dbba571d3c4684302d72b5cb9ba, type: 3}
+  - {fileID: 21300000, guid: 403c96dca64dd8147afb75d4313f9807, type: 3}
+  - {fileID: 21300000, guid: e0044b2ddcd4eeb44aebf0a269d94ad4, type: 3}
+  - {fileID: 21300000, guid: b5f78b3db19545540b94e3349bd341e4, type: 3}
+  - {fileID: 21300000, guid: 6b080b4da93a3ef4bb9b7a720ffafb1f, type: 3}
+  - {fileID: 21300000, guid: d8f9a56db35f5a848b6908bb55782514, type: 3}
+  - {fileID: 21300000, guid: cfdc52ad7d128694888a105afcdcdfec, type: 3}
+  - {fileID: 21300000, guid: 532564fd33a1aad4888bd19802de0061, type: 3}
+  - {fileID: 21300000, guid: 714e987e512523b498012721ee33da43, type: 3}
+  - {fileID: 21300000, guid: 8f1b7f1f9d9c560429a771d237b09248, type: 3}
+  - {fileID: 21300000, guid: 263a2c4fee6820e42b17ebdfb23bc021, type: 3}
+  - {fileID: 21300000, guid: f4aabd4fe5bcd3941a1f4c5add8eb975, type: 3}
+  - {fileID: 21300000, guid: c9b7a6bf8d8a26b47aa8d33425369fa3, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - e12-3-N
+  - e08-3-C
+  - e01-3-b
+  - e01-3-d
+  - z3_deco S1
+  - e12-3-C
+  - e14-3-N
+  - e01-3-c
+  - e12-3-E
+  - e14-3-bullet2
+  - z3_deco S2
+  - e08-3-E
+  - e11-3-E
+  - e08-3-N
+  - e14-3-bullet1
+  - e11-3-bullet2
+  - e01-3-e
+  - z3_deco S4
+  - z3_deco B2
+  - e11-3-C
+  - e08-3-bullet
+  - e11-3-bullet1
+  - z3_deco S3
+  - e11-3-N
+  - z3_deco B1
+  - e01-3-a
+  - e14-3-E
+  - e14-3-C
+  m_RenderDataMap: {}
+  m_Tag: Zone3Atlas
+  m_IsVariant: 0

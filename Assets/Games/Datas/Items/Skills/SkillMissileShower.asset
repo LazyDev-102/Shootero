@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3da76cb0944f05145baf52d5645b2c31, type: 3}
+  m_Name: SkillMissileShower
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a53b9c1731a09124cbcf1b316f707dac, type: 3}
+  id: 205
+  displayName: Missile Shower
+  description: Launch a missile from bottom every {0}s deals {1}% damage. Total {2}
+    missiles
+  price:
+    i: 2
+    a: 50
+  type: 0
+  currentRank: 2
+  levelUnlock: 0
+  amount: 7
+  skillRankData:
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 60
+        Type: 0
+        Order: 0
+    - Name: 'Delta Shot '
+      Type: 2
+      Value:
+        Value: 0.5
+        Type: 0
+        Order: 0
+    - Name: Bullet Count
+      Type: 8
+      Value:
+        Value: 5
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 0.5
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 50
+        Type: 0
+        Order: 0
+    - Name: 'Delta Shot '
+      Type: 2
+      Value:
+        Value: 0.4
+        Type: 0
+        Order: 0
+    - Name: Bullet Count
+      Type: 8
+      Value:
+        Value: 10
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 1
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 10
+        Type: 0
+        Order: 0
+    - Name: 'Delta Shot '
+      Type: 2
+      Value:
+        Value: 0.3
+        Type: 0
+        Order: 0
+    - Name: Bullet Count
+      Type: 8
+      Value:
+        Value: 15
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 1.5
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 30
+        Type: 0
+        Order: 0
+    - Name: 'Delta Shot '
+      Type: 2
+      Value:
+        Value: 0.2
+        Type: 0
+        Order: 0
+    - Name: Bullet Count
+      Type: 8
+      Value:
+        Value: 20
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 2
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 20
+        Type: 0
+        Order: 0
+    - Name: 'Delta Shot '
+      Type: 2
+      Value:
+        Value: 0.1
+        Type: 0
+        Order: 0
+    - Name: Bullet Count
+      Type: 8
+      Value:
+        Value: 25
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 2.5
+        Type: 0
+        Order: 0
+  privateSkillRankData:
+  - datas:
+    - Name: Bullet Speed
+      Type: 9
+      Value:
+        Value: 20
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: Bullet Speed
+      Type: 9
+      Value:
+        Value: 20
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: Bullet Speed
+      Type: 9
+      Value:
+        Value: 20
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: Bullet Speed
+      Type: 9
+      Value:
+        Value: 20
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: Bullet Speed
+      Type: 9
+      Value:
+        Value: 20
+        Type: 0
+        Order: 0
+  IsNew: 0
+  bullet: {fileID: 2723670010946739737, guid: 6e9870791a54b024cb5230ae1443695a, type: 3}
+  boomRadius: 2
+  acceleration: -1
+  spawnAre:
+    pointTopRight: {x: 0.975, y: 0.025}
+    pointBotLeft: {x: 0.025, y: 0.025}
+  effect: {fileID: 0}

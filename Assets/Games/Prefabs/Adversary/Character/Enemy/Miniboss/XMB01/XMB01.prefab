@@ -1,0 +1,385 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8319820993039243727
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3418374671256340019}
+  - component: {fileID: 8243529781778854989}
+  - component: {fileID: 7152699481150212881}
+  - component: {fileID: 6183379850224499632}
+  - component: {fileID: 268522421275354141}
+  - component: {fileID: 361942286328669820}
+  - component: {fileID: 3600757944505697515}
+  - component: {fileID: 8558746573345517003}
+  - component: {fileID: 3770189782691175830}
+  - component: {fileID: 2619618319767178594}
+  - component: {fileID: 2565958007679227198}
+  m_Layer: 0
+  m_Name: XMB01
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &3418374671256340019
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!50 &8243529781778854989
+Rigidbody2D:
+  serializedVersion: 4
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_BodyType: 1
+  m_Simulated: 1
+  m_UseFullKinematicContacts: 0
+  m_UseAutoMass: 0
+  m_Mass: 1
+  m_LinearDrag: 0
+  m_AngularDrag: 0.05
+  m_GravityScale: 1
+  m_Material: {fileID: 0}
+  m_Interpolate: 0
+  m_SleepingMode: 1
+  m_CollisionDetection: 0
+  m_Constraints: 0
+--- !u!114 &7152699481150212881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 034ccfdb3dbe0a143894223e1de2fd66, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &6183379850224499632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c26d76ee8a5dbfc428a1261fb9fac0f1, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  shield: {fileID: 0}
+--- !u!114 &268522421275354141
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1442060527153d4189602fd9204f74c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentHP: 0
+--- !u!114 &361942286328669820
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 970a7ee606650024b935959ed6800889, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  burningEffect: {fileID: 0}
+  burningStackPrefab: {fileID: 0}
+  burnStackOffset: {x: 0, y: 0}
+  enemyHitEffect: {fileID: 0}
+--- !u!114 &3600757944505697515
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dce300700d3fe594a8bdface45db86e8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myRigi: {fileID: 0}
+  currentMoveSpeed: 0
+  speedRotateLook: 10
+  defaultCurveMove:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  appearMoveSpeed: 5
+  appearArea:
+    pointTopRight: {x: 0, y: 0}
+    pointBotLeft: {x: 0, y: 0}
+  appearCurveMove:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  appearRandomPointMovePathValue:
+    startValue: 0
+    endValue: 0
+  knockbackDurantion: 0
+  knockbackPower: 0
+  knockbackCurveMove:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  idleMoveSpeed: 0
+  idleMoveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 1
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  paths:
+  - points:
+    - {x: -0.27335697, y: 0.47350192, z: 0}
+    - {x: -1.4489751, y: 0.81933546, z: 0}
+    - {x: -2.4663146, y: -0.47759652, z: 0}
+    - {x: -1.7739277, y: -2.0008478, z: 0}
+  - points:
+    - {x: 0.46478924, y: 0.5609832, z: 0}
+    - {x: 1.5264486, y: 0.6533015, z: 0}
+    - {x: 2.2649944, y: -0.13140345, z: 0}
+    - {x: 1.8264827, y: -1.7700515, z: 0}
+  - points:
+    - {x: -0.71226835, y: 0.49174476, z: 0}
+    - {x: -1.7970074, y: 1.2302904, z: 0}
+    - {x: -1.5200529, y: 2.1765525, z: 0}
+    - {x: 0.51094806, y: 2.6150637, z: 0}
+  dotweenPaths: []
+  moveSpeed: 5
+  moveCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 3
+      time: 0
+      value: 0
+      inSlope: 2
+      outSlope: 2
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0
+      outWeight: 0
+    - serializedVersion: 3
+      time: 0.6
+      value: 1
+      inSlope: -0.0059552505
+      outSlope: -0.0059552505
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.33333334
+      outWeight: 0.28685096
+    - serializedVersion: 3
+      time: 1
+      value: 0.9
+      inSlope: -0.018929867
+      outSlope: -0.018929867
+      tangentMode: 0
+      weightedMode: 0
+      inWeight: 0.26027858
+      outWeight: 0.33333334
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  moveArea:
+    pointTopRight: {x: 0.9, y: 0.9}
+    pointBotLeft: {x: 0.1, y: 0.7}
+  moveRandomPointMovePathValue:
+    startValue: -1
+    endValue: 1
+  minDistance: 5
+  knockOutLookSpeed: 15
+  knockAngleRange:
+    startValue: 0
+    endValue: 0
+  reference: {fileID: 0}
+--- !u!114 &8558746573345517003
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da11318ed1ba9684eb03252255b21524, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  atk:
+    baseValue: 100
+    statModifiers: []
+  maxHP:
+    baseValue: 20000
+    statModifiers: []
+  colliderDamage:
+    baseValue: 1
+    statModifiers: []
+  size:
+    baseValue: 1
+    statModifiers: []
+  maxHPInit: 20000
+  atkInit: 100
+  reference: {fileID: 0}
+--- !u!114 &3770189782691175830
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9feb334c2fd16e47b2485da51053d81, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  target: {fileID: 0}
+  skillAttacks: []
+  specialAttack: {fileID: 0}
+  reference: {fileID: 0}
+--- !u!114 &2619618319767178594
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c64e821a19081564baf64c869e9b3841, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2565958007679227198
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8319820993039243727}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: eb164bae285b82d44b1e81c164f97edd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  explosion: {fileID: 0}
+  numberExplosion: 0
+  deltaExplosion: 0
+  radiusExplosion: 0
+  shakeType: 0
+  type: 4
+  spawnBorderType: 0
+  spawnBorderOffset: 1
+  enableDropChip: 1
+  score: 100
+  minibossIndex: 0
+  idleTimeAfterAppear: 0
+  idleTimeAfterAttack: 0
+  isMainBoss: 1
+  reference: {fileID: 0}
+  eChild: {fileID: 8580200126827861251, guid: b265d3bc7d2c04e4bb2bd122358f8ad2, type: 3}
+  miniumDistance: 1

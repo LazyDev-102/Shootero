@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 409fbca23fb8c9743876ad3c09cac892, type: 3}
+  m_Name: MysteryStationData
+  m_EditorClassIdentifier: 
+  mods:
+  - {fileID: 11400000, guid: b75783669153f25419064c68e99fa56e, type: 2}
+  - {fileID: 11400000, guid: 35fba5d144e7b0a4589765c0150e8a88, type: 2}
+  - {fileID: 11400000, guid: ad91b63ffa8e3e2488f223f82821bccc, type: 2}
+  - {fileID: 11400000, guid: 51a59185a4a6b4f48a5eb4d6edf9f3fa, type: 2}
+  maxTrade: 4
+  percentMaxHP:
+    Value: -0.2
+    Type: 1
+    Order: 0

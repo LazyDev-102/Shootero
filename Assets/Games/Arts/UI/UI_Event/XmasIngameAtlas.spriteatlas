@@ -1,0 +1,164 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: XmasIngameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: b4e632407ab845e439370057624fa18a, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 8a3cdb309ca8fd34682b4fa94c0b0ccd, type: 3}
+  - {fileID: 21300000, guid: fa4dec01b0b7be643985e5bfd3ade715, type: 3}
+  - {fileID: 21300000, guid: 3fb6be32e26aa5849a5d535177891043, type: 3}
+  - {fileID: 21300000, guid: a92944429da8d0d4c9082f4eac53bd3d, type: 3}
+  - {fileID: 21300000, guid: 878ebd92cc563a84f9ee84d44f95977d, type: 3}
+  - {fileID: 21300000, guid: 1bbcc7338a054044cb22b11aae0bd4bc, type: 3}
+  - {fileID: 21300000, guid: d485c0735e18de848bd707402172085d, type: 3}
+  - {fileID: 21300000, guid: e25099f3f93ef53468a3fe643b090203, type: 3}
+  - {fileID: 21300000, guid: de8fe3245025c2942aaf9929aa669374, type: 3}
+  - {fileID: 21300000, guid: 4e029864bbcacbf4c83499d64666007e, type: 3}
+  - {fileID: 21300000, guid: 5c58e0a4876e1f1449b44da4548e2dc8, type: 3}
+  - {fileID: 21300000, guid: 18554fa49a467de4bbdd45636da94338, type: 3}
+  - {fileID: 21300000, guid: 1dce3a8506a253942b2ddebc30cd0988, type: 3}
+  - {fileID: 21300000, guid: d2a6bb85a883ccb4187ea645c50514e9, type: 3}
+  - {fileID: 21300000, guid: 53353276decd1df45b2df047b44b7b3b, type: 3}
+  - {fileID: 21300000, guid: 72d881e6d2dedd946b8a7f8a8a3ce9af, type: 3}
+  - {fileID: 21300000, guid: 2bbf584710d17454e833766c9bf697fa, type: 3}
+  - {fileID: 21300000, guid: ce8a5e67f42886b4d80cf9e91b03b5e1, type: 3}
+  - {fileID: 21300000, guid: 0c8bfe67e8919af408d38ff30862b06c, type: 3}
+  - {fileID: 21300000, guid: 306e41a7b0bdbcc49a316e3b9695d3df, type: 3}
+  - {fileID: 21300000, guid: b193b6e8689d43a4e97056b1371f4c6e, type: 3}
+  - {fileID: 21300000, guid: 14800d59cb311014f8de15991971677a, type: 3}
+  - {fileID: 21300000, guid: 7b8ca569fb9bc30419f9d294205a5234, type: 3}
+  - {fileID: 21300000, guid: 35cf6669c542d7747bc4a5f81b126d48, type: 3}
+  - {fileID: 21300000, guid: b6f3c2794de999042842559dbfdfec97, type: 3}
+  - {fileID: 21300000, guid: d1e58df9994aeb0459c4c7502da0f89a, type: 3}
+  - {fileID: 21300000, guid: 68d7ea0afe9adb446868e678f3fbc1c9, type: 3}
+  - {fileID: 21300000, guid: fabc1b0b198a8dc4d80840cc41b3be81, type: 3}
+  - {fileID: 21300000, guid: 1dfa3f6b560057643b03a4e83694c091, type: 3}
+  - {fileID: 21300000, guid: 2ff8d7ebc81609e4bae4922219ac68d9, type: 3}
+  - {fileID: 21300000, guid: 9305049c1ec74b34880d35b9700883f4, type: 3}
+  - {fileID: 21300000, guid: 7f1904cc1b3b63f41bad786059695c8b, type: 3}
+  - {fileID: 21300000, guid: bea3a8fcd21f826428387c014a62b843, type: 3}
+  - {fileID: 21300000, guid: 6ca2d5ddb5beb934bb650132993d8acc, type: 3}
+  - {fileID: 21300000, guid: 6f693ddd3683d6c4caf4a9cebc219ac7, type: 3}
+  - {fileID: 21300000, guid: e8531b7e636e0854a8f954037bf34115, type: 3}
+  - {fileID: 21300000, guid: 5309482fa419e6b4da116f07ab859f02, type: 3}
+  - {fileID: 21300000, guid: 084b9e2f7d76db64bba9e5a63e208de4, type: 3}
+  - {fileID: 21300000, guid: 5477d03f5e33f0e4193a0dfb9832b540, type: 3}
+  - {fileID: 21300000, guid: 9e4fa15f8e0993e47a619db56bb330ef, type: 3}
+  - {fileID: 21300000, guid: 9493555fb1adc554abd50d03b0ae2aae, type: 3}
+  - {fileID: 21300000, guid: 8a008fbf9f7c0654a8fc0274518a3970, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - E22_1
+  - Gear_shield
+  - Gear_reactor
+  - B17_1
+  - E24_3
+  - b17_skill1
+  - icon_reactor
+  - E25_1
+  - b17_skill3
+  - E25_3
+  - icon_weapon
+  - z9_deco B1
+  - E23_1
+  - z9_deco S3
+  - E23_2
+  - E23_3
+  - E24_2
+  - icon_drone
+  - B17_rage
+  - Gear_weapon
+  - B17_3
+  - B17_2
+  - icon_shield
+  - Gear_propulsion
+  - z9_deco S2
+  - MB20
+  - E22_2
+  - Drone_skill
+  - MB21_skill1
+  - icon_drone_full
+  - z9_deco B2
+  - E24_bullet
+  - MB21
+  - E25_2
+  - icon_propulsion
+  - E24_1
+  - z9_deco S1
+  - Gear_drone
+  - E22_3
+  - E25_laser
+  - BG
+  - z9_deco S4
+  m_RenderDataMap: {}
+  m_Tag: XmasIngameAtlas
+  m_IsVariant: 0

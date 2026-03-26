@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: LoginAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 67fe082a8b48f374aac7a8774456b81b, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b1b19a00afa93364aab90e820ecbaf7b, type: 3}
+  - {fileID: 21300000, guid: 5bd0944146635204da3b02404ae212de, type: 3}
+  - {fileID: 21300000, guid: 479353f27d631944da7f87b68f24bae4, type: 3}
+  - {fileID: 21300000, guid: 1f6b0ff2dbceba846ace08aafb326f7e, type: 3}
+  - {fileID: 21300000, guid: ff8fded5d00aa7b4fa556dd2e0bfda06, type: 3}
+  - {fileID: 21300000, guid: f2e785266a9d9a0419c2314137a65f16, type: 3}
+  - {fileID: 21300000, guid: a40ef5780aa70d849aadc41ac9c0846d, type: 3}
+  - {fileID: 21300000, guid: a61a229966b82314f914232109a59bd3, type: 3}
+  - {fileID: 21300000, guid: 750d752d5eae62640ab527e40aa3f320, type: 3}
+  - {fileID: 21300000, guid: 7af6093f01b29634b92d48c9a5a5c6ed, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - decor_1
+  - icon_ggplay
+  - loading bar
+  - decor_3
+  - background splash
+  - icon_log out
+  - decor_ship
+  - icon_gamecenter
+  - Rounded Rectangle 1
+  - decor_2
+  m_RenderDataMap: {}
+  m_Tag: LoginAtlas
+  m_IsVariant: 0

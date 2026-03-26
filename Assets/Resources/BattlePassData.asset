@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 029b1cf8aba9f2040b48b403b6a42cc9, type: 3}
+  m_Name: BattlePassData
+  m_EditorClassIdentifier: 
+  nameEvent: Battle Pass
+  timePerSeason: 30
+  dayEndSeason: 0
+  yearEndSeason: 0
+  isComplete: 0
+  isPurchase: 0
+  progress: 0
+  seasonIndex: 1
+  datas:
+  - {fileID: 11400000, guid: a43596b453b80234faefeddaa2fdedff, type: 2}
+  - {fileID: 11400000, guid: e1cce255a654e484bbd61fde33ef13e7, type: 2}
+  - {fileID: 11400000, guid: 5efce73c7f214f04486837c2d2d7c23a, type: 2}
+  - {fileID: 11400000, guid: c18edd86cea4aa84f816c871a558086c, type: 2}
+  - {fileID: 11400000, guid: 400d7f98a56734745929a1718a26fb05, type: 2}
+  - {fileID: 11400000, guid: 1190621e389ae3a48aec2ba3bd6c4fef, type: 2}
+  - {fileID: 11400000, guid: 840f5da0be0b99043afd46409f74769b, type: 2}
+  - {fileID: 11400000, guid: 16e9b7a3e2341c04ba58899bb54299cb, type: 2}
+  - {fileID: 11400000, guid: 1c8cf15cae20f5e47ae98ca6e389d0f7, type: 2}
+  - {fileID: 11400000, guid: 489021089db3f0f4ebdec2985f72d2f2, type: 2}
+  - {fileID: 11400000, guid: 893d9277c4791ec44988660668e0202d, type: 2}
+  - {fileID: 11400000, guid: 6c3f889a519599543a101381107a80de, type: 2}
+  - {fileID: 11400000, guid: b30bf9e885d1ad04e8f405534d146414, type: 2}
+  - {fileID: 11400000, guid: 33dd1db765da5b643a5278605c4409a9, type: 2}
+  - {fileID: 11400000, guid: 742da75baea60574797b9fe46b1ec972, type: 2}
+  - {fileID: 11400000, guid: 36f8418b3c9f62b4e8925e5481851a3a, type: 2}
+  - {fileID: 11400000, guid: 0402e35a46622ad4786892f7ba6653f3, type: 2}
+  - {fileID: 11400000, guid: a34c42f2c8eee5e4dbc5a39b5b035c63, type: 2}
+  - {fileID: 11400000, guid: bab668e93fa46ab4a9fad31a99203274, type: 2}
+  - {fileID: 11400000, guid: 3cf736e7b562c3640a7c9c9069cd5641, type: 2}
+  - {fileID: 11400000, guid: 460c7061e124c8a4d87d1ba982e3b1a3, type: 2}
+  - {fileID: 11400000, guid: 090291610b3e9d94a98c05055ddc4e83, type: 2}
+  - {fileID: 11400000, guid: 94e06622f4aa8694282edeedd776f9c9, type: 2}
+  - {fileID: 11400000, guid: 3036574e85b5c8f48a90e02ff4b444ca, type: 2}
+  - {fileID: 11400000, guid: 2339aea3bbc32fd409d229c73dc7a5c4, type: 2}
+  - {fileID: 11400000, guid: 133dd386033605e4ba019e1eff716a80, type: 2}
+  - {fileID: 11400000, guid: 7becaba79543b7d4dbb6b85c252fc01f, type: 2}
+  - {fileID: 11400000, guid: eab170b8d98dc474a8e02a10d061673d, type: 2}
+  - {fileID: 11400000, guid: 857832549260629499c31d2c8d5342bf, type: 2}
+  - {fileID: 11400000, guid: f3c56474bf8756542928f59c18462ae4, type: 2}
+  PurchaseKey: com.shootero.battlepass.sale
+  OriginIapKey: com.shootero.battlepass
+  DefaulIap: 4.99
+  ProductType: 0

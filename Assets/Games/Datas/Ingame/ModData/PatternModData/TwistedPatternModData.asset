@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b5b32a677ef00d40b38f50b808169d6, type: 3}
+  m_Name: TwistedPatternModData
+  m_EditorClassIdentifier: 
+  modId: 1006
+  type: 0
+  nameMod: Twisted Plasma
+  modDescription: 
+  icon: {fileID: 21300000, guid: 8f3cb5bae8c2a83429be6db0c43cb2bc, type: 3}
+  rarity: 3
+  maxStack: 1
+  levelRequire: 6
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []
+  patternType: 6
+  shipAttackTwistedComponents:
+  - {fileID: 2066004925195785516, guid: e73bd9141c150bb45a313eb12f9a76e2, type: 3}
+  - {fileID: 5372589149129129336, guid: f70aaf490a5d00c49a2b5a57a770b4db, type: 3}
+  - {fileID: 6027275455193701409, guid: afcbf4498478ea145b71937d63b34805, type: 3}
+  - {fileID: 4873325571034288263, guid: f33c859b42c279249b38cef8588bbf79, type: 3}
+  - {fileID: 6607059991362853844, guid: 30f9c92ae50f8b24ba941ce0dbc732d4, type: 3}
+  - {fileID: 3691641475443431642, guid: 43031b284a6ccd1468d3b21c1a8a55a9, type: 3}
+  - {fileID: 3691641475443431642, guid: 8173d09e218ccf84dbc766052ffd9b84, type: 3}

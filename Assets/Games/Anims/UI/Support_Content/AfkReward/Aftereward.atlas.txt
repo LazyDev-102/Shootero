@@ -1,0 +1,48 @@
+
+Aftereward.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 65
+  size: 276, 186
+  orig: 276, 186
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 342, 168
+  size: 36, 36
+  orig: 38, 38
+  offset: 1, 1
+  index: -1
+Layer 35 copy
+  rotate: true
+  xy: 191, 9
+  size: 54, 56
+  orig: 56, 58
+  offset: 1, 1
+  index: -1
+Layer 35 copy 22
+  rotate: false
+  xy: 2, 2
+  size: 187, 61
+  orig: 189, 63
+  offset: 1, 1
+  index: -1
+Layer 35 copy 30
+  rotate: true
+  xy: 280, 42
+  size: 209, 60
+  orig: 211, 62
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 342, 206
+  size: 45, 45
+  orig: 47, 47
+  offset: 1, 1
+  index: -1

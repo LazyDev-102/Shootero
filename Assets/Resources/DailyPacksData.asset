@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bf55171beefa9246b8c990708441e09, type: 3}
+  m_Name: DailyPacksData
+  m_EditorClassIdentifier: 
+  packs:
+  - buttonKey: 0
+    packName: Supply Pack
+    isFree: 1
+    checkinDay: 0
+    checkinYear: 0
+    multiChipAfk: 0
+    multiMaterialAfk: 0
+    iapKey: com.shootero.supplypack
+    defaulIap: 0
+    productType: 0
+    rewards:
+    - id: 2
+      amount: 30
+    - id: 3
+      amount: 5
+  - buttonKey: 0
+    packName: Growth Pack
+    isFree: 0
+    checkinDay: 0
+    checkinYear: 0
+    multiChipAfk: 8
+    multiMaterialAfk: 8
+    iapKey: com.shootero.dailypacks1
+    defaulIap: 0
+    productType: 0
+    rewards:
+    - id: 1
+      amount: 640
+    - id: 906
+      amount: 3
+  - buttonKey: 0
+    packName: Resources Pack
+    isFree: 0
+    checkinDay: 0
+    checkinYear: 0
+    multiChipAfk: 8
+    multiMaterialAfk: 8
+    iapKey: com.shootero.dailypacks2
+    defaulIap: 0
+    productType: 0
+    rewards:
+    - id: 2
+      amount: 200
+    - id: 1
+      amount: 640
+    - id: 906
+      amount: 3
+    - id: 3
+      amount: 10

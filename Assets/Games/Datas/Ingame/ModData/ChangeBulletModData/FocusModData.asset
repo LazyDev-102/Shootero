@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db225c4c3b5b1d641b6688b9fbfea902, type: 3}
+  m_Name: FocusModData
+  m_EditorClassIdentifier: 
+  modId: 5
+  type: 0
+  nameMod: Focus
+  modDescription: Smaller bullet but higher critical chance
+  icon: {fileID: 21300000, guid: cb96924c25ef3d54f92e65290128107a, type: 3}
+  rarity: 3
+  maxStack: 1
+  levelRequire: 0
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []
+  bulletSizePercent:
+    Value: -0.2
+    Type: 1
+    Order: 0
+  bulletCritChancePercent:
+    Value: 15
+    Type: 0
+    Order: 0

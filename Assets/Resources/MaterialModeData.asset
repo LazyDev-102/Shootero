@@ -1,0 +1,610 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7daae4c4423c96a4cab98c040b64db35, type: 3}
+  m_Name: MaterialModeData
+  m_EditorClassIdentifier: 
+  energyNeed:
+    i: 3
+    a: 5
+  maxTurn: 3
+  weekDatas:
+  - data:
+    - {fileID: 11400000, guid: 42ca48b0b1c8fa84996a48a1ab796de3, type: 2}
+    - {fileID: 11400000, guid: 0bf3590fb20ce3f4ea95e8906bbc10af, type: 2}
+    - {fileID: 11400000, guid: f8b037a73ad5db846b154750f1736890, type: 2}
+    - {fileID: 11400000, guid: 2dfc4f71a5b7bfc42b2d14bf8de9789c, type: 2}
+    - {fileID: 11400000, guid: a9e9578366d40bf438ce73cdf3f6eadd, type: 2}
+    - {fileID: 11400000, guid: f170769d34fa1d44ea05a14ad30571f8, type: 2}
+    - {fileID: 11400000, guid: 411698e35c090574cad680753270fc6d, type: 2}
+    - {fileID: 11400000, guid: c3b872b275a78a748bf9f3c975d81c63, type: 2}
+    - {fileID: 11400000, guid: e9aaebbc97769e74f99b9b207401a30c, type: 2}
+    - {fileID: 11400000, guid: 4b47113695714b2469239729f6e9fb80, type: 2}
+    eIds: 0c0000000b000000090000000a00000004000000100000000f0000001100000001000000
+    mbIds: 05000000070000000a0000000b000000090000000f000000010000000e0000000c0000000d0000001000000011000000
+    bossIds: 03000000040000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
+    trapIds: 010000000200000003000000
+  - data:
+    - {fileID: 11400000, guid: 16f5df0a46871cc40bd5fd3800ae37ac, type: 2}
+    - {fileID: 11400000, guid: e3df419d5a775b343adae03ee3135368, type: 2}
+    - {fileID: 11400000, guid: 3e735e5d8a301234f977dfa4d008ad55, type: 2}
+    - {fileID: 11400000, guid: dd0c8606846b1644db8ff2e826d7373c, type: 2}
+    - {fileID: 11400000, guid: 83a120971e8412740ba2f7881f4177d6, type: 2}
+    - {fileID: 11400000, guid: 083b62c67917f36449e6859b6436b82c, type: 2}
+    - {fileID: 11400000, guid: 4ae8749f031e55c4493b177d3214b039, type: 2}
+    - {fileID: 11400000, guid: c4ce6e1ad5368ff4495b956d8cf91af7, type: 2}
+    - {fileID: 11400000, guid: 846f6c565daeb1143a6fea9dd522e0d0, type: 2}
+    - {fileID: 11400000, guid: cf64d1ccc383fc64197257fef8713897, type: 2}
+    eIds: 010000000200000003000000110000000f000000
+    mbIds: 02000000030000000a0000000b000000
+    bossIds: 01000000020000000e000000
+    trapIds: 0100000002000000
+  - data:
+    - {fileID: 11400000, guid: 83a78feb13b647f4eb035fc342f94564, type: 2}
+    - {fileID: 11400000, guid: de979bd9c862bd04f8e1089ef6c8eb94, type: 2}
+    - {fileID: 11400000, guid: 6b5e7f06eb36bbb4ba1ba4e07bc33f97, type: 2}
+    - {fileID: 11400000, guid: 9dd349e0265195247a5c0cbdf934ea6b, type: 2}
+    - {fileID: 11400000, guid: 841474e4b88693e41a9b48a7766d172e, type: 2}
+    - {fileID: 11400000, guid: 7c9fba06d2ed22446b606f65adf450f1, type: 2}
+    - {fileID: 11400000, guid: 3ede13d0513a6dd4ba38fa867da46657, type: 2}
+    - {fileID: 11400000, guid: 990131860f65f784ea33df8f6c7b1798, type: 2}
+    - {fileID: 11400000, guid: ce50a20ce9b2b8d4da379bd2f392ea34, type: 2}
+    - {fileID: 11400000, guid: 9284bc8a2205a8c4ea8277b31747b84a, type: 2}
+    eIds: 01000000080000000e0000000400000010000000
+    mbIds: 05000000070000000c0000000d000000
+    bossIds: 03000000040000000c0000000d000000
+    trapIds: 0200000003000000
+  - data:
+    - {fileID: 11400000, guid: 3a4521ed60c03604b953e8a13e3a351b, type: 2}
+    - {fileID: 11400000, guid: c6ffcc4c13d103245880c2e1b66625ba, type: 2}
+    - {fileID: 11400000, guid: ef3b5f94e1844c04d86afd2acb7511a7, type: 2}
+    - {fileID: 11400000, guid: c55fcbc69fcfece4eac8d4624152c6b8, type: 2}
+    - {fileID: 11400000, guid: c578f91898d856e47a1c0dc95cdb0dbb, type: 2}
+    - {fileID: 11400000, guid: f218b5b7351c6144b94c6780ee09b465, type: 2}
+    - {fileID: 11400000, guid: fc9264e9f07496943851b1d2e0be7a45, type: 2}
+    - {fileID: 11400000, guid: efe2e6ebc2100eb48929a0320dba1216, type: 2}
+    - {fileID: 11400000, guid: 6df49ba6b90c14c48b48571ff29fdbc1, type: 2}
+    - {fileID: 11400000, guid: d83bd9d23b451004faa23588a4d8ccb3, type: 2}
+    eIds: 010000000c0000000b0000000d00000006000000
+    mbIds: 040000000600000008000000090000000f000000
+    bossIds: 0500000007000000090000000b000000
+    trapIds: 0300000001000000
+  - data:
+    - {fileID: 11400000, guid: 8241354bac74bee46b80f6400e4e9066, type: 2}
+    - {fileID: 11400000, guid: 64dbbc857e47a584fb6e9e33d929dac5, type: 2}
+    - {fileID: 11400000, guid: bd72957274a48da44850c5103892ed60, type: 2}
+    - {fileID: 11400000, guid: de946f9f4470d5e40a18f303ae44ca4e, type: 2}
+    - {fileID: 11400000, guid: c4e659ee7000bc441911a1b8a1a26fb6, type: 2}
+    - {fileID: 11400000, guid: 5e8013f6fcde5a347856e75070fc58a6, type: 2}
+    - {fileID: 11400000, guid: 157f530768f6e6f42a535d720ab6cdb9, type: 2}
+    - {fileID: 11400000, guid: de213512972709845b39d8c5eafe77d7, type: 2}
+    - {fileID: 11400000, guid: 4e17fe7d59c23f343838bb536ea6f461, type: 2}
+    - {fileID: 11400000, guid: eae157f5f44e01245a0e9bc85bff48f8, type: 2}
+    eIds: 01000000090000000a0000000700000005000000
+    mbIds: 010000000e0000001000000011000000
+    bossIds: 06000000080000000a000000
+    trapIds: 0100000003000000
+  - data:
+    - {fileID: 11400000, guid: 0730d8e185919294ea32e61967044c33, type: 2}
+    - {fileID: 11400000, guid: 50693d834f675f74ebab35f23a824103, type: 2}
+    - {fileID: 11400000, guid: 780be8f6e06e22e479d60cf3d46e46d6, type: 2}
+    - {fileID: 11400000, guid: 11054022ab0b8eb4c833672716ca04be, type: 2}
+    - {fileID: 11400000, guid: d069fba4f49b76d4cae07df028d6c2ad, type: 2}
+    - {fileID: 11400000, guid: 0f2488f0f38f4aa4c85faa9cabbc7b0b, type: 2}
+    - {fileID: 11400000, guid: e9814091c55c05f439f8956ee4ec9e62, type: 2}
+    - {fileID: 11400000, guid: 8513ff06dd83e7341924f9fe55e8da64, type: 2}
+    - {fileID: 11400000, guid: c5c38207894faf14ca943911f865b0cb, type: 2}
+    - {fileID: 11400000, guid: 23b5cf75f45bef243bf7e03d03940701, type: 2}
+    eIds: 0100000002000000030000000d00000006000000
+    mbIds: 0400000006000000080000000b0000000d000000
+    bossIds: 0c0000000e0000000d000000
+    trapIds: 0200000001000000
+  - data:
+    - {fileID: 11400000, guid: 0b13de93e1cbd2946b0765bdd761e426, type: 2}
+    - {fileID: 11400000, guid: 13ad506da39936843b0e9a45bfebd88b, type: 2}
+    - {fileID: 11400000, guid: ddc0c70ad05a2fb4bb8635a2da232a27, type: 2}
+    - {fileID: 11400000, guid: 50c7ea3a15ced764e998566f725254ce, type: 2}
+    - {fileID: 11400000, guid: 47352d526cc031d419d4f4d612800b65, type: 2}
+    - {fileID: 11400000, guid: 34d113e8d1724a245b29ebb91997f88a, type: 2}
+    - {fileID: 11400000, guid: 7bbd310f3a6f50d45ae2b7141fb3b46b, type: 2}
+    - {fileID: 11400000, guid: 2798fa93f76b8654eb5b23d944def3f0, type: 2}
+    - {fileID: 11400000, guid: 43876dad5c0443a47ae2001fee43d0b3, type: 2}
+    - {fileID: 11400000, guid: 0089748d6511dcb49a26d8508fdb98d8, type: 2}
+    eIds: 01000000080000000e0000000500000007000000
+    mbIds: 0400000006000000080000000a0000000c000000
+    bossIds: 02000000040000000d0000000e000000
+    trapIds: 0200000003000000
+  materialModeInfos:
+  - sytemLevel: 10
+    timeLimit: 63
+    maxWave: 3
+    multiDifficult: 1
+    reward:
+    - rewardPerWave:
+      - id: 1
+        amount: 1000
+      - id: 5
+        amount: 100
+      - id: 900
+        amount: 1
+      - id: 901
+        amount: 1
+      - id: 902
+        amount: 1
+      - id: 903
+        amount: 1
+      - id: 904
+        amount: 1
+      fullReward:
+      - id: 1
+        amount: 4500
+      - id: 5
+        amount: 450
+      - id: 900
+        amount: 6
+      - id: 901
+        amount: 4
+      - id: 902
+        amount: 4
+      - id: 903
+        amount: 5
+      - id: 904
+        amount: 4
+    - rewardPerWave:
+      - id: 900
+        amount: 5
+      fullReward:
+      - id: 900
+        amount: 23
+    - rewardPerWave:
+      - id: 901
+        amount: 5
+      fullReward:
+      - id: 901
+        amount: 23
+    - rewardPerWave:
+      - id: 902
+        amount: 5
+      fullReward:
+      - id: 902
+        amount: 23
+    - rewardPerWave:
+      - id: 903
+        amount: 5
+      fullReward:
+      - id: 903
+        amount: 23
+    - rewardPerWave:
+      - id: 904
+        amount: 5
+      fullReward:
+      - id: 904
+        amount: 23
+    - rewardPerWave:
+      - id: 5
+        amount: 100
+      - id: 1
+        amount: 1000
+      fullReward:
+      - id: 5
+        amount: 450
+      - id: 1
+        amount: 4500
+  - sytemLevel: 20
+    timeLimit: 93
+    maxWave: 5
+    multiDifficult: 2
+    reward:
+    - rewardPerWave:
+      - id: 1
+        amount: 2000
+      - id: 5
+        amount: 200
+      - id: 900
+        amount: 2
+      - id: 901
+        amount: 2
+      - id: 902
+        amount: 2
+      - id: 903
+        amount: 2
+      - id: 904
+        amount: 2
+      fullReward:
+      - id: 1
+        amount: 15000
+      - id: 5
+        amount: 1500
+      - id: 900
+        amount: 15
+      - id: 901
+        amount: 15
+      - id: 902
+        amount: 15
+      - id: 903
+        amount: 15
+      - id: 904
+        amount: 15
+    - rewardPerWave:
+      - id: 900
+        amount: 10
+      fullReward:
+      - id: 900
+        amount: 75
+    - rewardPerWave:
+      - id: 901
+        amount: 10
+      fullReward:
+      - id: 901
+        amount: 75
+    - rewardPerWave:
+      - id: 902
+        amount: 10
+      fullReward:
+      - id: 902
+        amount: 75
+    - rewardPerWave:
+      - id: 903
+        amount: 10
+      fullReward:
+      - id: 903
+        amount: 75
+    - rewardPerWave:
+      - id: 904
+        amount: 10
+      fullReward:
+      - id: 904
+        amount: 75
+    - rewardPerWave:
+      - id: 1
+        amount: 2000
+      - id: 5
+        amount: 200
+      fullReward:
+      - id: 1
+        amount: 15000
+      - id: 5
+        amount: 1500
+  - sytemLevel: 30
+    timeLimit: 123
+    maxWave: 7
+    multiDifficult: 3
+    reward:
+    - rewardPerWave:
+      - id: 1
+        amount: 3000
+      - id: 5
+        amount: 300
+      - id: 900
+        amount: 3
+      - id: 901
+        amount: 3
+      - id: 902
+        amount: 3
+      - id: 903
+        amount: 3
+      - id: 904
+        amount: 3
+      fullReward:
+      - id: 1
+        amount: 31500
+      - id: 5
+        amount: 3150
+      - id: 900
+        amount: 52
+      - id: 901
+        amount: 51
+      - id: 902
+        amount: 52
+      - id: 903
+        amount: 52
+      - id: 904
+        amount: 51
+    - rewardPerWave:
+      - id: 900
+        amount: 15
+      fullReward:
+      - id: 900
+        amount: 158
+    - rewardPerWave:
+      - id: 901
+        amount: 15
+      fullReward:
+      - id: 901
+        amount: 158
+    - rewardPerWave:
+      - id: 902
+        amount: 15
+      fullReward:
+      - id: 902
+        amount: 158
+    - rewardPerWave:
+      - id: 903
+        amount: 15
+      fullReward:
+      - id: 903
+        amount: 158
+    - rewardPerWave:
+      - id: 904
+        amount: 15
+      fullReward:
+      - id: 904
+        amount: 158
+    - rewardPerWave:
+      - id: 1
+        amount: 3000
+      - id: 5
+        amount: 300
+      fullReward:
+      - id: 1
+        amount: 31500
+      - id: 5
+        amount: 3150
+  - sytemLevel: 40
+    timeLimit: 213
+    maxWave: 9
+    multiDifficult: 4
+    reward:
+    - rewardPerWave:
+      - id: 1
+        amount: 4000
+      - id: 5
+        amount: 400
+      - id: 900
+        amount: 4
+      - id: 901
+        amount: 4
+      - id: 902
+        amount: 4
+      - id: 903
+        amount: 4
+      - id: 904
+        amount: 4
+      fullReward:
+      - id: 1
+        amount: 54000
+      - id: 5
+        amount: 5400
+      - id: 900
+        amount: 54
+      - id: 901
+        amount: 54
+      - id: 902
+        amount: 54
+      - id: 903
+        amount: 54
+      - id: 904
+        amount: 54
+    - rewardPerWave:
+      - id: 900
+        amount: 20
+      fullReward:
+      - id: 900
+        amount: 270
+    - rewardPerWave:
+      - id: 901
+        amount: 20
+      fullReward:
+      - id: 901
+        amount: 270
+    - rewardPerWave:
+      - id: 902
+        amount: 20
+      fullReward:
+      - id: 902
+        amount: 270
+    - rewardPerWave:
+      - id: 903
+        amount: 20
+      fullReward:
+      - id: 903
+        amount: 270
+    - rewardPerWave:
+      - id: 904
+        amount: 20
+      fullReward:
+      - id: 904
+        amount: 270
+    - rewardPerWave:
+      - id: 1
+        amount: 4000
+      - id: 5
+        amount: 400
+      fullReward:
+      - id: 1
+        amount: 54000
+      - id: 5
+        amount: 5400
+  - sytemLevel: 50
+    timeLimit: 243
+    maxWave: 10
+    multiDifficult: 5
+    reward:
+    - rewardPerWave:
+      - id: 1
+        amount: 5000
+      - id: 5
+        amount: 500
+      - id: 900
+        amount: 5
+      - id: 901
+        amount: 5
+      - id: 902
+        amount: 5
+      - id: 903
+        amount: 5
+      - id: 904
+        amount: 5
+      fullReward:
+      - id: 1
+        amount: 75000
+      - id: 5
+        amount: 7500
+      - id: 900
+        amount: 75
+      - id: 901
+        amount: 75
+      - id: 902
+        amount: 75
+      - id: 903
+        amount: 75
+      - id: 904
+        amount: 75
+    - rewardPerWave:
+      - id: 900
+        amount: 25
+      fullReward:
+      - id: 900
+        amount: 375
+    - rewardPerWave:
+      - id: 901
+        amount: 25
+      fullReward:
+      - id: 901
+        amount: 375
+    - rewardPerWave:
+      - id: 902
+        amount: 25
+      fullReward:
+      - id: 902
+        amount: 375
+    - rewardPerWave:
+      - id: 903
+        amount: 25
+      fullReward:
+      - id: 903
+        amount: 375
+    - rewardPerWave:
+      - id: 904
+        amount: 25
+      fullReward:
+      - id: 904
+        amount: 375
+    - rewardPerWave:
+      - id: 1
+        amount: 5000
+      - id: 5
+        amount: 500
+      fullReward:
+      - id: 1
+        amount: 75000
+      - id: 5
+        amount: 7500
+  obstacles:
+  - buffType: 0
+    buffShape: 1
+    buffSize: 3
+    spawnArea:
+    - pointTopRight: {x: 0.8, y: 0.5}
+      pointBotLeft: {x: 0.2, y: 0.2}
+    action: {fileID: 11400000, guid: 7e92fdb704c06c74c9c3fb910d910fea, type: 2}
+    isLimit: 1
+    description: Increase Attack
+    count:
+      startValue: 1
+      endValue: 1
+  - buffType: 1
+    buffShape: 1
+    buffSize: 2
+    spawnArea:
+    - pointTopRight: {x: 0.25, y: 0.1}
+      pointBotLeft: {x: 0.25, y: 0.1}
+    - pointTopRight: {x: 0.75, y: 0.1}
+      pointBotLeft: {x: 0.75, y: 0.1}
+    action: {fileID: 11400000, guid: 9a8d2470f72687c429c421012f8431e4, type: 2}
+    isLimit: 0
+    description: Heal
+    count:
+      startValue: 2
+      endValue: 2
+  - buffType: 3
+    buffShape: 0
+    buffSize: 0
+    spawnArea:
+    - pointTopRight: {x: 0.5, y: 0.3}
+      pointBotLeft: {x: 0.5, y: 0.1}
+    action: {fileID: 11400000, guid: 639466fb02c717740af9540dce183405, type: 2}
+    isLimit: 1
+    description: Increase Crit Rate and Crit Damage
+    count:
+      startValue: 1
+      endValue: 1
+  - buffType: 4
+    buffShape: 0
+    buffSize: 0
+    spawnArea:
+    - pointTopRight: {x: 0.2, y: 0.3}
+      pointBotLeft: {x: 0.8, y: 0.3}
+    action: {fileID: 11400000, guid: 66434ed9b32f5ee45bc8449b7a740a0a, type: 2}
+    isLimit: 1
+    description: Increase Attack Speed
+    count:
+      startValue: 1
+      endValue: 1
+  - buffType: 6
+    buffShape: 0
+    buffSize: 2
+    spawnArea:
+    - pointTopRight: {x: 0.8, y: 0.3}
+      pointBotLeft: {x: 0.8, y: 0.3}
+    - pointTopRight: {x: 0.2, y: 0.3}
+      pointBotLeft: {x: 0.2, y: 0.3}
+    action: {fileID: 11400000, guid: b0666d2547ca866498c21070ca25677c, type: 2}
+    isLimit: 0
+    description: Damage over time
+    count:
+      startValue: 2
+      endValue: 2
+  - buffType: 7
+    buffShape: 1
+    buffSize: 2
+    spawnArea:
+    - pointTopRight: {x: 0.9, y: 0.2}
+      pointBotLeft: {x: 0.1, y: 0.1}
+    - pointTopRight: {x: 0.4, y: 0.5}
+      pointBotLeft: {x: 0.1, y: 0.3}
+    - pointTopRight: {x: 0.9, y: 0.5}
+      pointBotLeft: {x: 0.6, y: 0.3}
+    action: {fileID: 11400000, guid: 5c8361eead56e0d40a5a0b887116ec4a, type: 2}
+    isLimit: 1
+    description: Decrease Attack
+    count:
+      startValue: 3
+      endValue: 3
+  - buffType: 8
+    buffShape: 0
+    buffSize: 0
+    spawnArea:
+    - pointTopRight: {x: 0.4, y: 0.5}
+      pointBotLeft: {x: 0.1, y: 0.1}
+    - pointTopRight: {x: 0.9, y: 0.5}
+      pointBotLeft: {x: 0.6, y: 0.1}
+    action: {fileID: 11400000, guid: 3b908abfbf82ac144b45848a52208627, type: 2}
+    isLimit: 1
+    description: Decrease Attack Speed
+    count:
+      startValue: 2
+      endValue: 2
+  - buffType: 5
+    buffShape: 0
+    buffSize: 0
+    spawnArea:
+    - pointTopRight: {x: 0.8, y: 0.5}
+      pointBotLeft: {x: 0.2, y: 0.2}
+    action: {fileID: 11400000, guid: 6902265e827cf7d4199c97f8e2393bc6, type: 2}
+    isLimit: 0
+    description: Instant Death
+    count:
+      startValue: 1
+      endValue: 1
+  obstacleSpawnPos:
+    pointTopRight: {x: 0.6, y: 0.6}
+    pointBotLeft: {x: 0.1, y: 0.1}

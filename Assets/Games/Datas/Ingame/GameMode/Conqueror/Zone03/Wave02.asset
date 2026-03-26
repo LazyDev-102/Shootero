@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e5ed00ada02c6a4c8ff956c89bc476a, type: 3}
+  m_Name: Wave02
+  m_EditorClassIdentifier: 
+  preStartCondition: []
+  preEndCondition:
+  - {fileID: 11400000, guid: 4517395354f035048880247bf8bf74ba, type: 2}
+  waveMultipler: 1.29
+  difficult: 0
+  rangeChip:
+    startValue: 50
+    endValue: 60
+  rangeHealOrb:
+    startValue: 1
+    endValue: 1
+  rangeMaterial:
+    startValue: 1
+    endValue: 1
+  rangeGear:
+    startValue: 1
+    endValue: 1
+  rangeReroll:
+    startValue: 0
+    endValue: 0
+  waveType: 2
+  enemyIds: 01000000080000000c000000
+  trapIds: 03000000
+  setEventRules: []
+  configModeWaves:
+    limitRange:
+      startValue: 5
+      endValue: 6
+    timeRange:
+      startValue: 15
+      endValue: 20
+  difficultPercents:
+    typePercents:
+    - type: 0
+      percent: 60
+    - type: 1
+      percent: 30
+    - type: 2
+      percent: 10
+  trapDifficultPercents:
+    typePercents:
+    - type: 0
+      percent: 60
+    - type: 1
+      percent: 30
+    - type: 2
+      percent: 10
+    limitTrap: 1

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a46b4fb106c18945a355d26f24328db, type: 3}
+  m_Name: RankData 1
+  m_EditorClassIdentifier: 
+  id: 0
+  icon: {fileID: 21300000, guid: 799ff67506b655342b799066e72ba605, type: 3}
+  rankName: Rank 1
+  miniRankDatas:
+  - rankName: Rank 1-1
+    icon: {fileID: 21300000, guid: 303993cce232d534b87935d6fae64210, type: 3}
+    rPRequire: 10
+    instantReward:
+    - id: 1
+      amount: 10
+  - rankName: Rank 1-2
+    icon: {fileID: 21300000, guid: d24ddf7e8e6d2bc449bfae987e92375b, type: 3}
+    rPRequire: 20
+    instantReward:
+    - id: 1
+      amount: 20
+  - rankName: Rank 1-3
+    icon: {fileID: 21300000, guid: 6bbfa91c1c3c7964290449ae62ce86bf, type: 3}
+    rPRequire: 30
+    instantReward:
+    - id: 1
+      amount: 30
+  seasonRewards: []

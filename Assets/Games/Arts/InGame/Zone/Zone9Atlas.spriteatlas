@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zone9Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 34a753759427381478908b85a966fe89, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2887d521b42ae2046b848371acdbe868, type: 3}
+  - {fileID: 21300000, guid: 7d8357211af92654d965535fd1e7c277, type: 3}
+  - {fileID: 21300000, guid: 6088d541966e2e64aa06b04e5856d226, type: 3}
+  - {fileID: 21300000, guid: 66d8389192e7d7a4eb0a7eaa42a0ff68, type: 3}
+  - {fileID: 21300000, guid: ee15e262b93d8d54dac7ea8701629500, type: 3}
+  - {fileID: 21300000, guid: 01f0f0a24fb989c4f83be15385cd3179, type: 3}
+  - {fileID: 21300000, guid: c7bc09f275e016b4eb787d25a7783285, type: 3}
+  - {fileID: 21300000, guid: 8b98b3030f61e824280da1e04678076d, type: 3}
+  - {fileID: 21300000, guid: 60aa199327488ab489b18412f593db19, type: 3}
+  - {fileID: 21300000, guid: ef62620445daca14c865f851bba845d8, type: 3}
+  - {fileID: 21300000, guid: 41d621447a5990f428b18019b04d2620, type: 3}
+  - {fileID: 21300000, guid: 820ccf6467195a1468fa0fd2fdc870df, type: 3}
+  - {fileID: 21300000, guid: e3cae3c4ca36acf45a98b7f4680b6620, type: 3}
+  - {fileID: 21300000, guid: 0de83b1583d2f264ba7b63c9511fa448, type: 3}
+  - {fileID: 21300000, guid: a096eb15653ba2b4eb76e8846a967491, type: 3}
+  - {fileID: 21300000, guid: 5ff39b95446c2c4488533ab88a9a8249, type: 3}
+  - {fileID: 21300000, guid: 63f92da56f4534b48a883f32daaf3e73, type: 3}
+  - {fileID: 21300000, guid: 68d4ce18c7df0b344b44072395f8c439, type: 3}
+  - {fileID: 21300000, guid: 26ab6878f6c5f024982ed28a44324b8e, type: 3}
+  - {fileID: 21300000, guid: c6d595c871131624da99b746a2d783a5, type: 3}
+  - {fileID: 21300000, guid: 796aa22a19014f44bbbe85e858cf9a1f, type: 3}
+  - {fileID: 21300000, guid: 9854c1dd76db3a443b4fe86dabcac97d, type: 3}
+  - {fileID: 21300000, guid: 7188a4ed08728944e8cf0b5bc97cb757, type: 3}
+  - {fileID: 21300000, guid: 6cbe242e6d5cffa47b6ba2b8270dc8f9, type: 3}
+  - {fileID: 21300000, guid: 686f3bde90225864cbd8129060d9f860, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - e01-9-b
+  - e01-9-e
+  - z9_deco S2
+  - e01-9-d
+  - e16-9-bullet1
+  - e16-9-C
+  - z9_deco S1
+  - e01-9-a
+  - e15-9-C
+  - e04-9-C
+  - z9_deco S4
+  - e13-9-N
+  - e16-9-E
+  - z9_deco B2
+  - e13-9-E
+  - e15-9-E
+  - z9_deco B1
+  - e13-9-C
+  - e01-9-c
+  - e04-9-E
+  - e16-9-bullet2
+  - e16-9-N
+  - e15-9-N
+  - e04-9-N
+  - z9_deco S3
+  m_RenderDataMap: {}
+  m_Tag: Zone9Atlas
+  m_IsVariant: 0

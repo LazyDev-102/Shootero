@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f61c251899b877c45b7296f55291e454, type: 3}
+  m_Name: XmasPackCoinData
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 690e839888bbf4043a550b2134340121, type: 3}
+  id: 6100
+  displayName: Xmas Chip Pack
+  description: Xmas Chip Pack
+  price:
+    i: 21
+    a: 10
+  iapKey: 
+  defaulIap: 0
+  iapSaleKey: 
+  defaulSale: 0
+  productType: 0
+  remoteKey: 
+  isFake: 0
+  fakeMulti: 0
+  isSale: 0
+  itemClaims:
+  - id: 1
+    amount: 100
+  buyablePerDay: 100

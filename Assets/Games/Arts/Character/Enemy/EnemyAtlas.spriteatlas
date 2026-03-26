@@ -1,0 +1,116 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: EnemyAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 48
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 6699f1689c2ea984089bc1de79fee57a, type: 3}
+    - {fileID: 102900000, guid: 6e4b95f37a50e9c49b364f62a51d8806, type: 3}
+    - {fileID: 102900000, guid: 21a0b450f302d5d43a5a479e7aa7aefd, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: ccbb96a13c29bc3449f96f401a53d56c, type: 3}
+  - {fileID: 21300000, guid: 834a6bd100afa47478af05c0c607ae20, type: 3}
+  - {fileID: 21300000, guid: 043b02421ed2d8b4d95e24733c4481bc, type: 3}
+  - {fileID: 21300000, guid: bdbef413724558a47a999e1ed858a60c, type: 3}
+  - {fileID: 21300000, guid: 3ee55253739e0ba4996f2992b70a692f, type: 3}
+  - {fileID: 21300000, guid: 7bdb2f24a46e5694f98efc479f3c2361, type: 3}
+  - {fileID: 21300000, guid: 297f4d64c04cda446842392f00f7f933, type: 3}
+  - {fileID: 21300000, guid: 2673c1c4d380a7b4787c5ee0af3de185, type: 3}
+  - {fileID: 21300000, guid: 79daccc425d0cab4ab8b8eb714f3036f, type: 3}
+  - {fileID: 21300000, guid: e5fa9d95f814a904da1fe7e1b27aa69a, type: 3}
+  - {fileID: 21300000, guid: b4aae7b5b71934f41a0bdd511bd7de71, type: 3}
+  - {fileID: 21300000, guid: 494deeb54c63dab41898d871b80a55a2, type: 3}
+  - {fileID: 21300000, guid: 21986208f7125e04da63358ce450d7e0, type: 3}
+  - {fileID: 21300000, guid: 90f9e928722734642badb9e282fa4e1c, type: 3}
+  - {fileID: 21300000, guid: 080a46783da45774a84e607863f609d4, type: 3}
+  - {fileID: 21300000, guid: 9a12a8a93ec9dd14593239fa45b77336, type: 3}
+  - {fileID: 21300000, guid: 0615eca9d3487e349a363a5648dc2783, type: 3}
+  - {fileID: 21300000, guid: 1ac856d95c1695047b82d117179d8588, type: 3}
+  - {fileID: 21300000, guid: 6ed18f7a417e96e46a959bdd74f2072e, type: 3}
+  - {fileID: 21300000, guid: 4d43b51bec96e5c4681c784d0487e036, type: 3}
+  - {fileID: 21300000, guid: 93d8ba4b3363907419606040b7855237, type: 3}
+  - {fileID: 21300000, guid: 298fae4d8193fb44997378fad34bbddf, type: 3}
+  - {fileID: 21300000, guid: 0eddfe4fbe25e5d45b63405bfe1e6719, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - t1_2
+  - t3_1
+  - e10_bullet3
+  - e5_bullet1
+  - t2_1
+  - e10_3
+  - e10_2
+  - t1_4
+  - e10_bullet2
+  - t3_2
+  - t1_1
+  - e10_bullet1
+  - e9_2
+  - b8_bullet spec
+  - t2_bullet
+  - chest_chip
+  - e9_1
+  - t1_3
+  - e9_3
+  - e10_1
+  - e5_bullet2
+  - e9_bullet
+  - t1_0
+  m_RenderDataMap: {}
+  m_Tag: EnemyAtlas
+  m_IsVariant: 0

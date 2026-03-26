@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62a719a108a89849b738ddb8a2e1d52, type: 3}
+  m_Name: HalloweenMissionDefeatMiniBoss04
+  m_EditorClassIdentifier: 
+  nameMission: Defeat MiniBoss
+  missionDescription: Defeat {0} Mini-bosses in Terror Space
+  pointTarget: 50
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 19
+    amount: 400
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 30270000
+  descriptionWithTarget: 1
+  halloweenCondition: {fileID: 11400000, guid: f046d5613f7ab9d4aab31c9e9cc8bab3, type: 2}
+  nextMission: {fileID: 11400000, guid: 0aca1714273cd3d409b834e02f936671, type: 2}
+  upgradeCondition: {fileID: 0}

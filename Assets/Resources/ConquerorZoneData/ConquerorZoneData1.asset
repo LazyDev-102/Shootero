@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a441ddb3593819c4da7804bbb211546f, type: 3}
+  m_Name: ConquerorZoneData1
+  m_EditorClassIdentifier: 
+  source: {fileID: 0}
+  nameZone: Alpha Nebula
+  icon: {fileID: 21300000, guid: ef5155a1d0f5cdd47b88e2905c77d8f3, type: 3}
+  difficultMultiplier: 1
+  waveDatas:
+  - {fileID: 11400000, guid: 4109a44bf78c6694c975f252935dab8b, type: 2}
+  - {fileID: 11400000, guid: 176ee3f35eb240a439ea45127df6816f, type: 2}
+  - {fileID: 11400000, guid: f938da051183fa84bab837d18046426d, type: 2}
+  - {fileID: 11400000, guid: 45b26d09486eb1a4a84074a4537e62c0, type: 2}
+  - {fileID: 11400000, guid: 9500d6d619d41d646beade3528ff0ec2, type: 2}
+  - {fileID: 11400000, guid: 92f407042823af34497e917e1d5bc100, type: 2}
+  - {fileID: 11400000, guid: 0224f0eed3a2136469a43f58d74725ef, type: 2}
+  - {fileID: 11400000, guid: 9f31d3b81074021418594d4a46b8f460, type: 2}
+  - {fileID: 11400000, guid: 0ee29e1ba440f90469383cfb08262884, type: 2}
+  - {fileID: 11400000, guid: 14983079fcdcfbb4abd6f012c1432369, type: 2}
+  - {fileID: 11400000, guid: 7868a6e4340dc544e90c74856d35afb0, type: 2}
+  - {fileID: 11400000, guid: d5646bb0116ef5d4583989e2457d1f04, type: 2}
+  - {fileID: 11400000, guid: 3f48011bc25094247a4b2649b8bc8233, type: 2}
+  - {fileID: 11400000, guid: 6851a643772a47543beb2ff207620ac6, type: 2}
+  - {fileID: 11400000, guid: c63de3f3b712e56409081b318a2c3232, type: 2}
+  - {fileID: 11400000, guid: 8609240989b737d4eb7fbb2dacdcb46f, type: 2}
+  - {fileID: 11400000, guid: b22962133b2311f46bec5f93344e304f, type: 2}
+  - {fileID: 11400000, guid: 987d5442be69caa46a97151c6adc02fc, type: 2}
+  - {fileID: 11400000, guid: 37ebd0a61979ea64b904ca8edfa01fb7, type: 2}
+  - {fileID: 11400000, guid: 5d7d4ee6b809de143a33f94a06d1e419, type: 2}
+  - {fileID: 11400000, guid: 592e309b5e4ca8145b2b7fdc0eef7811, type: 2}
+  - {fileID: 11400000, guid: 668816107b92f3d4e83de7eb78112e0a, type: 2}
+  - {fileID: 11400000, guid: acd093a7b28a1694dbf19ff8c0558c51, type: 2}
+  - {fileID: 11400000, guid: 380b9608236fa794fa2aa49477059eb2, type: 2}
+  - {fileID: 11400000, guid: ca7cfea4da2d24243a067528e3709c14, type: 2}
+  background:
+    staticBG: {fileID: 21300000, guid: 69f328f6883ada7438ee39bf16f5bd68, type: 3}
+    moveBGPrefab: {fileID: 7991348307957069275, guid: 610a2937a887d7847a79b388d07ff31f,
+      type: 3}
+  enemyIds: 01000000020000000300000008000000
+  minibossIds: 02000000030000000500000007000000
+  bossIds: 03000000
+  trapIds: 01000000
+  chestIds: 010000000200000003000000
+  minibossNumberPreload: 1
+  bossNumberPreload: 1
+  trapNumberPreload: 2
+  chestNumberPreload: 15
+  firstUnlock: 0

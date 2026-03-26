@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62a719a108a89849b738ddb8a2e1d52, type: 3}
+  m_Name: HalloweenMissionDefeatBoss03
+  m_EditorClassIdentifier: 
+  nameMission: Defeat Boss
+  missionDescription: Defeat {0} Bosses in Terror Space
+  pointTarget: 5
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 19
+    amount: 300
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 31270000
+  descriptionWithTarget: 1
+  halloweenCondition: {fileID: 11400000, guid: 2de439953b2d7a843845aac71f3de94f, type: 2}
+  nextMission: {fileID: 11400000, guid: 025b41dab9239834ebc4665f5c2c7a90, type: 2}
+  upgradeCondition: {fileID: 0}

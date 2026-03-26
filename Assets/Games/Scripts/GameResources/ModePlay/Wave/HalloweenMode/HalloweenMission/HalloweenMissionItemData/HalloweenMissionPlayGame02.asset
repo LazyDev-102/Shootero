@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62a719a108a89849b738ddb8a2e1d52, type: 3}
+  m_Name: HalloweenMissionPlayGame02
+  m_EditorClassIdentifier: 
+  nameMission: Play Halloween Mode
+  missionDescription: Play Terror Space {0} time
+  pointTarget: 2
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 19
+    amount: 200
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 32270000
+  descriptionWithTarget: 1
+  halloweenCondition: {fileID: 11400000, guid: 39d7caeada563c54aa9f2990630296dc, type: 2}
+  nextMission: {fileID: 11400000, guid: ac1b42f64a5051247828bb2b39f75a6b, type: 2}
+  upgradeCondition: {fileID: 0}

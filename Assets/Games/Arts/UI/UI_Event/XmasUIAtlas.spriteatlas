@@ -1,0 +1,124 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: XmasUIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: iPhone
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 50
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: d73e0b92705b4544f9e0cd1682d140ea, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: fb2d04220d2124b4c9404750e103d5f9, type: 3}
+  - {fileID: 21300000, guid: 54f75492c56281540965e093a04bba79, type: 3}
+  - {fileID: 21300000, guid: 0f2d20c2b9859944798ddc17093746ed, type: 3}
+  - {fileID: 21300000, guid: 48dfa874a42670447bdf963fe994e327, type: 3}
+  - {fileID: 21300000, guid: 839df226bdf540549b799213bbbbf462, type: 3}
+  - {fileID: 21300000, guid: 1d9973660ef8fcf4a8b511c2119de195, type: 3}
+  - {fileID: 21300000, guid: 54913d865ce7d3745b81c28f3da7c4ae, type: 3}
+  - {fileID: 21300000, guid: 2a2294778349a974c8e5ac12d6db197a, type: 3}
+  - {fileID: 21300000, guid: 93ecd7f882a2d454d82dc71a382ac9fb, type: 3}
+  - {fileID: 21300000, guid: b2cb89f82d44bf34393ee04c8621a720, type: 3}
+  - {fileID: 21300000, guid: 9c34ac095ad325a41a8373e4dadadc00, type: 3}
+  - {fileID: 21300000, guid: 517aa03938142434c8d033637e224788, type: 3}
+  - {fileID: 21300000, guid: c45fcc1b0b7db874da3cf502655f1f8d, type: 3}
+  - {fileID: 21300000, guid: 2595dc8b6a5ee0640bf1b558e7c47822, type: 3}
+  - {fileID: 21300000, guid: d4e4eacc232d9cd45a0becf7323c94fb, type: 3}
+  - {fileID: 21300000, guid: b8a97ddcb5416454eab81771724f1f35, type: 3}
+  - {fileID: 21300000, guid: a11ec19dc360ca44dbf6bbe3a89384a1, type: 3}
+  - {fileID: 21300000, guid: 640503adf4f35d442a04cfce65519575, type: 3}
+  - {fileID: 21300000, guid: 24cba60e13849bd41af4d48177e25a3d, type: 3}
+  - {fileID: 21300000, guid: 3a8ffcae1143afa4d8e4e124ac164a91, type: 3}
+  - {fileID: 21300000, guid: ba76ddbebd7755941b8d6a3412f6dabf, type: 3}
+  - {fileID: 21300000, guid: 84611ecfa77f3e34f87bb651d5c15fc7, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_weapon
+  - Btn_play
+  - icon_ticket
+  - icon_shield
+  - btn_out
+  - icon_name mode
+  - BG
+  - icon_tree
+  - icon_shock
+  - icon_BG
+  - icon_shock
+  - icon_mode
+  - Icon_ticket
+  - Btn_play
+  - frame_mode
+  - icon_reactor
+  - icon_done mission
+  - Btn_gift
+  - icon_ticket2
+  - icon_snowman
+  - icon_propulsion
+  - btn_green
+  m_RenderDataMap: {}
+  m_Tag: XmasUIAtlas
+  m_IsVariant: 0

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79e99420dba35f8408fd206d0b2ada02, type: 3}
+  m_Name: XmasMissionPlayGame02
+  m_EditorClassIdentifier: 
+  nameMission: Play Winterspace Mode
+  missionDescription: Play Winterspace {0} time
+  pointTarget: 2
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 21
+    amount: 200
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 4b2f0000
+  descriptionWithTarget: 1
+  XmasCondition: {fileID: 11400000, guid: 89c2c5038573f514886b694a7c17cd97, type: 2}
+  nextMission: {fileID: 11400000, guid: 59b5828b2eccd2b47abb9bdfc59f7251, type: 2}
+  isLastMission: 0

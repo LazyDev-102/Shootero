@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d62a719a108a89849b738ddb8a2e1d52, type: 3}
+  m_Name: HalloweenMissionDefeatEnemy02
+  m_EditorClassIdentifier: 
+  nameMission: Defeat Enemy
+  missionDescription: Defeat {0} enemies in Terror Space
+  pointTarget: 100
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 19
+    amount: 200
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 2f270000
+  descriptionWithTarget: 1
+  halloweenCondition: {fileID: 11400000, guid: d0aa3075b86d5724694f433cf0843c10, type: 2}
+  nextMission: {fileID: 11400000, guid: c0de159200b84434b87e48bee887d69d, type: 2}
+  upgradeCondition: {fileID: 0}

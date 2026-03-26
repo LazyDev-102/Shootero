@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fd07ee5a5d442428c5519b1cc345e3, type: 3}
+  m_Name: NormalChest
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 912e918ef0f29e941854071dec422158, type: 3}
+  id: 101
+  displayName: Normal Chest
+  description: Contains 1 <color=#B8B8B8>Basic</color> or <color=green>Common</color>
+    or <color=#14b1ff>Rare</color> Gear
+  price:
+    i: 2
+    a: 60
+  nextPrice:
+    i: 2
+    a: 60
+  numberSpecialOpen: 10
+  specialDescription: Get a <color=#14b1ff>Rare</color> Gear in
+  specialTypeDescription: 100% <color=#14b1ff>Rare</color> gear
+  normalData:
+  - rank: 0
+    probability: 75
+  - rank: 1
+    probability: 20
+  - rank: 2
+    probability: 5
+  specialData:
+  - rank: 0
+    probability: 0
+  - rank: 1
+    probability: 0
+  - rank: 2
+    probability: 100
+  keyOpen:
+    i: 111
+    a: 1
+  timeGetFree: 24
+  isOpenFreeWithAds: 1
+  gearCollector: {fileID: 11400000, guid: a50483eb6285b9c44821c6032d7add44, type: 2}
+  skinName: Skin1
+  showEffect: 0

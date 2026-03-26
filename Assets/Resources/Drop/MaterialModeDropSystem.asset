@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f37e10d6309dde4eb6c3c24a087e6c0, type: 3}
+  m_Name: MaterialModeDropSystem
+  m_EditorClassIdentifier: 
+  conquerorDrops:
+  - {fileID: 11400000, guid: a766eb0f552534e409b1af2bca87ee0d, type: 2}
+  - {fileID: 11400000, guid: 6c472952ea7c29b4fafd8e37ee2f0bd7, type: 2}
+  - {fileID: 11400000, guid: 9720ada90cc02c24db65ba63cd9bffad, type: 2}
+  conquerorChipDrop: {fileID: 11400000, guid: 24d0289e6602c654794b066be1822a89, type: 2}

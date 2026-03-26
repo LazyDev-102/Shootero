@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f43f8f72d5261134abba7e2c07d5332b, type: 3}
+  m_Name: DeathExplosionModData
+  m_EditorClassIdentifier: 
+  modId: 14
+  type: 0
+  nameMod: Death Explosion
+  modDescription: Chance to have enemy exploded on death
+  icon: {fileID: 21300000, guid: 30d66ef40f577fa4da278061e15a2da2, type: 3}
+  rarity: 3
+  maxStack: 1
+  levelRequire: 14
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []
+  chance: 50
+  explosioner: {fileID: 4458920662198669452, guid: 38f7f4af70de5d74587ea9cff5d4c94e,
+    type: 3}
+  radius: 2
+  damagePercent: 0.5
+  numberPreload: 10

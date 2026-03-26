@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7df4febad32b39543ad3ffa01a7fb03c, type: 3}
+  m_Name: ShotXPatternData_06
+  m_EditorClassIdentifier: 
+  patternInfos:
+  - attackSpeed: 3
+    damagePercent: 0.8
+    numberBullet: 1
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 45
+    angleDistance: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 3
+    damagePercent: 0.7
+    numberBullet: 2
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 22.5
+    angleDistance: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 3
+    damagePercent: 0.6
+    numberBullet: 3
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 15
+    angleDistance: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 3
+    damagePercent: 0.5
+    numberBullet: 4
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 11.25
+    angleDistance: 22.5
+    accelerationSpeed: 0
+    minSpeed: 0
+  focusPatternInfos:
+  - attackSpeed: 3
+    damagePercent: 0.8
+    numberBullet: 1
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 45
+    angleDistance: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 3
+    damagePercent: 0.7
+    numberBullet: 2
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 30
+    angleDistance: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 3
+    damagePercent: 0.6
+    numberBullet: 3
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 25
+    angleDistance: 20
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 3
+    damagePercent: 0.5
+    numberBullet: 4
+    speedBullet: 20
+    firePointDistance: 1
+    angleStart: 22.5
+    angleDistance: 15
+    accelerationSpeed: 0
+    minSpeed: 0

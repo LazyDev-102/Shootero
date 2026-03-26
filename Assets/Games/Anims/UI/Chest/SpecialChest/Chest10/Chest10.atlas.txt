@@ -1,0 +1,55 @@
+
+Chest10.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 744
+  rotate: false
+  xy: 2, 213
+  size: 335, 251
+  orig: 354, 271
+  offset: 10, 10
+  index: -1
+Layer 745 copy
+  rotate: true
+  xy: 206, 43
+  size: 46, 44
+  orig: 48, 48
+  offset: 1, 2
+  index: -1
+Layer 747
+  rotate: false
+  xy: 339, 308
+  size: 156, 156
+  orig: 166, 166
+  offset: 5, 5
+  index: -1
+Layer 748
+  rotate: false
+  xy: 206, 91
+  size: 120, 120
+  orig: 126, 126
+  offset: 3, 3
+  index: -1
+Layer 749
+  rotate: false
+  xy: 328, 2
+  size: 99, 99
+  orig: 107, 108
+  offset: 4, 4
+  index: -1
+chest2 copy 2
+  rotate: false
+  xy: 2, 63
+  size: 202, 148
+  orig: 216, 161
+  offset: 7, 7
+  index: -1
+chest2 copy 3
+  rotate: true
+  xy: 339, 103
+  size: 203, 149
+  orig: 215, 161
+  offset: 6, 6
+  index: -1

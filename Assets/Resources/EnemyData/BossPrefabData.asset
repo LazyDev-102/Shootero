@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fa68b245609c4e84db5965c48637e419, type: 3}
+  m_Name: BossPrefabData
+  m_EditorClassIdentifier: 
+  bosses:
+  - bossBG: {r: 1, g: 0.34509805, b: 0.2627451, a: 1}
+    bossBase: {fileID: 7508196367619310593, guid: c1964dc0653580d49a8daa76fa7bbfac,
+      type: 3}
+  - bossBG: {r: 0.58431375, g: 0.13725491, b: 1, a: 1}
+    bossBase: {fileID: 851817436995632954, guid: dae9b7a9cc66c9a429fb672c8219adda,
+      type: 3}
+  - bossBG: {r: 0.13725491, g: 0.4392157, b: 1, a: 1}
+    bossBase: {fileID: 8581236131312946792, guid: fb8bce899eb595c4f92196ebbc139a3f,
+      type: 3}
+  - bossBG: {r: 0.36862746, g: 1, b: 0, a: 1}
+    bossBase: {fileID: 4576165873793978049, guid: 777ff9ee1fbf11948bfcb57e1d470247,
+      type: 3}
+  - bossBG: {r: 1, g: 0.68235296, b: 0, a: 1}
+    bossBase: {fileID: 5192306050683592912, guid: b739e4496cb3c364ab8c9aee1d3b3bf6,
+      type: 3}
+  - bossBG: {r: 0, g: 1, b: 0.8039216, a: 1}
+    bossBase: {fileID: 6322216851532230408, guid: 9d85b41b72e6b5a4688889629931c6a9,
+      type: 3}
+  - bossBG: {r: 0.56078434, g: 0.19607843, b: 1, a: 1}
+    bossBase: {fileID: 3730983206947693161, guid: 96098e8bbaf03864b9c7bd80efa4f52f,
+      type: 3}
+  - bossBG: {r: 1, g: 0.34509805, b: 0.2627451, a: 1}
+    bossBase: {fileID: 114388359067855878, guid: 1635874269f44e14fa8d4228f9dfa7f0,
+      type: 3}
+  - bossBG: {r: 1, g: 0.46666667, b: 0, a: 1}
+    bossBase: {fileID: 2582371992657295394, guid: 659c4d3deb8511442a8940d82af0e09e,
+      type: 3}
+  - bossBG: {r: 0.3764706, g: 0.21960784, b: 1, a: 1}
+    bossBase: {fileID: 1010203622598991371, guid: 7825421ba06efa74ea077dc51207994b,
+      type: 3}
+  - bossBG: {r: 0.58431375, g: 0.13725491, b: 1, a: 1}
+    bossBase: {fileID: 2740233308642387468, guid: 9bcc9ca87ccaa874fb300a221cbaef7e,
+      type: 3}
+  - bossBG: {r: 1, g: 0.68235296, b: 0, a: 1}
+    bossBase: {fileID: 8206830765328278202, guid: 8cf50e6426da7054fb7fd1d48df942ad,
+      type: 3}
+  - bossBG: {r: 1, g: 0.34509805, b: 0.2627451, a: 1}
+    bossBase: {fileID: 1334555783653746748, guid: 13a80333ff53c9a4ea52ff9306dad8b3,
+      type: 3}
+  - bossBG: {r: 0.36862746, g: 1, b: 0, a: 1}
+    bossBase: {fileID: 1163697211961592632, guid: 3d6dfda39e451794f867460b7be17780,
+      type: 3}
+  - bossBG: {r: 1, g: 0.34509805, b: 0.2627451, a: 1}
+    bossBase: {fileID: 258637979394892884, guid: 9bd5dec6531e23840aa0b3146223e6e2,
+      type: 3}

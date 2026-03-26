@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6619b74e3ad66ee49b9a87755fc90f97, type: 3}
+  m_Name: PreloadIngame
+  m_EditorClassIdentifier: 
+  modes:
+  - {fileID: 11400000, guid: 065351eecd88f704e8c5d26142f75ac4, type: 2}
+  - {fileID: 11400000, guid: 41f56c4e67032a04fb950d84d4e3ebe2, type: 2}
+  - {fileID: 11400000, guid: 460e17589764f86418df21880119c52d, type: 2}
+  - {fileID: 11400000, guid: a1f9c55882262af4b809087cd09a9155, type: 2}
+  - {fileID: 11400000, guid: e3879ae3d230e014ea64f6de33b8ccf3, type: 2}
+  - {fileID: 11400000, guid: d2d72363a3ee4ff45b89932c451864ab, type: 2}
+  - {fileID: 11400000, guid: 0be51833bd1442a4188d8709c551e975, type: 2}

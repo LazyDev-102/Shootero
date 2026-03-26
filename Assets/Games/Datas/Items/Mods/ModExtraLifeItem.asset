@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c553b01204718b64d82a3ed40f7cb240, type: 3}
+  m_Name: ModExtraLifeItem
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: eb4d38457cd7ec94cbf9d5f44c4455c5, type: 3}
+  id: 35
+  displayName: Extra Life
+  description: 
+  price:
+    i: 0
+    a: 0
+  mod: {fileID: 11400000, guid: 5100f41f984b3504e9952639bd490109, type: 2}

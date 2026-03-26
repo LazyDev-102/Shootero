@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6266d6a0e3a36dc4386bfc02d516cee9, type: 3}
+  m_Name: ShopData
+  m_EditorClassIdentifier: 
+  packs:
+  - {fileID: 11400000, guid: 6a43c42da422f1e4aac975bf36e58a2e, type: 2}
+  - {fileID: 11400000, guid: 4c8338a0a19af774a926b7be9a6df35d, type: 2}
+  normalChest: {fileID: 11400000, guid: 2abd484430337a540a9fa7dc3e685dbf, type: 2}
+  eliteChest: {fileID: 11400000, guid: 44329e469d59eee43a4998374d43cbb4, type: 2}
+  numberOpenChests: 10
+  priceChests:
+    i: 2
+    a: 2700
+  oldPriceChests:
+    i: 2
+    a: 3000
+  gems:
+  - {fileID: 11400000, guid: bb3cd49bb83fc894ca7f7663d4c3faaf, type: 2}
+  - {fileID: 11400000, guid: e505dcc48f5a49e45857db07f8536ebe, type: 2}
+  - {fileID: 11400000, guid: 2874687ad36cd9840a0f6322cf88d174, type: 2}
+  - {fileID: 11400000, guid: ddc2083e44d42e141bcfb07ace7db971, type: 2}
+  - {fileID: 11400000, guid: 06d5801d5ed6cd94ebc5beb98f966d14, type: 2}
+  - {fileID: 11400000, guid: 9c0d01f5fbcd2134196024970faf657a, type: 2}
+  chips:
+    packs:
+    - {fileID: 11400000, guid: 3479e42762cff1f40945e4053a0a1e04, type: 2}
+    - {fileID: 11400000, guid: adbe3e16ef5cd544b91a8eeda3f613fc, type: 2}
+    - {fileID: 11400000, guid: 0747ad7d7e5a2e34f98914a3b88bfb16, type: 2}
+    day: 289
+    year: 2020
+  dailyFree:
+    packs:
+    - {fileID: 11400000, guid: 82053d2b214b0c945ad96ef3ef0483c4, type: 2}
+    - {fileID: 11400000, guid: f049961ee68abbc4dbeddfd7a5b6b7f2, type: 2}
+    day: 288
+    year: 2020
+  rerolls:
+    packs:
+    - {fileID: 11400000, guid: 675c81630d8bc694595e6e03a4cc7f6d, type: 2}
+    - {fileID: 11400000, guid: 08a7070b4d68130438bfcd4973951be7, type: 2}
+    - {fileID: 11400000, guid: 7cc1c679495cd0c499f2e61f2e40201b, type: 2}
+    day: 0
+    year: 0
+    valueInit: 10
+  rewardAds:
+    packs:
+    - {fileID: 11400000, guid: d4488256c45360740aeb1bdc6f384ef1, type: 2}
+    - {fileID: 11400000, guid: f33f617f2bd24cc4a8862a570a957e02, type: 2}
+    - {fileID: 11400000, guid: f6b92fc0260de7f4db481a11dc22ed79, type: 2}
+    - {fileID: 11400000, guid: bb495424a52dac846b775294d2634d42, type: 2}
+    - {fileID: 11400000, guid: 4077720d7267fd84badd12cc4380aaf5, type: 2}
+    progressPacks:
+    - {fileID: 11400000, guid: f4033d4ca840baa48898ee2aa5980b2e, type: 2}
+    - {fileID: 11400000, guid: 0bd96b1980b5c964b887a23d222bd3da, type: 2}
+    - {fileID: 11400000, guid: d128bcdc9c7ebe6499d66e86c3739441, type: 2}
+    day: 0
+    year: 0
+    progress: 0

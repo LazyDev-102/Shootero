@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7f5a8fea8a17c418dcaac02a8677f7, type: 3}
+  m_Name: HalloweenGearCollector
+  m_EditorClassIdentifier: 
+  nameCollector: Halloween Gear
+  items:
+  - {fileID: 11400000, guid: c93c9f0efea96e74b9fddf9bdf195294, type: 2}
+  - {fileID: 11400000, guid: 074ef3a30741d1f488918e56a0022ffc, type: 2}
+  - {fileID: 11400000, guid: 13ba5f4745215fb4a847fdc0cc9611ac, type: 2}
+  - {fileID: 11400000, guid: fcc225922f1f89c47b77908b290cfc73, type: 2}
+  - {fileID: 11400000, guid: e7fecbbe43851cc41b5548ad12d44669, type: 2}

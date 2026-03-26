@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f69e723a2c8cb594e99cafbdbe9ad9bc, type: 3}
+  m_Name: GearModeData
+  m_EditorClassIdentifier: 
+  maxTurn: 1
+  gearCollector: {fileID: 11400000, guid: a50483eb6285b9c44821c6032d7add44, type: 2}
+  gearWaveData:
+    limitRange:
+      startValue: 4
+      endValue: 6
+    enemyIds: 01000000030000000a0000000d00000006000000
+    trapIds: 010000000200000003000000
+    bossIds: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000e000000
+    mbIds: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000f000000
+    tier: {fileID: 11400000, guid: ba0b61e8518601746b8fd34333c17d00, type: 2}
+    difficultTier: {fileID: 11400000, guid: bc5c788440cf7ce49b221e0884e00894, type: 2}
+  GearModeInfos:
+  - sytemLevel: 10
+    timeLimit: 93
+    multiDifficult: 1
+    enemyNeed: 050000000a0000000f00000014000000190000001e000000
+    rewardCount: 02000000
+    bonusCount: 
+    percentChance: 0
+  - sytemLevel: 20
+    timeLimit: 123
+    multiDifficult: 2
+    enemyNeed: 0a0000000f00000014000000190000001e00000023000000
+    rewardCount: 02000000
+    bonusCount: 0000000001000000
+    percentChance: 30
+  - sytemLevel: 30
+    timeLimit: 153
+    multiDifficult: 3
+    enemyNeed: 0f00000014000000190000001e0000002300000028000000
+    rewardCount: 0200000001000000
+    bonusCount: 000000000000000001000000
+    percentChance: 30
+  - sytemLevel: 40
+    timeLimit: 183
+    multiDifficult: 4
+    enemyNeed: 14000000190000001e00000023000000280000002d000000
+    rewardCount: 010000000100000001000000
+    bonusCount: 00000000000000000000000001000000
+    percentChance: 30
+  - sytemLevel: 50
+    timeLimit: 213
+    multiDifficult: 5
+    enemyNeed: 190000001e00000023000000280000002d00000032000000
+    rewardCount: 010000000100000001000000
+    bonusCount: 00000000000000000000000001000000
+    percentChance: 50

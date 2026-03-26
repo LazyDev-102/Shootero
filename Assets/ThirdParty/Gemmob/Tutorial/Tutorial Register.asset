@@ -1,0 +1,265 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a2eec27688a06b3408263340a824e772, type: 3}
+  m_Name: Tutorial Register
+  m_EditorClassIdentifier: 
+  Infors:
+  - Key: TutorialEquipment
+    NeedToDoneKey: 
+    NotShowWhenHasKey: 
+    DescriptInfor:
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    Character: 00000000
+    IsSkip: 0
+    SaveEndStage: 0
+    SaveWhenStart: 0
+    SaveAtStep: 2
+    IsShow: 1
+  - Key: TutorialIntroduce
+    NeedToDoneKey: 
+    NotShowWhenHasKey: 
+    DescriptInfor:
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    Character: 
+    IsSkip: 0
+    SaveEndStage: 1
+    SaveWhenStart: 0
+    SaveAtStep: -1
+    IsShow: 1
+  - Key: TutorialOpenChest
+    NeedToDoneKey: TutorialIntroduce
+    NotShowWhenHasKey: 
+    DescriptInfor:
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    Character: 
+    IsSkip: 0
+    SaveEndStage: 0
+    SaveWhenStart: 0
+    SaveAtStep: 1
+    IsShow: 1
+  - Key: TutorialPlayGame
+    NeedToDoneKey: TutorialOpenChest
+    NotShowWhenHasKey: 
+    DescriptInfor:
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    Character: 
+    IsSkip: 0
+    SaveEndStage: 0
+    SaveWhenStart: 0
+    SaveAtStep: 0
+    IsShow: 1
+  - Key: TutorialPlayInfinity
+    NeedToDoneKey: 
+    NotShowWhenHasKey: 
+    DescriptInfor:
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 2
+      IsPause: 0
+      HighlightType: 2
+      DescriptType: 0
+      PointerPos: 6
+      MainCharacter: 0
+      IsShow: 1
+    Character: 
+    IsSkip: 0
+    SaveEndStage: 0
+    SaveWhenStart: 0
+    SaveAtStep: 0
+    IsShow: 1
+  - Key: TutorialEquipSkills
+    NeedToDoneKey: TutorialOpenSkill
+    NotShowWhenHasKey: 
+    DescriptInfor:
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    Character: 
+    IsSkip: 0
+    SaveEndStage: 0
+    SaveWhenStart: 0
+    SaveAtStep: 2
+    IsShow: 1
+  - Key: TutorialOpenSkill
+    NeedToDoneKey: 
+    NotShowWhenHasKey: 
+    DescriptInfor:
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    - Description: 
+      Target: {fileID: 0}
+      TargetType: 0
+      IsPause: 0
+      HighlightType: 0
+      DescriptType: 1
+      PointerPos: 2
+      MainCharacter: 0
+      IsShow: 1
+    Character: 
+    IsSkip: 0
+    SaveEndStage: 0
+    SaveWhenStart: 0
+    SaveAtStep: 1
+    IsShow: 1

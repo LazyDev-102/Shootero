@@ -1,0 +1,50 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 39fd07ee5a5d442428c5519b1cc345e3, type: 3}
+  m_Name: EliteChest
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: e7ee72c2d929de54b8881e7f40b6cbff, type: 3}
+  id: 102
+  displayName: Elite Chest
+  description: Contains 1 <color=green>Comon</color>, <color=#14b1ff>Rare</color>
+    or <color=#f727ff>Elite</color> Gear
+  price:
+    i: 2
+    a: 300
+  nextPrice:
+    i: 2
+    a: 300
+  numberSpecialOpen: 10
+  specialDescription: <color=#f727ff>Elite</color> Gear in
+  specialTypeDescription: 100% <color=#f727ff>Elite</color> gear
+  normalData:
+  - rank: 1
+    probability: 60
+  - rank: 2
+    probability: 35
+  - rank: 3
+    probability: 5
+  specialData:
+  - rank: 1
+    probability: 0
+  - rank: 2
+    probability: 0
+  - rank: 3
+    probability: 100
+  keyOpen:
+    i: 112
+    a: 1
+  timeGetFree: 168
+  isOpenFreeWithAds: 1
+  gearCollector: {fileID: 11400000, guid: a50483eb6285b9c44821c6032d7add44, type: 2}
+  skinName: Skin2
+  showEffect: 1

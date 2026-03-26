@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SkillsAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 50494da8dd955e844bbaf55f547b75ed, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 2c7d4630c2dbbdf4dbf883645eae76c1, type: 3}
+  - {fileID: 21300000, guid: f48faaa0530fdc24991b78af58a04996, type: 3}
+  - {fileID: 21300000, guid: e7e9d721bb0e5734186f5b1c4d3838c1, type: 3}
+  - {fileID: 21300000, guid: 3fa02231f6b89ca45b820d02d39a1438, type: 3}
+  - {fileID: 21300000, guid: 407ee502fe160084288e671c8a80c77c, type: 3}
+  - {fileID: 21300000, guid: 28c4a1f2c4122f445acc6fb1327f0a9d, type: 3}
+  - {fileID: 21300000, guid: 3d506c03fb798bb4ba5fec50bac3d36e, type: 3}
+  - {fileID: 21300000, guid: 6b904983f471e8040b327cabc16879b8, type: 3}
+  - {fileID: 21300000, guid: 352b3434f063c8e49a50eebe9999a7ec, type: 3}
+  - {fileID: 21300000, guid: 2d95b08490a6c5543b1f95338c146c33, type: 3}
+  - {fileID: 21300000, guid: 3c566a94efd55344a953ecfe9af5cf16, type: 3}
+  - {fileID: 21300000, guid: 3cef69f4f9003684597a3bf3cbf2e625, type: 3}
+  - {fileID: 21300000, guid: a53b9c1731a09124cbcf1b316f707dac, type: 3}
+  - {fileID: 21300000, guid: 118d34a744178074fa4a2020448c7cce, type: 3}
+  - {fileID: 21300000, guid: 1f0c9f0896e1f4a4f9cb1401cc799497, type: 3}
+  - {fileID: 21300000, guid: 73c1302817742484396241544a5548a0, type: 3}
+  - {fileID: 21300000, guid: 17565288fbbf80845a2217ece8e67a90, type: 3}
+  - {fileID: 21300000, guid: 3b9abe499cb077843b7cd69223b6038b, type: 3}
+  - {fileID: 21300000, guid: fa9521d9394303a4f906e94b81339949, type: 3}
+  - {fileID: 21300000, guid: 6b0eb87ae78851c429e0394c433bab5e, type: 3}
+  - {fileID: 21300000, guid: 3814700baef6c3a4d90d3c4c45b03ba5, type: 3}
+  - {fileID: 21300000, guid: 4c7371ab69a1a98499d7eb1f972df70e, type: 3}
+  - {fileID: 21300000, guid: 810d8c0c6989b3c4bad4addbbf0f38d0, type: 3}
+  - {fileID: 21300000, guid: 66f5451c1dc418a499b7bd8fecb2beba, type: 3}
+  - {fileID: 21300000, guid: e06d8a9cd028f784fb196c8c2f2912a5, type: 3}
+  - {fileID: 21300000, guid: 076d4e6d2323f3d4290ca5dd1c24884a, type: 3}
+  - {fileID: 21300000, guid: 34c74e4e04f58b344a03e2803d05d6b7, type: 3}
+  - {fileID: 21300000, guid: 5351db6e1008a4547af7c17f310841ee, type: 3}
+  - {fileID: 21300000, guid: d9d1c28e836206c4282bad60caf415d2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - skill 12
+  - btn_r20_violet
+  - deco_chest skill
+  - skill 1
+  - star_rank skoll
+  - frame_equip skill
+  - skill 1
+  - skill 8
+  - skill 7
+  - bulletI_skill 8
+  - skill 12
+  - skill 10
+  - skill 5
+  - skill 7
+  - chest_kill
+  - skill 2
+  - skill 3
+  - skill 13
+  - skill 5
+  - skill 4
+  - icon_skill
+  - skill 11
+  - skill 6
+  - choose_skill
+  - skill 9
+  - skill 10
+  - skill 8
+  - bullet_skill 7
+  - skill 2
+  m_RenderDataMap: {}
+  m_Tag: SkillsAtlas
+  m_IsVariant: 0

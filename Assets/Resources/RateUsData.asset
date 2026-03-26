@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3ded2bfda38465442aa4c3c21a4a4472, type: 3}
+  m_Name: RateUsData
+  m_EditorClassIdentifier: 
+  rated: 0
+  rateFailed: 0
+  isItemEpic: 0
+  trigger1: 0
+  trigger2: 0
+  isEpicOneShot: 0
+  remoteKey: rateusremotekey
+  startDay: 0
+  startMonth: 0
+  startYear: 0
+  endDay: 0
+  endMonth: 0
+  endYear: 0
+  enable: 0

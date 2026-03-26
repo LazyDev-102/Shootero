@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f775fbbe9dafbc94288a9701905227c0, type: 3}
+  m_Name: EliteGearRarety
+  m_EditorClassIdentifier: 
+  index: 3
+  nameRarety: Epic
+  color: {r: 0.8156863, g: 0.21960784, b: 0.8784314, a: 1}
+  frame: {fileID: 21300000, guid: ed3541ba102ab2c4faa18b3e7aab80b9, type: 3}
+  tagName: Epic
+  type: 3

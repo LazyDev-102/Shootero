@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ec50270d0f10d54f8bc5c8d9b6f3d7b, type: 3}
+  m_Name: BulletUpModData
+  m_EditorClassIdentifier: 
+  modId: 1
+  type: 3
+  nameMod: Bullet Up
+  modDescription: Fire more bullet
+  icon: {fileID: 21300000, guid: 303993cce232d534b87935d6fae64210, type: 3}
+  rarity: 3
+  maxStack: 3
+  levelRequire: 0
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []

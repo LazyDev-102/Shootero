@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d7a7858e8be80ad4da947871e26574a0, type: 3}
+  m_Name: RerollPackItem02
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: a690c8f67c3abfd459c84c89928f7cfe, type: 3}
+  id: 241
+  displayName: Fistfull of Dices
+  description: Fistfull of Dices
+  price:
+    i: 2
+    a: 30
+  shopButtonKey: 8
+  isFree: 0
+  watched: 0
+  itemClaims:
+  - id: 114
+    amount: 10

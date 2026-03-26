@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f37e10d6309dde4eb6c3c24a087e6c0, type: 3}
+  m_Name: HalloweenDropSystem
+  m_EditorClassIdentifier: 
+  conquerorDrops:
+  - {fileID: 11400000, guid: a8d5f6791b5ff2945a3c2967d92b9ca9, type: 2}
+  - {fileID: 11400000, guid: 8837f2251d578a14fb50ada5689bf0e6, type: 2}
+  - {fileID: 11400000, guid: 35a0dd26cd84c7540a5bec22c47a88de, type: 2}
+  - {fileID: 11400000, guid: f487c4661e799b845aaf89c5b6a6ad34, type: 2}
+  conquerorChipDrop: {fileID: 11400000, guid: c7fe7c4e04fc30a4aa8702f81ecce4a4, type: 2}

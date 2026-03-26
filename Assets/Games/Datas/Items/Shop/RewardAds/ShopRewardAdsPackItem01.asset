@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f2ba050c7f13d3b4aa3f95ce60af6b21, type: 3}
+  m_Name: ShopRewardAdsPackItem01
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: dc7206e62a54d7540970a3c98103e654, type: 3}
+  id: 250
+  displayName: 20h AFK
+  description: 
+  price:
+    i: 2
+    a: 100
+  shopButtonKey: 12
+  cTurn: 0
+  maxTurn: 5
+  claimed: 0
+  itemClaims:
+    id: 1
+    amount: 20

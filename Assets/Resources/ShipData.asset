@@ -1,0 +1,10640 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5fa5f368826ae9441b3d788548eb7e9e, type: 3}
+  m_Name: ShipData
+  m_EditorClassIdentifier: 
+  cShip: 0
+  cTryShip: 0
+  defaultShipId: 1
+  trial: 0
+  unlockedDefaultShipIds: 01000000
+  datas:
+  - id: 1
+    name: Ranger
+    description: Coming from outter space technology, Ranger's basically the most
+      effective ship to conquer the galaxy.
+    extDescription: Basic Ship
+    icon: {fileID: 21300000, guid: 479b087d05f914843aa1ed325698a61d, type: 3}
+    icons:
+    - {fileID: 21300000, guid: 479b087d05f914843aa1ed325698a61d, type: 3}
+    - {fileID: 21300000, guid: 30616610ff1847a40bde373dbdd066d1, type: 3}
+    - {fileID: 21300000, guid: 3ab51a72551e8e84593a9b5e6a408936, type: 3}
+    - {fileID: 21300000, guid: 04f79694d51a8644292eae58fd15ecd6, type: 3}
+    - {fileID: 21300000, guid: ff925e097d169f34188032abc69b8912, type: 3}
+    extIcon: {fileID: 21300000, guid: 1fdbc8531d7bbe645b8957b9c3f421b1, type: 3}
+    canUnlockLevel: 0
+    currentLevel: 0
+    unlocked: 1
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 100
+        Type: 0
+        Order: 0
+      HP:
+        Value: 500
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 0
+    - Attack:
+        Value: 105
+        Type: 0
+        Order: 0
+      HP:
+        Value: 520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 110
+        Type: 0
+        Order: 0
+      HP:
+        Value: 540
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 115
+        Type: 0
+        Order: 0
+      HP:
+        Value: 560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 120
+        Type: 0
+        Order: 0
+      HP:
+        Value: 580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 125
+        Type: 0
+        Order: 0
+      HP:
+        Value: 600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 130
+        Type: 0
+        Order: 0
+      HP:
+        Value: 620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 135
+        Type: 0
+        Order: 0
+      HP:
+        Value: 640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 140
+        Type: 0
+        Order: 0
+      HP:
+        Value: 660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 145
+        Type: 0
+        Order: 0
+      HP:
+        Value: 680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 150
+        Type: 0
+        Order: 0
+      HP:
+        Value: 700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 155
+        Type: 0
+        Order: 0
+      HP:
+        Value: 720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 160
+        Type: 0
+        Order: 0
+      HP:
+        Value: 740
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 165
+        Type: 0
+        Order: 0
+      HP:
+        Value: 760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 170
+        Type: 0
+        Order: 0
+      HP:
+        Value: 780
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 175
+        Type: 0
+        Order: 0
+      HP:
+        Value: 800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 180
+        Type: 0
+        Order: 0
+      HP:
+        Value: 820
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 185
+        Type: 0
+        Order: 0
+      HP:
+        Value: 840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 190
+        Type: 0
+        Order: 0
+      HP:
+        Value: 860
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 195
+        Type: 0
+        Order: 0
+      HP:
+        Value: 880
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 202
+        Type: 0
+        Order: 0
+      HP:
+        Value: 910
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 209
+        Type: 0
+        Order: 0
+      HP:
+        Value: 940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 216
+        Type: 0
+        Order: 0
+      HP:
+        Value: 970
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 223
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 230
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1030
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 237
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 244
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1090
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 251
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 258
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1150
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 265
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 272
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 279
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 286
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1270
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 293
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1300
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 300
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1330
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 307
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 314
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1390
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 321
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1420
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 328
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 335
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1480
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 344
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 353
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 362
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 371
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 380
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 389
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 398
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 407
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 416
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 425
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 434
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1920
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 443
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 452
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 461
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2040
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 470
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 479
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 488
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 497
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2200
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 506
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 515
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2280
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 526
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2330
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 537
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 548
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2430
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 559
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 570
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2530
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 581
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 592
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 603
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 614
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2730
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 625
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2780
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 636
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2830
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 647
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 658
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 669
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 680
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3030
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 691
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 702
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3130
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 713
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 724
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3230
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 735
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3280
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 748
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 761
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 774
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 787
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 800
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 813
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 826
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 839
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 852
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3820
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 865
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 878
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 891
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 904
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 917
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 930
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 943
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 956
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4300
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 969
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 982
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4420
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 630683477900229405, guid: 749c88c9207a1744d989d8b734da2393,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: +
+      Suffix: '%'
+      Description: to total Attack & HP
+      SpecialValue:
+      - statEvent: 9047
+        Value:
+          Value: 0.05
+          Type: 1
+          Order: 0
+      - statEvent: 9048
+        Value:
+          Value: 0.05
+          Type: 1
+          Order: 0
+    - Level: 20
+      Prefix: +
+      Suffix: '%'
+      Description: to total Attack & HP
+      SpecialValue:
+      - statEvent: 9047
+        Value:
+          Value: 0.1
+          Type: 1
+          Order: 0
+      - statEvent: 9048
+        Value:
+          Value: 0.1
+          Type: 1
+          Order: 0
+    - Level: 40
+      Prefix: +
+      Suffix: '%'
+      Description: to total Attack & HP
+      SpecialValue:
+      - statEvent: 9047
+        Value:
+          Value: 0.15
+          Type: 1
+          Order: 0
+      - statEvent: 9048
+        Value:
+          Value: 0.15
+          Type: 1
+          Order: 0
+    - Level: 60
+      Prefix: +
+      Suffix: '%'
+      Description: to total Attack & HP
+      SpecialValue:
+      - statEvent: 9047
+        Value:
+          Value: 0.2
+          Type: 1
+          Order: 0
+      - statEvent: 9048
+        Value:
+          Value: 0.2
+          Type: 1
+          Order: 0
+    - Level: 80
+      Prefix: +
+      Suffix: '%'
+      Description: to total Attack & HP
+      SpecialValue:
+      - statEvent: 9047
+        Value:
+          Value: 0.25
+          Type: 1
+          Order: 0
+      - statEvent: 9048
+        Value:
+          Value: 0.25
+          Type: 1
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 0.121568635, g: 0.73333335, b: 0.9921569, a: 1}
+    spreadSheetName: Ship_data
+    workSheetName: ship1
+  - id: 2
+    name: Alpha
+    description: 'Also called "The Next Gen", Alpha is built based on the combination
+      of Ranger and a powerful weapon core '
+    extDescription: +2 ATK per ingame lvl
+    icon: {fileID: 21300000, guid: 799ff67506b655342b799066e72ba605, type: 3}
+    icons:
+    - {fileID: 21300000, guid: 799ff67506b655342b799066e72ba605, type: 3}
+    - {fileID: 21300000, guid: e7d42abee2dc91646985b49758fd651e, type: 3}
+    - {fileID: 21300000, guid: 3ba2dc3949b52294792e402c4bb36559, type: 3}
+    - {fileID: 21300000, guid: bef7974b8801dab4f89f25838f06e1de, type: 3}
+    - {fileID: 21300000, guid: dcd5a8947b94264428c0308ad8f7c043, type: 3}
+    extIcon: {fileID: 21300000, guid: 4ed42fe108baafb468ea0e423c266d9a, type: 3}
+    canUnlockLevel: 5
+    currentLevel: 0
+    unlocked: 1
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 120
+        Type: 0
+        Order: 0
+      HP:
+        Value: 450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5000
+    - Attack:
+        Value: 125
+        Type: 0
+        Order: 0
+      HP:
+        Value: 465
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 130
+        Type: 0
+        Order: 0
+      HP:
+        Value: 480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 135
+        Type: 0
+        Order: 0
+      HP:
+        Value: 495
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 140
+        Type: 0
+        Order: 0
+      HP:
+        Value: 510
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 145
+        Type: 0
+        Order: 0
+      HP:
+        Value: 525
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 150
+        Type: 0
+        Order: 0
+      HP:
+        Value: 540
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 155
+        Type: 0
+        Order: 0
+      HP:
+        Value: 555
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 160
+        Type: 0
+        Order: 0
+      HP:
+        Value: 570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 165
+        Type: 0
+        Order: 0
+      HP:
+        Value: 585
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 170
+        Type: 0
+        Order: 0
+      HP:
+        Value: 600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 175
+        Type: 0
+        Order: 0
+      HP:
+        Value: 615
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 180
+        Type: 0
+        Order: 0
+      HP:
+        Value: 630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 185
+        Type: 0
+        Order: 0
+      HP:
+        Value: 645
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 190
+        Type: 0
+        Order: 0
+      HP:
+        Value: 660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 195
+        Type: 0
+        Order: 0
+      HP:
+        Value: 675
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 200
+        Type: 0
+        Order: 0
+      HP:
+        Value: 690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 205
+        Type: 0
+        Order: 0
+      HP:
+        Value: 705
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 210
+        Type: 0
+        Order: 0
+      HP:
+        Value: 720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 215
+        Type: 0
+        Order: 0
+      HP:
+        Value: 735
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 222
+        Type: 0
+        Order: 0
+      HP:
+        Value: 760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 229
+        Type: 0
+        Order: 0
+      HP:
+        Value: 785
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 236
+        Type: 0
+        Order: 0
+      HP:
+        Value: 810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 243
+        Type: 0
+        Order: 0
+      HP:
+        Value: 835
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 250
+        Type: 0
+        Order: 0
+      HP:
+        Value: 860
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 257
+        Type: 0
+        Order: 0
+      HP:
+        Value: 885
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 264
+        Type: 0
+        Order: 0
+      HP:
+        Value: 910
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 271
+        Type: 0
+        Order: 0
+      HP:
+        Value: 935
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 278
+        Type: 0
+        Order: 0
+      HP:
+        Value: 960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 285
+        Type: 0
+        Order: 0
+      HP:
+        Value: 985
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 292
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 299
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1035
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 306
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 313
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1085
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 320
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 327
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1135
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 334
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 341
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1185
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 348
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 355
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1235
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 364
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1270
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 373
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1305
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 382
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 391
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1375
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 400
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 409
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1445
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 418
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 427
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1515
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 436
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1550
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 445
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1585
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 454
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 463
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1655
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 472
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 481
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1725
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 490
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 499
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1795
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 508
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1830
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 517
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1865
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 526
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 535
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1935
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 546
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 557
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2025
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 568
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2070
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 579
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2115
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 590
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 601
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2205
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 612
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2250
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 623
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2295
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 634
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 645
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2385
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 656
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2430
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 667
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2475
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 678
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 689
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2565
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 700
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2610
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 711
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2655
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 722
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 733
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2745
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 744
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2790
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 755
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2835
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 768
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2890
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 781
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2945
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 794
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 807
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3055
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 820
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 833
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3165
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 846
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 859
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3275
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 872
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3330
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 885
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3385
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 898
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 911
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3495
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 924
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3550
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 937
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3605
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 950
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 963
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3715
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 976
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 989
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3825
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 1002
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 630683477900229405, guid: 4a63ec2e122e93a4cabde806aaa7b505,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: +
+      Suffix: 
+      Description: Attack per ingame level
+      SpecialValue:
+      - statEvent: 9042
+        Value:
+          Value: 1
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: +
+      Suffix: 
+      Description: Attack per ingame level
+      SpecialValue:
+      - statEvent: 9042
+        Value:
+          Value: 2
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: +
+      Suffix: 
+      Description: Attack per ingame level
+      SpecialValue:
+      - statEvent: 9042
+        Value:
+          Value: 3
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: +
+      Suffix: 
+      Description: Attack per ingame level
+      SpecialValue:
+      - statEvent: 9042
+        Value:
+          Value: 4
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: +
+      Suffix: 
+      Description: Attack per ingame level
+      SpecialValue:
+      - statEvent: 9042
+        Value:
+          Value: 5
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 0.9568628, g: 0.7607844, b: 0.13725491, a: 1}
+    spreadSheetName: Ship_data
+    workSheetName: ship2
+  - id: 3
+    name: Guardian
+    description: This tough guy will protect you against the enemies
+    extDescription: +50 Max HP per ingame lvl
+    icon: {fileID: 21300000, guid: 8591f2855e1077847829ef6b23247ffb, type: 3}
+    icons:
+    - {fileID: 21300000, guid: 8591f2855e1077847829ef6b23247ffb, type: 3}
+    - {fileID: 21300000, guid: b5c088511c4fc4d43b0454983a15a670, type: 3}
+    - {fileID: 21300000, guid: 146d6e4852d79d443a35cc4d5bd21df0, type: 3}
+    - {fileID: 21300000, guid: d2d1ded3679a1ee46a7dfcd96f7389d9, type: 3}
+    - {fileID: 21300000, guid: c2be085c90772af498132216698a48ff, type: 3}
+    extIcon: {fileID: 21300000, guid: c8b783fc22d94b341988eec52a6ac4f8, type: 3}
+    canUnlockLevel: 7
+    currentLevel: 0
+    unlocked: 0
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 80
+        Type: 0
+        Order: 0
+      HP:
+        Value: 550
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7000
+    - Attack:
+        Value: 83
+        Type: 0
+        Order: 0
+      HP:
+        Value: 570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 86
+        Type: 0
+        Order: 0
+      HP:
+        Value: 590
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 89
+        Type: 0
+        Order: 0
+      HP:
+        Value: 610
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 92
+        Type: 0
+        Order: 0
+      HP:
+        Value: 630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 95
+        Type: 0
+        Order: 0
+      HP:
+        Value: 650
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 98
+        Type: 0
+        Order: 0
+      HP:
+        Value: 670
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 101
+        Type: 0
+        Order: 0
+      HP:
+        Value: 690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 104
+        Type: 0
+        Order: 0
+      HP:
+        Value: 710
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 107
+        Type: 0
+        Order: 0
+      HP:
+        Value: 730
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 110
+        Type: 0
+        Order: 0
+      HP:
+        Value: 750
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 113
+        Type: 0
+        Order: 0
+      HP:
+        Value: 770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 116
+        Type: 0
+        Order: 0
+      HP:
+        Value: 790
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 119
+        Type: 0
+        Order: 0
+      HP:
+        Value: 810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 122
+        Type: 0
+        Order: 0
+      HP:
+        Value: 830
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 125
+        Type: 0
+        Order: 0
+      HP:
+        Value: 850
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 128
+        Type: 0
+        Order: 0
+      HP:
+        Value: 870
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 131
+        Type: 0
+        Order: 0
+      HP:
+        Value: 890
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 134
+        Type: 0
+        Order: 0
+      HP:
+        Value: 910
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 137
+        Type: 0
+        Order: 0
+      HP:
+        Value: 930
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 142
+        Type: 0
+        Order: 0
+      HP:
+        Value: 960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 147
+        Type: 0
+        Order: 0
+      HP:
+        Value: 990
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 152
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1020
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 157
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1050
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 162
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 167
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 172
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1140
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 177
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1170
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 182
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1200
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 187
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1230
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 192
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1260
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 197
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1290
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 202
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 207
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1350
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 212
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 217
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 222
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 227
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1470
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 232
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1500
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 237
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1530
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 244
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 251
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1610
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 258
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1650
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 265
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 272
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1730
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 279
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 286
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 293
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1850
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 300
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1890
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 307
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 314
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1970
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 321
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 328
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2050
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 335
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2090
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 342
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2130
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 349
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2170
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 356
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 363
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2250
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 370
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2290
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 377
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2330
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 386
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 395
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2430
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 404
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 413
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2530
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 422
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 431
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 440
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 449
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2730
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 458
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2780
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 467
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2830
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 476
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 485
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 494
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 503
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3030
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 512
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 521
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3130
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 530
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 539
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3230
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 548
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3280
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 557
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3330
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 568
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3390
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 579
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 590
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3510
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 601
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 612
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 623
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 634
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3750
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 645
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 656
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3870
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 667
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 678
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3990
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 689
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4050
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 700
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 711
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4170
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 722
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4230
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 733
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4290
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 744
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4350
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 755
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 766
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4470
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 630683477900229405, guid: 6b8cd7760fb6f674196155813542c7ab,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: +
+      Suffix: 
+      Description: Max HP per ingame level
+      SpecialValue:
+      - statEvent: 9043
+        Value:
+          Value: 10
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: +
+      Suffix: 
+      Description: Max HP per ingame level
+      SpecialValue:
+      - statEvent: 9043
+        Value:
+          Value: 20
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: +
+      Suffix: 
+      Description: Max HP per ingame level
+      SpecialValue:
+      - statEvent: 9043
+        Value:
+          Value: 30
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: +
+      Suffix: 
+      Description: Max HP per ingame level
+      SpecialValue:
+      - statEvent: 9043
+        Value:
+          Value: 40
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: +
+      Suffix: 
+      Description: Max HP per ingame level
+      SpecialValue:
+      - statEvent: 9043
+        Value:
+          Value: 50
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 0.69803923, g: 0.89019614, b: 0.26666668, a: 1}
+    spreadSheetName: Ship_data
+    workSheetName: ship3
+  - id: 4
+    name: Sky Reaper
+    description: Sky Reaper can tear the space apart with hi-tech bullet that pierce
+      through the enemies.
+    extDescription: Fire piercing bullet
+    icon: {fileID: 21300000, guid: 7c2d9e606406fc342b5d87f31e3f9b05, type: 3}
+    icons:
+    - {fileID: 21300000, guid: 7c2d9e606406fc342b5d87f31e3f9b05, type: 3}
+    - {fileID: 21300000, guid: 5e9e895e73bffb94181d36bdfb2667e0, type: 3}
+    - {fileID: 21300000, guid: bc881cdcef1ec2b4181dcaf5cf5bdfd1, type: 3}
+    - {fileID: 21300000, guid: 1c557047a0a1103429213ee33f9b5b06, type: 3}
+    - {fileID: 21300000, guid: bd83ef27ab252714bbce503441ab3e63, type: 3}
+    extIcon: {fileID: 21300000, guid: d0bc4be948f6ffa409ab1220ae6353cf, type: 3}
+    canUnlockLevel: 8
+    currentLevel: 0
+    unlocked: 0
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 150
+        Type: 0
+        Order: 0
+      HP:
+        Value: 550
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 159
+        Type: 0
+        Order: 0
+      HP:
+        Value: 575
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 168
+        Type: 0
+        Order: 0
+      HP:
+        Value: 600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 177
+        Type: 0
+        Order: 0
+      HP:
+        Value: 625
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 186
+        Type: 0
+        Order: 0
+      HP:
+        Value: 650
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 195
+        Type: 0
+        Order: 0
+      HP:
+        Value: 675
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 204
+        Type: 0
+        Order: 0
+      HP:
+        Value: 700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 213
+        Type: 0
+        Order: 0
+      HP:
+        Value: 725
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 222
+        Type: 0
+        Order: 0
+      HP:
+        Value: 750
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 231
+        Type: 0
+        Order: 0
+      HP:
+        Value: 775
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 240
+        Type: 0
+        Order: 0
+      HP:
+        Value: 800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 249
+        Type: 0
+        Order: 0
+      HP:
+        Value: 825
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 258
+        Type: 0
+        Order: 0
+      HP:
+        Value: 850
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 267
+        Type: 0
+        Order: 0
+      HP:
+        Value: 875
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 276
+        Type: 0
+        Order: 0
+      HP:
+        Value: 900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 285
+        Type: 0
+        Order: 0
+      HP:
+        Value: 925
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 294
+        Type: 0
+        Order: 0
+      HP:
+        Value: 950
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 303
+        Type: 0
+        Order: 0
+      HP:
+        Value: 975
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 312
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 321
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1025
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 332
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 343
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1095
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 354
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1130
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 365
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1165
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 376
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1200
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 387
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1235
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 398
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1270
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 409
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1305
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 420
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 431
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1375
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 442
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 453
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1445
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 464
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 475
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1515
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 486
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1550
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 497
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1585
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 508
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 519
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1655
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 530
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 541
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1725
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 554
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 567
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1815
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 580
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1860
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 593
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1905
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 606
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1950
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 619
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1995
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 632
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2040
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 645
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2085
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 658
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2130
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 671
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2175
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 684
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 697
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2265
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 710
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 723
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2355
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 736
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 749
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2445
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 762
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2490
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 775
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2535
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 788
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 801
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2625
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 816
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 831
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2735
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 846
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2790
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 861
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2845
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 876
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 891
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2955
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 906
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 921
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3065
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 936
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 951
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3175
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 966
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3230
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 981
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3285
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 996
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 1011
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3395
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 1026
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 1041
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3505
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 1056
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 1071
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3615
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 1086
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3670
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 1101
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3725
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 1118
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3790
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 1135
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3855
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 1152
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3920
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 1169
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3985
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 1186
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4050
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 1203
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4115
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 1220
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 1237
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4245
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 1254
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 1271
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4375
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 1288
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 1305
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4505
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 1322
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 1339
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4635
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 1356
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 1373
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4765
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 1390
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4830
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 1407
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4895
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 1424
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 630683477900229405, guid: c519b3232aca3b843bcf97cc0c2b634a,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: 'Bullet can pierce through '
+      Suffix: 
+      Description: mob(s)
+      SpecialValue:
+      - statEvent: 9044
+        Value:
+          Value: 1
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: 'Bullet can pierce through '
+      Suffix: 
+      Description: mob(s)
+      SpecialValue:
+      - statEvent: 9044
+        Value:
+          Value: 2
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: 'Bullet can pierce through '
+      Suffix: 
+      Description: mob(s)
+      SpecialValue:
+      - statEvent: 9044
+        Value:
+          Value: 3
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: 'Bullet can pierce through '
+      Suffix: 
+      Description: mob(s)
+      SpecialValue:
+      - statEvent: 9044
+        Value:
+          Value: 4
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: 'Bullet can pierce through '
+      Suffix: 
+      Description: mob(s)
+      SpecialValue:
+      - statEvent: 9044
+        Value:
+          Value: 5
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 0.87843144, g: 0.003921569, b: 0.8941177, a: 1}
+    spreadSheetName: Ship_data
+    workSheetName: ship4
+  - id: 5
+    name: Tracker
+    description: Nothing can escape from Tracker's bullet. You can try to avoid,
+      but you will fail.
+    extDescription: Fire homing missile
+    icon: {fileID: 21300000, guid: 24eea90e867c22941874c596dd58418e, type: 3}
+    icons:
+    - {fileID: 21300000, guid: 24eea90e867c22941874c596dd58418e, type: 3}
+    - {fileID: 21300000, guid: 4ca22014e93371143bfd34100dd5aa3a, type: 3}
+    - {fileID: 21300000, guid: 7a129cd10c2919d45bf19736e7876a47, type: 3}
+    - {fileID: 21300000, guid: 1539fcb8c4f403747b7b342dbf248c99, type: 3}
+    - {fileID: 21300000, guid: 2b3d4a625b3a5774ca39704b12a0d1a7, type: 3}
+    extIcon: {fileID: 21300000, guid: 62a22327964fe044082f7c02b98103be, type: 3}
+    canUnlockLevel: 10
+    currentLevel: 0
+    unlocked: 0
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 120
+        Type: 0
+        Order: 0
+      HP:
+        Value: 600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 127
+        Type: 0
+        Order: 0
+      HP:
+        Value: 630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 134
+        Type: 0
+        Order: 0
+      HP:
+        Value: 660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 141
+        Type: 0
+        Order: 0
+      HP:
+        Value: 690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 148
+        Type: 0
+        Order: 0
+      HP:
+        Value: 720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 155
+        Type: 0
+        Order: 0
+      HP:
+        Value: 750
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 162
+        Type: 0
+        Order: 0
+      HP:
+        Value: 780
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 169
+        Type: 0
+        Order: 0
+      HP:
+        Value: 810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 176
+        Type: 0
+        Order: 0
+      HP:
+        Value: 840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 183
+        Type: 0
+        Order: 0
+      HP:
+        Value: 870
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 190
+        Type: 0
+        Order: 0
+      HP:
+        Value: 900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 197
+        Type: 0
+        Order: 0
+      HP:
+        Value: 930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 204
+        Type: 0
+        Order: 0
+      HP:
+        Value: 960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 211
+        Type: 0
+        Order: 0
+      HP:
+        Value: 990
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 218
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1020
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 225
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1050
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 232
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 239
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 246
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1140
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 253
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1170
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 262
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 271
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1250
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 280
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1290
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 289
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1330
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 298
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1370
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 307
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 316
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 325
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1490
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 334
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1530
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 343
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 352
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1610
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 361
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1650
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 370
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 379
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1730
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 388
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 397
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 406
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1850
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 415
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1890
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 424
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 433
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1970
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 444
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2020
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 455
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2070
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 466
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 477
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2170
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 488
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 499
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2270
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 510
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 521
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2370
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 532
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2420
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 543
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2470
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 554
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 565
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 576
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 587
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2670
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 598
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 609
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 620
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2820
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 631
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2870
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 642
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2920
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 653
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2970
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 666
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3030
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 679
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3090
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 692
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3150
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 705
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 718
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3270
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 731
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3330
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 744
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3390
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 757
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 770
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3510
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 783
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3570
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 796
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 809
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 822
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3750
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 835
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 848
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3870
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 861
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 874
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3990
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 887
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4050
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 900
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 913
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4170
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 928
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 943
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 958
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 973
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 988
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 1003
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4590
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 1018
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 1033
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4730
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 1048
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 1063
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4870
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 1078
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 1093
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 1108
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 1123
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5150
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 1138
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 1153
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5290
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 1168
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 1183
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5430
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 1198
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5500
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 630683477900229405, guid: 29a09e78f4d0bea4689caf3530e55354,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: 'Fire homing missiles that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9045
+        Value:
+          Value: 1
+          Type: 0
+          Order: 0
+      - statEvent: 9046
+        Value:
+          Value: 50
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: 'Fire homing missiles that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9045
+        Value:
+          Value: 2
+          Type: 0
+          Order: 0
+      - statEvent: 9046
+        Value:
+          Value: 70
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: 'Fire homing missiles that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9045
+        Value:
+          Value: 3
+          Type: 0
+          Order: 0
+      - statEvent: 9046
+        Value:
+          Value: 90
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: 'Fire homing missiles that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9045
+        Value:
+          Value: 4
+          Type: 0
+          Order: 0
+      - statEvent: 9046
+        Value:
+          Value: 120
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: 'Fire homing missiles that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9045
+        Value:
+          Value: 5
+          Type: 0
+          Order: 0
+      - statEvent: 9046
+        Value:
+          Value: 150
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 0.18039216, g: 0.9568628, b: 0.7725491, a: 1}
+    spreadSheetName: Ship_data
+    workSheetName: ship5
+  - id: 6
+    name: Lunaris
+    description: Being inspired by the crescent moon, Lunaris is one of the most
+      elegant spaceships in the galaxy.
+    extDescription: Fire crescent blades
+    icon: {fileID: 21300000, guid: e55cad1e609b7d847a69605cd0bc843a, type: 3}
+    icons:
+    - {fileID: 21300000, guid: e55cad1e609b7d847a69605cd0bc843a, type: 3}
+    - {fileID: 21300000, guid: db4c76a5e40ada048ac9fbdffa2925c2, type: 3}
+    - {fileID: 21300000, guid: 1e9c4c2acc41d8841bcec4e989213db1, type: 3}
+    - {fileID: 21300000, guid: 0bed77fcab5539c4b8d56338b7448155, type: 3}
+    - {fileID: 21300000, guid: 8449bb018dce4304983f7cf5465407f7, type: 3}
+    extIcon: {fileID: 21300000, guid: f72ea16c119757e4692fca346c03ef79, type: 3}
+    canUnlockLevel: 20
+    currentLevel: 0
+    unlocked: 0
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 200
+        Type: 0
+        Order: 0
+      HP:
+        Value: 600
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 1000
+    - Attack:
+        Value: 211
+        Type: 0
+        Order: 0
+      HP:
+        Value: 635
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 222
+        Type: 0
+        Order: 0
+      HP:
+        Value: 670
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 233
+        Type: 0
+        Order: 0
+      HP:
+        Value: 705
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 244
+        Type: 0
+        Order: 0
+      HP:
+        Value: 740
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 255
+        Type: 0
+        Order: 0
+      HP:
+        Value: 775
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 266
+        Type: 0
+        Order: 0
+      HP:
+        Value: 810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 277
+        Type: 0
+        Order: 0
+      HP:
+        Value: 845
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 288
+        Type: 0
+        Order: 0
+      HP:
+        Value: 880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 299
+        Type: 0
+        Order: 0
+      HP:
+        Value: 915
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 310
+        Type: 0
+        Order: 0
+      HP:
+        Value: 950
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 321
+        Type: 0
+        Order: 0
+      HP:
+        Value: 985
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 332
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1020
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 343
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1055
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 354
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1090
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 365
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1125
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 376
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 387
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1195
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 398
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1230
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 409
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1265
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 422
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 435
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1355
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 448
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 461
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1445
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 474
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1490
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 487
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1535
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 500
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 513
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1625
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 526
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1670
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 539
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1715
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 552
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 565
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1805
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 578
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1850
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 591
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1895
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 604
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 617
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1985
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 630
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2030
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 643
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2075
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 656
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 669
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2165
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 684
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 699
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2275
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 714
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2330
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 729
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2385
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 744
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 759
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2495
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 774
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2550
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 789
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2605
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 804
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 819
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2715
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 834
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 849
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2825
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 864
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 879
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2935
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 894
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2990
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 909
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3045
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 924
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3100
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 939
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3155
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 954
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 969
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3265
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 986
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3330
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 1003
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3395
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 1020
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 1037
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3525
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 1054
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3590
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 1071
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3655
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 1088
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 1105
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3785
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 1122
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3850
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 1139
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3915
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 1156
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 1173
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4045
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 1190
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 1207
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4175
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 1224
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 1241
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4305
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 1258
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4370
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 1275
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4435
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 1292
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4500
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 1309
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4565
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 1328
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 1347
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4715
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 1366
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4790
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 1385
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4865
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 1404
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 1423
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5015
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 1442
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5090
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 1461
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5165
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 1480
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 1499
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5315
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 1518
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5390
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 1537
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5465
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 1556
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5540
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 1575
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5615
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 1594
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5690
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 1613
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5765
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 1632
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 1651
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5915
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 1670
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5990
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 5676923590084009481, guid: 116c58a43ad53794882ed202a2a25519,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: 'Fire crescent blades that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9049
+        Value:
+          Value: 0.3
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: 'Fire crescent blades that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9049
+        Value:
+          Value: 0.5
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: 'Fire crescent blades that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9049
+        Value:
+          Value: 0.7
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: 'Fire crescent blades that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9049
+        Value:
+          Value: 0.9
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: 'Fire crescent blades that last '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9049
+        Value:
+          Value: 1.1
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 1, g: 0.6392157, b: 0.43137258, a: 1}
+    spreadSheetName: 
+    workSheetName: 
+  - id: 7
+    name: Zeus
+    description: Zeus absorbs dark energy from the space and turns it into lightning
+      power
+    extDescription: Coming Soon
+    icon: {fileID: 21300000, guid: bad64c0ad60556b4d97708c566bc8ee1, type: 3}
+    icons:
+    - {fileID: 21300000, guid: bad64c0ad60556b4d97708c566bc8ee1, type: 3}
+    - {fileID: 21300000, guid: 40a5a606f58240d408e7c9b392cf669e, type: 3}
+    - {fileID: 21300000, guid: 4c57bb1bd1261e44ca28fbc52b7b2988, type: 3}
+    - {fileID: 21300000, guid: 641b9db62fc685f478f3db2579560181, type: 3}
+    - {fileID: 21300000, guid: 1b6a2aefa95037340870bff26f1d3a0a, type: 3}
+    extIcon: {fileID: 21300000, guid: 8f8ab636b4ec24449ba6da0154fedb6e, type: 3}
+    canUnlockLevel: 25
+    currentLevel: 0
+    unlocked: 0
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 300
+        Type: 0
+        Order: 0
+      HP:
+        Value: 900
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 2000
+    - Attack:
+        Value: 315
+        Type: 0
+        Order: 0
+      HP:
+        Value: 940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 330
+        Type: 0
+        Order: 0
+      HP:
+        Value: 980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 345
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1020
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 360
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 375
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1100
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 390
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1140
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 405
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 420
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 435
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1260
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 450
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1300
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 465
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 480
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 495
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1420
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 510
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 525
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1500
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 540
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1540
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 555
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 570
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 585
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1660
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 602
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1710
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 619
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 636
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 653
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1860
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 670
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1910
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 687
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 704
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 721
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 738
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 755
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 772
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 789
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2260
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 806
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 823
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 840
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 857
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 874
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2510
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 891
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 908
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2610
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 925
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2660
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 944
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 963
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2780
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 982
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 1001
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 1020
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 1039
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3020
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 1058
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 1077
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3140
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 1096
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3200
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 1115
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3260
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 1134
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 1153
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 1172
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 1191
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3500
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 1210
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 1229
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 1248
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 1267
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3740
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 1286
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 1305
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3860
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 1326
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3930
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 1347
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 1368
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4070
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 1389
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4140
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 1410
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 1431
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4280
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 1452
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4350
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 1473
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4420
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 1494
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4490
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 1515
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 1536
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4630
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 1557
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 1578
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4770
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 1599
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 1620
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4910
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 1641
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 1662
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5050
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 1683
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 1704
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5190
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 1725
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5260
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 1748
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 1771
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5420
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 1794
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5500
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 1817
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 1840
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 1863
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5740
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 1886
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5820
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 1909
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 1932
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 1955
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 1978
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6140
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 2001
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 2024
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6300
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 2047
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 2070
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 2093
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6540
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 2116
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 2139
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 2162
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6780
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 7099754786387785560, guid: 76346ccd48484df4cab9bb7b19340f87,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: 'Fire lightning bullets that bounce '
+      Suffix: ' times'
+      Description: 
+      SpecialValue:
+      - statEvent: 9050
+        Value:
+          Value: 1
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: 'Fire lightning bullets that bounce '
+      Suffix: ' times'
+      Description: 
+      SpecialValue:
+      - statEvent: 9050
+        Value:
+          Value: 2
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: 'Fire lightning bullets that bounce '
+      Suffix: ' times'
+      Description: 
+      SpecialValue:
+      - statEvent: 9050
+        Value:
+          Value: 3
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: 'Fire lightning bullets that bounce '
+      Suffix: ' times'
+      Description: 
+      SpecialValue:
+      - statEvent: 9050
+        Value:
+          Value: 4
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: 'Fire lightning bullets that bounce '
+      Suffix: ' times'
+      Description: 
+      SpecialValue:
+      - statEvent: 9050
+        Value:
+          Value: 5
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 0, g: 1, b: 0.94361734, a: 1}
+    spreadSheetName: 
+    workSheetName: 
+  - id: 8
+    name: Bombard
+    description: Bombard fires bombs that creates dangerous explosion and destroy
+      things area
+    extDescription: Coming Soon
+    icon: {fileID: 21300000, guid: f0e97c4ec5d69794199e9959dc894a0f, type: 3}
+    icons:
+    - {fileID: 21300000, guid: f0e97c4ec5d69794199e9959dc894a0f, type: 3}
+    - {fileID: 21300000, guid: 0412c1d3131c5d248a2e3a0de9bd5190, type: 3}
+    - {fileID: 21300000, guid: a6b64e72fb7ff1f4ca18a248d2d41226, type: 3}
+    - {fileID: 21300000, guid: 0d2c795b75047b34084237e86789ef78, type: 3}
+    - {fileID: 21300000, guid: e394f73694c278547a6bda4ad587e728, type: 3}
+    extIcon: {fileID: 21300000, guid: 8d2e5f86f64de6f4898669172ffc43c1, type: 3}
+    canUnlockLevel: 25
+    currentLevel: 0
+    unlocked: 0
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 250
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1000
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 2000
+    - Attack:
+        Value: 265
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1040
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 280
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 295
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 310
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 325
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1200
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 340
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 355
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1280
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 370
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 385
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 400
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 415
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 430
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 445
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 460
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 475
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 490
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 505
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 520
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 535
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1760
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 552
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 569
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1860
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 586
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1910
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 603
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 620
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 637
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 654
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 671
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 688
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 705
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2260
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 722
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 739
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 756
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 773
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 790
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2510
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 807
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 824
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2610
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 841
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 858
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2710
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 875
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2760
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 894
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2820
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 913
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 932
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 951
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 970
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 989
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 1008
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 1027
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 1046
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3300
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 1065
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 1084
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3420
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 1103
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 1122
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3540
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 1141
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 1160
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 1179
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 1198
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3780
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 1217
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 1236
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 1255
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3960
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 1276
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4030
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 1297
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4100
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 1318
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4170
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 1339
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 1360
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 1381
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4380
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 1402
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4450
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 1423
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 1444
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4590
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 1465
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 1486
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4730
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 1507
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 1528
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4870
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 1549
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4940
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 1570
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 1591
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 1612
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5150
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 1633
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 1654
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5290
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 1675
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5360
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 1698
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 1721
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 1744
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 1767
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 1790
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 1813
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 1836
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5920
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 1859
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 1882
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 1905
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 1928
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 1951
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 1974
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 1997
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 2020
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 2043
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 2066
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 2089
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 2112
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 630683477900229405, guid: 2bc4016ebb4643244b8e633408caac77,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: 'Fire bombs that explode after '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9051
+        Value:
+          Value: 2.5
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: 'Fire bombs that explode after '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9051
+        Value:
+          Value: 2
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: 'Fire bombs that explode after '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9051
+        Value:
+          Value: 1.5
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: 'Fire bombs that explode after '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9051
+        Value:
+          Value: 1
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: 'Fire bombs that explode after '
+      Suffix: s
+      Description: 
+      SpecialValue:
+      - statEvent: 9051
+        Value:
+          Value: 0.5
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 1, g: 0.38475227, b: 0, a: 1}
+    spreadSheetName: 
+    workSheetName: 
+  - id: 9
+    name: Novathirster
+    description: Novathirster absorbs enemy's life force and heals itself
+    extDescription: Coming Soon
+    icon: {fileID: 21300000, guid: e6e79f45862cdae4c83e92f4d0b9114b, type: 3}
+    icons:
+    - {fileID: 21300000, guid: e6e79f45862cdae4c83e92f4d0b9114b, type: 3}
+    - {fileID: 21300000, guid: 6182002a3d903c641b2ed51d7cf8d477, type: 3}
+    - {fileID: 21300000, guid: 84b8533c8adda9644af503cd3abb6fe8, type: 3}
+    - {fileID: 21300000, guid: fc31f23e0ae60ee4ea0537a3952a4122, type: 3}
+    - {fileID: 21300000, guid: c4c734dac45c65e42b2d661ef517f0fc, type: 3}
+    extIcon: {fileID: 21300000, guid: 5b43750db7465994a938493957aab1ba, type: 3}
+    canUnlockLevel: 25
+    currentLevel: 0
+    unlocked: 0
+    comingSoon: 0
+    levels:
+    - Attack:
+        Value: 350
+        Type: 0
+        Order: 0
+      HP:
+        Value: 800
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 2000
+    - Attack:
+        Value: 365
+        Type: 0
+        Order: 0
+      HP:
+        Value: 840
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 400
+    - Attack:
+        Value: 380
+        Type: 0
+        Order: 0
+      HP:
+        Value: 880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 800
+    - Attack:
+        Value: 395
+        Type: 0
+        Order: 0
+      HP:
+        Value: 920
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1200
+    - Attack:
+        Value: 410
+        Type: 0
+        Order: 0
+      HP:
+        Value: 960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 1600
+    - Attack:
+        Value: 425
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1000
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2000
+    - Attack:
+        Value: 440
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1040
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2400
+    - Attack:
+        Value: 455
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1080
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 2800
+    - Attack:
+        Value: 470
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3200
+    - Attack:
+        Value: 485
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 3600
+    - Attack:
+        Value: 500
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1200
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4000
+    - Attack:
+        Value: 515
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4400
+    - Attack:
+        Value: 530
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1280
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 4800
+    - Attack:
+        Value: 545
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5200
+    - Attack:
+        Value: 560
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 5600
+    - Attack:
+        Value: 575
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6000
+    - Attack:
+        Value: 590
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6400
+    - Attack:
+        Value: 605
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 6800
+    - Attack:
+        Value: 620
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 7200
+    - Attack:
+        Value: 635
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1560
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 20
+    - Attack:
+        Value: 652
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1610
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8000
+    - Attack:
+        Value: 669
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1660
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8400
+    - Attack:
+        Value: 686
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1710
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 8800
+    - Attack:
+        Value: 703
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1760
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9200
+    - Attack:
+        Value: 720
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 9600
+    - Attack:
+        Value: 737
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1860
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10000
+    - Attack:
+        Value: 754
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1910
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10400
+    - Attack:
+        Value: 771
+        Type: 0
+        Order: 0
+      HP:
+        Value: 1960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 10800
+    - Attack:
+        Value: 788
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2010
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11200
+    - Attack:
+        Value: 805
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2060
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 11600
+    - Attack:
+        Value: 822
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12000
+    - Attack:
+        Value: 839
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12400
+    - Attack:
+        Value: 856
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2210
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 12800
+    - Attack:
+        Value: 873
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2260
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13200
+    - Attack:
+        Value: 890
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2310
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 13600
+    - Attack:
+        Value: 907
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14000
+    - Attack:
+        Value: 924
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2410
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14400
+    - Attack:
+        Value: 941
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 14800
+    - Attack:
+        Value: 958
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2510
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 15200
+    - Attack:
+        Value: 975
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2560
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 50
+    - Attack:
+        Value: 994
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2620
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16000
+    - Attack:
+        Value: 1013
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16400
+    - Attack:
+        Value: 1032
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2740
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 16800
+    - Attack:
+        Value: 1051
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17200
+    - Attack:
+        Value: 1070
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2860
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 17600
+    - Attack:
+        Value: 1089
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2920
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18000
+    - Attack:
+        Value: 1108
+        Type: 0
+        Order: 0
+      HP:
+        Value: 2980
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18400
+    - Attack:
+        Value: 1127
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3040
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 18800
+    - Attack:
+        Value: 1146
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3100
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19200
+    - Attack:
+        Value: 1165
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3160
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 19600
+    - Attack:
+        Value: 1184
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3220
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20000
+    - Attack:
+        Value: 1203
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3280
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20400
+    - Attack:
+        Value: 1222
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3340
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 20800
+    - Attack:
+        Value: 1241
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21200
+    - Attack:
+        Value: 1260
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 21600
+    - Attack:
+        Value: 1279
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22000
+    - Attack:
+        Value: 1298
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3580
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22400
+    - Attack:
+        Value: 1317
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 22800
+    - Attack:
+        Value: 1336
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3700
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 23200
+    - Attack:
+        Value: 1355
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3760
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 100
+    - Attack:
+        Value: 1376
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3830
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24000
+    - Attack:
+        Value: 1397
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3900
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24400
+    - Attack:
+        Value: 1418
+        Type: 0
+        Order: 0
+      HP:
+        Value: 3970
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 24800
+    - Attack:
+        Value: 1439
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4040
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25200
+    - Attack:
+        Value: 1460
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4110
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 25600
+    - Attack:
+        Value: 1481
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4180
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26000
+    - Attack:
+        Value: 1502
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4250
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26400
+    - Attack:
+        Value: 1523
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 26800
+    - Attack:
+        Value: 1544
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4390
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27200
+    - Attack:
+        Value: 1565
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4460
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 27600
+    - Attack:
+        Value: 1586
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4530
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28000
+    - Attack:
+        Value: 1607
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28400
+    - Attack:
+        Value: 1628
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4670
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 28800
+    - Attack:
+        Value: 1649
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4740
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29200
+    - Attack:
+        Value: 1670
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4810
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 29600
+    - Attack:
+        Value: 1691
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30000
+    - Attack:
+        Value: 1712
+        Type: 0
+        Order: 0
+      HP:
+        Value: 4950
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30400
+    - Attack:
+        Value: 1733
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5020
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 30800
+    - Attack:
+        Value: 1754
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5090
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 31200
+    - Attack:
+        Value: 1775
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5160
+        Type: 0
+        Order: 0
+      Price:
+        i: 2
+        a: 200
+    - Attack:
+        Value: 1798
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5240
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32000
+    - Attack:
+        Value: 1821
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5320
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32400
+    - Attack:
+        Value: 1844
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5400
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 32800
+    - Attack:
+        Value: 1867
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5480
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33200
+    - Attack:
+        Value: 1890
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5560
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 33600
+    - Attack:
+        Value: 1913
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5640
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34000
+    - Attack:
+        Value: 1936
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5720
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34400
+    - Attack:
+        Value: 1959
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5800
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 34800
+    - Attack:
+        Value: 1982
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5880
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35200
+    - Attack:
+        Value: 2005
+        Type: 0
+        Order: 0
+      HP:
+        Value: 5960
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 35600
+    - Attack:
+        Value: 2028
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6040
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36000
+    - Attack:
+        Value: 2051
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6120
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36400
+    - Attack:
+        Value: 2074
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6200
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 36800
+    - Attack:
+        Value: 2097
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6280
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37200
+    - Attack:
+        Value: 2120
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6360
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 37600
+    - Attack:
+        Value: 2143
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6440
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38000
+    - Attack:
+        Value: 2166
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6520
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38400
+    - Attack:
+        Value: 2189
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6600
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 38800
+    - Attack:
+        Value: 2212
+        Type: 0
+        Order: 0
+      HP:
+        Value: 6680
+        Type: 0
+        Order: 0
+      Price:
+        i: 1
+        a: 39200
+    shipPrefab: {fileID: 630683477900229405, guid: 080ebc45143c25442ad24f3444be3d09,
+      type: 3}
+    isOpenChecked: 0
+    isSeeChecked: 0
+    shipSpecial:
+    - Level: 1
+      Prefix: 'Heal amount equal to '
+      Suffix: '% of damage dealt'
+      Description: 
+      SpecialValue:
+      - statEvent: 9052
+        Value:
+          Value: 1
+          Type: 0
+          Order: 0
+    - Level: 20
+      Prefix: 'Heal amount equal to '
+      Suffix: '% of damage dealt'
+      Description: 
+      SpecialValue:
+      - statEvent: 9052
+        Value:
+          Value: 2
+          Type: 0
+          Order: 0
+    - Level: 40
+      Prefix: 'Heal amount equal to '
+      Suffix: '% of damage dealt'
+      Description: 
+      SpecialValue:
+      - statEvent: 9052
+        Value:
+          Value: 5
+          Type: 0
+          Order: 0
+    - Level: 60
+      Prefix: 'Heal amount equal to '
+      Suffix: '% of damage dealt'
+      Description: 
+      SpecialValue:
+      - statEvent: 9052
+        Value:
+          Value: 10
+          Type: 0
+          Order: 0
+    - Level: 80
+      Prefix: 'Heal amount equal to '
+      Suffix: '% of damage dealt'
+      Description: 
+      SpecialValue:
+      - statEvent: 9052
+        Value:
+          Value: 20
+          Type: 0
+          Order: 0
+    shipEvolutionaries:
+    - Level: 20
+      EvolutionState: 0
+    - Level: 40
+      EvolutionState: 0
+    - Level: 60
+      EvolutionState: 0
+    - Level: 80
+      EvolutionState: 0
+    trailColor: {r: 1, g: 0, b: 0.38724613, a: 1}
+    spreadSheetName: 
+    workSheetName: 
+  chipEnhance: 400
+  attackDefault: 350
+  hpDefault: 800
+  attackAmp: 0f00000011000000130000001500000017000000
+  hpAmp: 28000000320000003c0000004600000050000000
+  indexss: 8

@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a441ddb3593819c4da7804bbb211546f, type: 3}
+  m_Name: TutorialZoneData
+  m_EditorClassIdentifier: 
+  source: {fileID: 11400000, guid: dbe20fd3436c2da42a82093ddf607b79, type: 2}
+  nameZone: Tutorial
+  icon: {fileID: 21300000, guid: ef5155a1d0f5cdd47b88e2905c77d8f3, type: 3}
+  difficultMultiplier: 1
+  waveDatas:
+  - {fileID: 11400000, guid: 0bec45146948ec442976006ea58eff5b, type: 2}
+  - {fileID: 11400000, guid: de2c0fc511153c34fb5d222e9a14be3b, type: 2}
+  - {fileID: 11400000, guid: e3ec8b34065d3af4fa0cf113d768e612, type: 2}
+  - {fileID: 11400000, guid: 63724b7e72ca96e49958d7a554ce8710, type: 2}
+  - {fileID: 11400000, guid: a35d51f56d8796e48ad21348c307166b, type: 2}
+  - {fileID: 11400000, guid: 6e26e4ddbd0a0c042a939b2e4ab044a0, type: 2}
+  - {fileID: 11400000, guid: a9f6a73f5b2b9d042986fd255d1ba0e9, type: 2}
+  - {fileID: 11400000, guid: 56684c51478021a40a6fac28264c469a, type: 2}
+  - {fileID: 11400000, guid: 9d9b218ba5134e8458183e308bbf861b, type: 2}
+  background:
+    staticBG: {fileID: 21300000, guid: 69f328f6883ada7438ee39bf16f5bd68, type: 3}
+    moveBGPrefab: {fileID: 7991348307957069275, guid: 610a2937a887d7847a79b388d07ff31f,
+      type: 3}
+  enemyIds: 01000000020000000300000005000000
+  minibossIds: 020000000300000004000000
+  bossIds: 010000000200000004000000
+  trapIds: 01000000
+  chestIds: 01000000
+  minibossNumberPreload: 1
+  bossNumberPreload: 1
+  trapNumberPreload: 2
+  chestNumberPreload: 1
+  firstUnlock: 0

@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zone10Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: f48a24d66f907b448a6c725e3e62a4a8, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 445d4970e4bc40944a3eddc01575f88a, type: 3}
+  - {fileID: 21300000, guid: c11dff311922ae14691689545405eb6a, type: 3}
+  - {fileID: 21300000, guid: 686c404198851c04f9e7eab4ff027281, type: 3}
+  - {fileID: 21300000, guid: 680705f1991010a4885a577097025cd8, type: 3}
+  - {fileID: 21300000, guid: f041e9d24a77eb94db32b9e334942f8e, type: 3}
+  - {fileID: 21300000, guid: 39b74cf22db070d428d5d0c43037ca93, type: 3}
+  - {fileID: 21300000, guid: dac498b4b77f51e42b3ecdbce2ebbbea, type: 3}
+  - {fileID: 21300000, guid: d977cae4fa2f6b34ba03ccdb47af59f7, type: 3}
+  - {fileID: 21300000, guid: 0f352ff544afa2b46811b78bc4e8e3a4, type: 3}
+  - {fileID: 21300000, guid: 5ca8fb16478c7c7408701866ab79497c, type: 3}
+  - {fileID: 21300000, guid: 74dd3f26c5b1b9b4b906f4836cc16735, type: 3}
+  - {fileID: 21300000, guid: 8a3c9fa71092d5d40a4b1d92f213109e, type: 3}
+  - {fileID: 21300000, guid: f8a649b7bfa607e40be3f27a7d8c0188, type: 3}
+  - {fileID: 21300000, guid: bd98b588078d64e4daa8d55a21a7b656, type: 3}
+  - {fileID: 21300000, guid: 0eb69af84e6c71d4ebb1ecda14307085, type: 3}
+  - {fileID: 21300000, guid: 745b062a6a83eb847abf674d2681cd98, type: 3}
+  - {fileID: 21300000, guid: 9dbad3dadf732b149b502d4d1e5a0265, type: 3}
+  - {fileID: 21300000, guid: 792f3feaafbff0f46a567f3e1b5738e0, type: 3}
+  - {fileID: 21300000, guid: 21697d7bfca60064996bfa9d5be972f5, type: 3}
+  - {fileID: 21300000, guid: a170508b7532b8949bab3b8de4182b31, type: 3}
+  - {fileID: 21300000, guid: e7d18c9c2608f5646869515a7182891e, type: 3}
+  - {fileID: 21300000, guid: 1cd579dc4cd2e4942a1f5bec51857f69, type: 3}
+  - {fileID: 21300000, guid: ca19d35d17864c648ae6231c774cb404, type: 3}
+  - {fileID: 21300000, guid: 01dda4ad3b25d0448b9c1fa60390672d, type: 3}
+  - {fileID: 21300000, guid: aa89c66ecb6a5bf4da5a93b36913d65f, type: 3}
+  - {fileID: 21300000, guid: 214593dee1a139b49839fd60f60a03ee, type: 3}
+  - {fileID: 21300000, guid: 36f5368faa5e49d4a8eef174d693902d, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - z10_deco B2
+  - e17-10-N
+  - e16-10-bullet2
+  - e06-10-bullet2
+  - e01-10-e
+  - e16-10-N
+  - e01-10-a
+  - e04-10-N
+  - e01-10-d
+  - e06-10-E
+  - e06-10-bullet1
+  - z10_deco S2
+  - e04-10-C
+  - z10_deco S4
+  - e16-10-C
+  - z10_deco S1
+  - e16-10-bullet1
+  - z10_deco S3
+  - e04-10-E
+  - e17-10-C
+  - e06-10-N
+  - e01-10-b
+  - e06-10-C
+  - e16-10-E
+  - e17-10-E
+  - z10_deco B1
+  - e01-10-c
+  m_RenderDataMap: {}
+  m_Tag: Zone10Atlas
+  m_IsVariant: 0

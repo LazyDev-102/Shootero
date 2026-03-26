@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0562cf17aea266418d36e74e07f15e0, type: 3}
+  m_Name: RankInfinityData
+  m_EditorClassIdentifier: 
+  ranks:
+  - {fileID: 11400000, guid: b78b7d603f1dfc740bf63fbc92d89eef, type: 2}
+  - {fileID: 11400000, guid: b076ceee90bb0764ca3b9c99ac9557e5, type: 2}
+  - {fileID: 11400000, guid: 6437c26ea3863e04d814de9b3f38bbd1, type: 2}

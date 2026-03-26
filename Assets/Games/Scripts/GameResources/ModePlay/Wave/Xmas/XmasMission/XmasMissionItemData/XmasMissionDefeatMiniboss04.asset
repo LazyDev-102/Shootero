@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79e99420dba35f8408fd206d0b2ada02, type: 3}
+  m_Name: XmasMissionDefeatMiniboss04
+  m_EditorClassIdentifier: 
+  nameMission: Defeat Miniboss
+  missionDescription: Defeat {0} Mini-bosses in Winterspace
+  pointTarget: 20
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 21
+    amount: 400
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 492f0000
+  descriptionWithTarget: 1
+  XmasCondition: {fileID: 11400000, guid: 76a8108f302b0244e884267b0a0d6616, type: 2}
+  nextMission: {fileID: 11400000, guid: 680548886726dca4eaa4fd1671bf4e0d, type: 2}
+  isLastMission: 0

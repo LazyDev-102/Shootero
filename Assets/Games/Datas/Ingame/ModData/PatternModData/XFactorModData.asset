@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c134c0499706d31439ee4570bda69e0a, type: 3}
+  m_Name: XFactorModData
+  m_EditorClassIdentifier: 
+  modId: 1005
+  type: 0
+  nameMod: X Factor
+  modDescription: 
+  icon: {fileID: 21300000, guid: 5110da659ecdb1b4b8a5923176f1e236, type: 3}
+  rarity: 3
+  maxStack: 1
+  levelRequire: 10
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []
+  patternType: 5

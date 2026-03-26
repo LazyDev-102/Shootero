@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "509885652314",
+    "project_id": "shootero-galaxy-space-shooter",
+    "storage_bucket": "shootero-galaxy-space-shooter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:509885652314:android:110eeb348bf422f010a763",
+        "android_client_info": {
+          "package_name": "com.galaxyattack.invadershootero"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "509885652314-ccbe8ohb5v13q0j3hbhrng4d1qrvsde6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDNXeu-njh5bLcO49gG3DeLDMcy0bc6t8w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "509885652314-ccbe8ohb5v13q0j3hbhrng4d1qrvsde6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

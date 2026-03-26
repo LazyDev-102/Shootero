@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 22e2e99f1c30c6a4ca31522c5a11bf9b, type: 3}
+  m_Name: HalloweenMissionReachWaveData05
+  m_EditorClassIdentifier: 
+  nameMission: 'Play Reach Wave '
+  missionDescription: Reach Wave {0} in Terror Space
+  pointTarget: 15
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 19
+    amount: 500
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 33270000
+  descriptionWithTarget: 0
+  halloweenCondition: {fileID: 11400000, guid: ea56401a2a8ca384db72b9c54b28e20f, type: 2}
+  nextMission: {fileID: 0}
+  isLastMission: 1

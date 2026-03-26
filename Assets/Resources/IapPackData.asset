@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 588e7dc427e48ed4eb9e4d746623a12b, type: 3}
+  m_Name: IapPackData
+  m_EditorClassIdentifier: 
+  resourcePack:
+    dayCheckin: 0
+    yearCheckin: 0
+    originPrice: com.shootero.resources
+    saleOffValue: 50
+    iapKey: com.shootero.resources.sale
+    defaulIap: 0.99
+    productType: 0
+    rewards:
+    - id: 2
+      amount: 100
+    - id: 1
+      amount: 7400
+    - id: 904
+      amount: 50
+  smartOffer:
+    active: 0
+    timeLimit: 1
+    timeOff: 3
+    timeStart: 0
+    nextTimeAppear: 0
+    bought: 0
+    packs:
+    - type: 0
+      originPrice: com.shootero.smartoffer1
+      saleOffValue: 33
+      iapKey: com.shootero.smartoffer1.sale
+      defaulIap: 1.99
+      productType: 0
+      reward:
+        id: 2402
+        amount: 1
+      rank: 1
+      frameIcon: {fileID: 21300000, guid: 11f9311471d804c4e9a690341c90a3cc, type: 3}
+    - type: 1
+      originPrice: com.shootero.smartoffer2
+      saleOffValue: 44
+      iapKey: com.shootero.smartoffer2.sale
+      defaulIap: 4.99
+      productType: 0
+      reward:
+        id: 2304
+        amount: 1
+      rank: 2
+      frameIcon: {fileID: 21300000, guid: 5484c0cd44df5a644afb730917f223e9, type: 3}
+    - type: 2
+      originPrice: com.shootero.smartoffer3
+      saleOffValue: 44
+      iapKey: com.shootero.smartoffer3.sale
+      defaulIap: 14.99
+      productType: 0
+      reward:
+        id: 2401
+        amount: 1
+      rank: 3
+      frameIcon: {fileID: 21300000, guid: 303a8bfe20815994783e35a47df29ea4, type: 3}

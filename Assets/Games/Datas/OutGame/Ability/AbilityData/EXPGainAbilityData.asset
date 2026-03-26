@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bde5d9daad7f85d40b1cc31f908e1229, type: 3}
+  m_Name: EXPGainAbilityData
+  m_EditorClassIdentifier: 
+  id: 7
+  abilityName: Mastery
+  abilityDescription: More EXP gain
+  prefix: ': '
+  icon: {fileID: 21300000, guid: 664036c1d4323db49b0d14e851c1d2bf, type: 3}
+  abilityStat:
+    statData: {fileID: 11400000, guid: f0e01bfe2132142468338b62ef6f32fb, type: 2}
+    datas:
+    - Value: 0.05
+      Type: 0
+      Order: 0
+    - Value: 0.1
+      Type: 0
+      Order: 0
+    - Value: 0.15
+      Type: 0
+      Order: 0
+    - Value: 0.2
+      Type: 0
+      Order: 0
+    - Value: 0.25
+      Type: 0
+      Order: 0
+    - Value: 0.3
+      Type: 0
+      Order: 0
+    - Value: 0.35
+      Type: 0
+      Order: 0
+    - Value: 0.4
+      Type: 0
+      Order: 0
+    - Value: 0.45
+      Type: 0
+      Order: 0
+    - Value: 0.5
+      Type: 0
+      Order: 0
+    defaulValue: 0

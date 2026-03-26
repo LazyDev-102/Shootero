@@ -1,0 +1,1338 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 304878adc0dc57f4285ebd7a9c15d9c5, type: 3}
+  m_Name: LevelProgressData
+  m_EditorClassIdentifier: 
+  datas:
+    pID: 01
+    pName: Shooter
+    currentLv: 25
+    ownedExp: 942
+    expProgress:
+    - level: 0
+      exp: 100
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 1
+      exp: 100
+      rewards:
+      - i: 1
+        a: 160
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 2
+      exp: 500
+      rewards:
+      - i: 1
+        a: 240
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 3
+      exp: 506
+      rewards:
+      - i: 1
+        a: 320
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 4
+      exp: 512
+      rewards:
+      - i: 1
+        a: 400
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 5
+      exp: 520
+      rewards:
+      - i: 1
+        a: 480
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 6
+      exp: 530
+      rewards:
+      - i: 1
+        a: 560
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 7
+      exp: 542
+      rewards:
+      - i: 1
+        a: 960
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 8
+      exp: 556
+      rewards:
+      - i: 1
+        a: 960
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 9
+      exp: 572
+      rewards:
+      - i: 1
+        a: 960
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 10
+      exp: 590
+      rewards:
+      - i: 1
+        a: 960
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 11
+      exp: 610
+      rewards:
+      - i: 1
+        a: 960
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 12
+      exp: 632
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 13
+      exp: 656
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 14
+      exp: 682
+      rewards:
+      - i: 1
+        a: 1120
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 15
+      exp: 710
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 16
+      exp: 740
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 17
+      exp: 772
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 18
+      exp: 806
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 19
+      exp: 842
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 20
+      exp: 880
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 21
+      exp: 920
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 22
+      exp: 962
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 23
+      exp: 1006
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 24
+      exp: 1052
+      rewards:
+      - i: 1
+        a: 2000
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 25
+      exp: 1100
+      rewards:
+      - i: 1
+        a: 2080
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 26
+      exp: 1150
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 27
+      exp: 1202
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 28
+      exp: 1256
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 29
+      exp: 1312
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 30
+      exp: 1370
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 31
+      exp: 1430
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 32
+      exp: 1492
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 33
+      exp: 1556
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 34
+      exp: 1622
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 35
+      exp: 1690
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 36
+      exp: 1760
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 37
+      exp: 1832
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 38
+      exp: 1906
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 39
+      exp: 1982
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 40
+      exp: 2060
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 41
+      exp: 2140
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 42
+      exp: 2222
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 43
+      exp: 2306
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 44
+      exp: 2392
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 45
+      exp: 2480
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 46
+      exp: 2570
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 47
+      exp: 2662
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 48
+      exp: 2756
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 49
+      exp: 2852
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 50
+      exp: 2950
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 51
+      exp: 3050
+      rewards:
+      - i: 1
+        a: 4160
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 52
+      exp: 3152
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 53
+      exp: 3256
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 54
+      exp: 3362
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 55
+      exp: 3470
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 56
+      exp: 3580
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 57
+      exp: 3692
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 58
+      exp: 3806
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 59
+      exp: 3922
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 60
+      exp: 4040
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 61
+      exp: 4160
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 62
+      exp: 4282
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 63
+      exp: 4406
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 64
+      exp: 4532
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 65
+      exp: 4660
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 66
+      exp: 4790
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 67
+      exp: 4922
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 68
+      exp: 5056
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 69
+      exp: 5192
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 70
+      exp: 5330
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 71
+      exp: 5470
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 72
+      exp: 5612
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 73
+      exp: 5756
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 74
+      exp: 5902
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 75
+      exp: 6050
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 76
+      exp: 6200
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 77
+      exp: 6352
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 78
+      exp: 6506
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 79
+      exp: 6662
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 80
+      exp: 6820
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 81
+      exp: 6980
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 82
+      exp: 7142
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 83
+      exp: 7306
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 84
+      exp: 7472
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 85
+      exp: 7640
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 86
+      exp: 7810
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 87
+      exp: 7982
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 88
+      exp: 8156
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 89
+      exp: 8332
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 90
+      exp: 8510
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 91
+      exp: 8690
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 92
+      exp: 8872
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 93
+      exp: 9056
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 94
+      exp: 9242
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 95
+      exp: 9430
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 96
+      exp: 9620
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 97
+      exp: 9812
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 98
+      exp: 10006
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    - level: 99
+      exp: 10202
+      rewards:
+      - i: 1
+        a: 100
+      - i: 2
+        a: 20
+      chipAfkPoint: 4
+    rewards:
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 5
+      zone: 1
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 10
+      zone: 1
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 15
+      zone: 1
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      - i: 111
+        a: 1
+      claimed: 0
+      wave: 20
+      zone: 1
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 50
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 25
+      zone: 1
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 5
+      zone: 2
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 10
+      zone: 2
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 15
+      zone: 2
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 20
+      zone: 2
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 50
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 25
+      zone: 2
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 3
+      zone: 3
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 6
+      zone: 3
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      - i: 3
+        a: 5
+      - i: 111
+        a: 1
+      claimed: 0
+      wave: 9
+      zone: 3
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 80
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 10
+      zone: 3
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 5
+      zone: 4
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 10
+      zone: 4
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 15
+      zone: 4
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      - i: 111
+        a: 1
+      claimed: 0
+      wave: 20
+      zone: 4
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 50
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 25
+      zone: 4
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 3
+      zone: 5
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 6
+      zone: 5
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 50
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 9
+      zone: 5
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 50
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 10
+      zone: 5
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 5
+      zone: 6
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 10
+      zone: 6
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 15
+      zone: 6
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 20
+      zone: 6
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 25
+      zone: 6
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 3
+      zone: 7
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 6
+      zone: 7
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 9
+      zone: 7
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 80
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 10
+      zone: 7
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 5
+      zone: 8
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 10
+      zone: 8
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 15
+      zone: 8
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 20
+      zone: 8
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 50
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 25
+      zone: 8
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 3
+      zone: 9
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      claimed: 0
+      wave: 6
+      zone: 9
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 30
+      - i: 3
+        a: 5
+      claimed: 0
+      wave: 9
+      zone: 9
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 50
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 10
+      zone: 9
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 5
+      zone: 10
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 10
+      zone: 10
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 15
+      zone: 10
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      claimed: 0
+      wave: 20
+      zone: 10
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 25
+      zone: 10
+      comingSoon: 0
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 5
+      zone: 11
+      comingSoon: 1
+    - itemRewards:
+      - i: 2
+        a: 20
+      - i: 3
+        a: 5
+      - i: 112
+        a: 1
+      claimed: 0
+      wave: 10
+      zone: 11
+      comingSoon: 1
+    unlockFeature:
+      levelUnlockAbility: 2
+      levelUnlockShop: 1
+      levelUnlockDalyLogin: 1
+      levelUnlockEnhanceShip: 1
+      levelUnlockEnhanceGear: 1
+      levelUnlockInfinityMode: 10
+      levelUnlockChest: 999
+      levelUnlockGearSlotItem: 1
+      levelUnlockGearSlotDrone1: 1
+      levelUnlockGearSlotDrone2: 5
+      levelUnlockShip2: 4
+      levelUnlockShip3: 6
+      levelUnlockShip4: 7
+      levelUnlockShip5: 9
+      levelUnlockShip6: 19
+      levelUnlockDrone1: 1
+      levelUnlockDrone2: 5
+      unlockMode:
+      - levelUnlock: 1
+        modIDs:
+        - {fileID: 11400000, guid: b9d7f5e333d57fe42a72c2edb65aca31, type: 2}
+        - {fileID: 11400000, guid: b75783669153f25419064c68e99fa56e, type: 2}
+        - {fileID: 11400000, guid: 35fba5d144e7b0a4589765c0150e8a88, type: 2}
+        - {fileID: 11400000, guid: b3c426dcc350f36468009c3ec1cbefeb, type: 2}
+        - {fileID: 11400000, guid: c6a33673f05261449aa0f0dbe4e21998, type: 2}
+        - {fileID: 11400000, guid: 51a59185a4a6b4f48a5eb4d6edf9f3fa, type: 2}
+        - {fileID: 11400000, guid: 1c3e29b776da2794b8708022afc63dd7, type: 2}
+        - {fileID: 11400000, guid: ad9a014a0cd016348a7d82dd48c75115, type: 2}
+      - levelUnlock: 5
+        modIDs:
+        - {fileID: 11400000, guid: 5399474e234bcf847ad967d9b701476e, type: 2}
+        - {fileID: 11400000, guid: 43c03a2844ec71c4c81861775c7a5c7a, type: 2}
+        - {fileID: 11400000, guid: 091497cc946968c4ca9248baa6362a9d, type: 2}
+        - {fileID: 11400000, guid: b7cce894e3b0681438fb73a4e1fb1cf5, type: 2}
+      - levelUnlock: 8
+        modIDs:
+        - {fileID: 11400000, guid: ed3d547dad0f6a142b305289e4391745, type: 2}
+        - {fileID: 11400000, guid: cf4b0919d5485004c9c1e5dadd1d6328, type: 2}
+        - {fileID: 11400000, guid: a202404209d97254ea6981012a623696, type: 2}
+      - levelUnlock: 10
+        modIDs:
+        - {fileID: 11400000, guid: 5472ade7fd738d04fbeb27e59cff1653, type: 2}
+        - {fileID: 11400000, guid: 4723a23e1b3fc634eb238d66a21719f1, type: 2}
+        - {fileID: 11400000, guid: 7bc07cdd479475949a52979c05725361, type: 2}
+      - levelUnlock: 12
+        modIDs:
+        - {fileID: 11400000, guid: 355d620f319190d40b0eae144a7077d2, type: 2}
+        - {fileID: 11400000, guid: c39a8cc5825c0964ca2364b22aef3d5d, type: 2}
+        - {fileID: 11400000, guid: 5100f41f984b3504e9952639bd490109, type: 2}
+      - levelUnlock: 14
+        modIDs:
+        - {fileID: 11400000, guid: 9eb6e3caca1014f49a6d4e9b0e0053b8, type: 2}
+        - {fileID: 11400000, guid: 8a235604214493c43bb5bd44eebe98e8, type: 2}
+        - {fileID: 11400000, guid: 2cf0a302acf63814080f37e0de9c9ce3, type: 2}
+        - {fileID: 11400000, guid: cc6df63bb97dda649a55014480236043, type: 2}
+      - levelUnlock: 15
+        modIDs:
+        - {fileID: 11400000, guid: b113e93316fe5654bb6b1b98cc80fb3c, type: 2}
+        - {fileID: 11400000, guid: 4dab79db113842646b268b8c4160dc67, type: 2}
+        - {fileID: 11400000, guid: 801ed742d35fe254b862f7de736368fd, type: 2}
+        - {fileID: 11400000, guid: 6ecc12bf185195648ae1ee22060556a6, type: 2}
+      - levelUnlock: 16
+        modIDs:
+        - {fileID: 11400000, guid: 27e74c386b0191241a8b47115d2ac285, type: 2}
+        - {fileID: 11400000, guid: cf05dd38bbd6dcf4c874d3c2091a46d0, type: 2}
+        - {fileID: 11400000, guid: 1fc223cfe3613034b9d970d77b00c2d4, type: 2}
+      - levelUnlock: 17
+        modIDs:
+        - {fileID: 11400000, guid: 4b03fd717bb4c234a95a03b2bbb86868, type: 2}
+        - {fileID: 11400000, guid: ad91b63ffa8e3e2488f223f82821bccc, type: 2}
+        - {fileID: 11400000, guid: 82870dec561dedd49ba505b58a5d6b54, type: 2}
+        - {fileID: 11400000, guid: d4258f548bc2bcc4f9a5a9be0c4cc879, type: 2}
+      - levelUnlock: 18
+        modIDs:
+        - {fileID: 11400000, guid: c6232a655dd90e642b5e2ba7f9827926, type: 2}
+        - {fileID: 11400000, guid: c542fbd024b249242b607177171649e6, type: 2}
+        - {fileID: 11400000, guid: c5135d1dd8c28ce4b8292c7d141c5e8d, type: 2}
+        - {fileID: 11400000, guid: 4d03360356ed34d4496be352ab38dbe0, type: 2}
+        - {fileID: 11400000, guid: 9c514181d4dab9a41aa1ac3f332271e0, type: 2}
+        - {fileID: 11400000, guid: 4c791194ef71ba04aad6d32466359705, type: 2}
+        - {fileID: 11400000, guid: 6a09ef052cc1e624e95016df35474ab2, type: 2}
+      - levelUnlock: 19
+        modIDs:
+        - {fileID: 11400000, guid: 3d08dd79761709342a06a9ddf08b5852, type: 2}
+        - {fileID: 11400000, guid: 3729994c024c53741b68cc66a448401e, type: 2}
+        - {fileID: 11400000, guid: fcee27560d3cba6458e92bcfeca91904, type: 2}
+      - levelUnlock: 20
+        modIDs:
+        - {fileID: 11400000, guid: ff7e61f88cdc23346b01f07db7a7da33, type: 2}
+        - {fileID: 11400000, guid: 1c56d5cc480dca347b1cea8a4a911444, type: 2}
+        - {fileID: 11400000, guid: 2343d8862a09b9e48adde6449ebda98c, type: 2}
+        - {fileID: 11400000, guid: c45b5c858d33c314ca75a086fa71a934, type: 2}
+      - levelUnlock: 21
+        modIDs:
+        - {fileID: 11400000, guid: b5f4683f548068c44b8a081ead69e006, type: 2}
+        - {fileID: 11400000, guid: 9fc19c8de8ac5404d90021589f03f4a7, type: 2}
+        - {fileID: 11400000, guid: d5003145a022aca41873f9f82aa4d91f, type: 2}
+        - {fileID: 11400000, guid: 95c48ed252c533244a9de2628fae7812, type: 2}
+      - levelUnlock: 22
+        modIDs:
+        - {fileID: 11400000, guid: 1b0a485f55299d843935f9a4dcbf0d8f, type: 2}
+        - {fileID: 11400000, guid: d270941c97592d749bce9453c58b3269, type: 2}
+        - {fileID: 11400000, guid: aa55e47bd93c74c4c8a211b4151282c5, type: 2}
+        - {fileID: 11400000, guid: b9924da139391dc4fb75d87723e1b8e7, type: 2}
+    newLevelUnlock: 1
+    pointLevelup: 26

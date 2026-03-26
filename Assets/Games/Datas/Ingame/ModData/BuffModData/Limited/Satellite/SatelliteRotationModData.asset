@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb76fe97f3fcac64c8340d2b14907053, type: 3}
+  m_Name: SatelliteRotationModData
+  m_EditorClassIdentifier: 
+  modId: 60
+  type: 0
+  nameMod: Satellite Rotation
+  modDescription: Increase satellite rotate speed
+  icon: {fileID: 21300000, guid: 78ea931ff6efec54b99c4962af9ecaf5, type: 3}
+  rarity: 1
+  maxStack: 3
+  levelRequire: 15
+  requireMods:
+  - {fileID: 11400000, guid: b113e93316fe5654bb6b1b98cc80fb3c, type: 2}
+  requireBetweenMods: []
+  notContainMods: []
+  speedRotationPercent: 0.3

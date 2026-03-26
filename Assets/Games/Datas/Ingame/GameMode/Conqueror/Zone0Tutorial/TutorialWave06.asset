@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e5ed00ada02c6a4c8ff956c89bc476a, type: 3}
+  m_Name: TutorialWave06
+  m_EditorClassIdentifier: 
+  waveMultipler: 1
+  difficult: 0
+  rangeChip:
+    startValue: 28
+    endValue: 32
+  rangeHealOrb:
+    startValue: 1
+    endValue: 1
+  rangeMaterial:
+    startValue: 0
+    endValue: 0
+  rangeGear:
+    startValue: 0
+    endValue: 0
+  waveType: 3
+  enemyIds: 0100000003000000
+  trapIds: 
+  setEventRules: []
+  configModeWaves:
+    limitRange:
+      startValue: 5
+      endValue: 6
+    timeRange:
+      startValue: 4
+      endValue: 6
+  difficultPercents:
+    typePercents:
+    - type: 0
+      percent: 100
+    - type: 1
+      percent: 0
+    - type: 2
+      percent: 0
+  trapDifficultPercents:
+    typePercents:
+    - type: 0
+      percent: 100
+    - type: 1
+      percent: 0
+    - type: 2
+      percent: 0
+    limitTrap: 0

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7f5a8fea8a17c418dcaac02a8677f7, type: 3}
+  m_Name: ModCollector
+  m_EditorClassIdentifier: 
+  nameCollector: Mods
+  items:
+  - {fileID: 11400000, guid: e8d402cc00324d44bbd2f20a029e8942, type: 2}
+  - {fileID: 11400000, guid: 2ccc9a26756625f4ba154d7a78543c47, type: 2}
+  - {fileID: 11400000, guid: c7fa3cc6509954d428c2f8da79f4f4ab, type: 2}
+  - {fileID: 11400000, guid: 5f015f2f555b90c428754199fef1529c, type: 2}
+  - {fileID: 11400000, guid: d92464556055fd8429fc7034249ced6b, type: 2}
+  - {fileID: 11400000, guid: 2d9b05d1f686a294e80b1cd8462dee71, type: 2}
+  - {fileID: 11400000, guid: 0befaec52ef4c0b449d2218bbb793a84, type: 2}
+  - {fileID: 11400000, guid: f9ef5884ce48f31498ecd1efc16e2959, type: 2}
+  - {fileID: 11400000, guid: 819b6d225e4d29d4a97f1237e80322be, type: 2}

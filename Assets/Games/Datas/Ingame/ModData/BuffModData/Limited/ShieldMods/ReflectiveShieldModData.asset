@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dbee534ed6816054cb2ba63124b3b3e0, type: 3}
+  m_Name: ReflectiveShieldModData
+  m_EditorClassIdentifier: 
+  modId: 34
+  type: 1
+  nameMod: Reflective Shield
+  modDescription: Shield has chance to reflect enemy bullet
+  icon: {fileID: 21300000, guid: fdab4a04d21e74f46a6ba6e91d2779cb, type: 3}
+  rarity: 1
+  maxStack: 1
+  levelRequire: 16
+  requireMods:
+  - {fileID: 11400000, guid: ed3d547dad0f6a142b305289e4391745, type: 2}
+  requireBetweenMods: []
+  notContainMods: []
+  percentDamage: 0.2
+  turretShieldModData: {fileID: 11400000, guid: 284628e4f5b513346a22ee7c05f10bb6,
+    type: 2}
+  droneShieldModData: {fileID: 11400000, guid: e78d8209ded53c84b954ef4b7804b8d5, type: 2}

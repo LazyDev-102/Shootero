@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 33ff002bf38dcad44a85ffffb549f895, type: 3}
+  m_Name: UserProfile
+  m_EditorClassIdentifier: 
+  usingCloud: 0
+  myInfo:
+    r: 0
+    n: '"\"\""'
+    l: 0
+    s: 0
+  userProfiles:
+  - r: 1
+    n: Pz
+    l: 100
+    s: 999998
+  - r: 2
+    n: "Linh \u0110\u1ED1m"
+    l: 100
+    s: 169015
+  - r: 3
+    n: Phapzbc
+    l: 2
+    s: 151100
+  - r: 4
+    n: "Nguy\u1EC5n Kh\u1EAFc  Tu\u1EA5n"
+    l: 80
+    s: 99987
+  - r: 5
+    n: "V\u0169 Th\u1ECB H\u01B0\u01A1ng"
+    l: 35
+    s: 99794
+  - r: 6
+    n: "\u0110\u1ED7 Thanh Tu\u1EA5n"
+    l: 43
+    s: 99760
+  - r: 7
+    n: "D\u01B0\u01A1ng Th\u1ECB \xE1nh"
+    l: 87
+    s: 99687
+  - r: 8
+    n: "\u0110\u1ED7 V\u0103n Quy"
+    l: 12
+    s: 99542
+  - r: 9
+    n: "Nguy\u1EC5n \u0110\u1EE9c  S\u01A1n"
+    l: 48
+    s: 99486
+  - r: 10
+    n: "V\u0169 Phan M\u1EF9  Linh"
+    l: 48
+    s: 99397

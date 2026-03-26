@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 57366dff910e18f449ea889b6293ee7e, type: 3}
+  m_Name: NewAbilityData
+  m_EditorClassIdentifier: 
+  totalPoint: 0
+  point: 0
+  day: 0
+  year: 0
+  timeFreeReset: 7
+  buyPrice:
+    i: 1
+    a: 10000
+  resetPrice:
+    i: 2
+    a: 100
+  datas:
+  - {fileID: 11400000, guid: 1ad9c215f58360b45a2b47b25cd1e2da, type: 2}
+  - {fileID: 11400000, guid: 2fcb34c766063ec4aa1031c77bf3794b, type: 2}
+  - {fileID: 11400000, guid: 0fdf4eca98183034b84f0ae291440795, type: 2}
+  - {fileID: 11400000, guid: 89906ca1e36d14b4d8743eb7ca40236d, type: 2}
+  - {fileID: 11400000, guid: eff6458e8d4447840aad15288eebf6c3, type: 2}
+  - {fileID: 11400000, guid: f005b872a61003c43945ee2faa7b2caf, type: 2}
+  - {fileID: 11400000, guid: 610e84bd638023443bd6caa3ee74c91a, type: 2}
+  - {fileID: 11400000, guid: 82804f5a8b81bd449b8677e4cdc16a97, type: 2}
+  - {fileID: 11400000, guid: 6f5f194adf555294b840961edcd45b2f, type: 2}
+  - {fileID: 11400000, guid: 1aa36f3339cee1f4f89d5ddbb6b54110, type: 2}
+  - {fileID: 11400000, guid: 7694d73a97c9bbc4e86cad2fc7389be1, type: 2}
+  - {fileID: 11400000, guid: 0cf1296415b1ce64ea51dd41f164c74d, type: 2}
+  - {fileID: 11400000, guid: 85b19623919a4b74681f91655adb7629, type: 2}

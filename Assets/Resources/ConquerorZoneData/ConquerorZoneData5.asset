@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a441ddb3593819c4da7804bbb211546f, type: 3}
+  m_Name: ConquerorZoneData5
+  m_EditorClassIdentifier: 
+  source: {fileID: 0}
+  nameZone: Pentalium
+  icon: {fileID: 21300000, guid: 48a5bc020f21e3746ad81be6ec635058, type: 3}
+  difficultMultiplier: 5
+  waveDatas:
+  - {fileID: 11400000, guid: 728419d2e529015458931583b7ea4aa0, type: 2}
+  - {fileID: 11400000, guid: 05f068ab1f904814e9a1c83f57ee98a2, type: 2}
+  - {fileID: 11400000, guid: 7dbec64f928543146863fec251d5ad9d, type: 2}
+  - {fileID: 11400000, guid: dd09de19a5ac01c44983300f2dff1bc5, type: 2}
+  - {fileID: 11400000, guid: 240c13ef0dcc2c540808bc3a8c42548c, type: 2}
+  - {fileID: 11400000, guid: 7ae69559447306840b60dedc0854e808, type: 2}
+  - {fileID: 11400000, guid: c350fd05765e34c4997300e07c1e34bc, type: 2}
+  - {fileID: 11400000, guid: 8e2bbe989f074fd42aa11e3952d1b273, type: 2}
+  - {fileID: 11400000, guid: 4d9551712ca92c4409d90e60ec2debb8, type: 2}
+  - {fileID: 11400000, guid: b0276c055e2a4ee48beeb5cbfb216e5e, type: 2}
+  background:
+    staticBG: {fileID: 21300000, guid: 41fa0d3765ce6be46884bab230e1bac4, type: 3}
+    moveBGPrefab: {fileID: 7991348307957069275, guid: 3f0fc1ea8937ddc4087a6d529b3ad57a,
+      type: 3}
+  enemyIds: 01000000
+  minibossIds: 010000000500000007000000040000000600000008000000
+  bossIds: 060000000a000000
+  trapIds: 
+  chestIds: 010000000200000003000000
+  minibossNumberPreload: 1
+  bossNumberPreload: 1
+  trapNumberPreload: 2
+  chestNumberPreload: 15
+  firstUnlock: 0

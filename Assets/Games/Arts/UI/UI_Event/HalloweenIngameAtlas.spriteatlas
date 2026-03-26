@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HalloweenIngameAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: eed87cbd48d8d4b4e8c71997b8cbac17, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 3bf275406ad5ef84eac9b52be731eb9a, type: 3}
+  - {fileID: 21300000, guid: ac7cb501d8519db4696d2312cad43e39, type: 3}
+  - {fileID: 21300000, guid: b69f7711cb0c3ae49a04c3c19420dbfa, type: 3}
+  - {fileID: 21300000, guid: c83daea1bc9c6b2479dbcbdb8581c547, type: 3}
+  - {fileID: 21300000, guid: 4a880a13dd2af9840b789159923bc20f, type: 3}
+  - {fileID: 21300000, guid: 888b32a376429b843806295a2a3eb127, type: 3}
+  - {fileID: 21300000, guid: e32a6dd3f48f0e14dbdbf5b2b9bc8115, type: 3}
+  - {fileID: 21300000, guid: 583b2644d72fb894891c2717aa05a690, type: 3}
+  - {fileID: 21300000, guid: 5e1fa1947070d7245853eeac99ae2bc7, type: 3}
+  - {fileID: 21300000, guid: 4f06a0c411ce6cc4797cdd15ae07408d, type: 3}
+  - {fileID: 21300000, guid: 89ab5d7673dc9cd42a01f07edcfaf218, type: 3}
+  - {fileID: 21300000, guid: 952b5617adcd4b04d9140b8a6f60c31c, type: 3}
+  - {fileID: 21300000, guid: b274ff779a86605459543f2c5a445760, type: 3}
+  - {fileID: 21300000, guid: be2511b7e82c6924589d49eb15e5fa76, type: 3}
+  - {fileID: 21300000, guid: 835b10f70a7bbce4882243062780ecb8, type: 3}
+  - {fileID: 21300000, guid: f89909f7fd5499f4097f046e38d042c2, type: 3}
+  - {fileID: 21300000, guid: 1cda92b826a8c9747a6ffb7fd2f2355c, type: 3}
+  - {fileID: 21300000, guid: fbda191a534dee940991bdbcd013bbc9, type: 3}
+  - {fileID: 21300000, guid: e9bc847a4c2d14343988e90356925253, type: 3}
+  - {fileID: 21300000, guid: bbfa442ca5f755744977004785a11754, type: 3}
+  - {fileID: 21300000, guid: ea9fdbcc51947b24c9c3b1196cd3f827, type: 3}
+  - {fileID: 21300000, guid: 497a925d54a8124458be4cdef5405984, type: 3}
+  - {fileID: 21300000, guid: c705c67db009e3640810422458bfe5ed, type: 3}
+  - {fileID: 21300000, guid: 13c2f77d1fa55ff4a8feca5b8a40cfb3, type: 3}
+  - {fileID: 21300000, guid: 08ba1fedaaeefa641a84cc7890aaf126, type: 3}
+  - {fileID: 21300000, guid: e587698e5b2280943bb8c45e4558b8a2, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - e18_3
+  - he03Bullet
+  - he04Bullet2
+  - e18_1
+  - e19_3
+  - b16_4
+  - e20_1
+  - e20_3
+  - hb01Bullet1
+  - hmb02Bullet
+  - mb_18
+  - e19_2
+  - e19_1
+  - e20_2
+  - e21_2
+  - b16_2
+  - b16_3
+  - e21_1
+  - e21_3
+  - he04Bullet1
+  - mb_19
+  - b16_1
+  - BG Halloween
+  - hmb01Bullet
+  - hb01RageBullet
+  - e18_2
+  m_RenderDataMap: {}
+  m_Tag: HalloweenIngameAtlas
+  m_IsVariant: 0

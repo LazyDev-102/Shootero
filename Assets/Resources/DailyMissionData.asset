@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 30558e353abfdcc44a1e2af80effbf3e, type: 3}
+  m_Name: DailyMissionData
+  m_EditorClassIdentifier: 
+  nameEvent: Daily Mission
+  checkinDay: 0
+  checkinYear: 0
+  pointTarget: 100
+  pointProgress: 0
+  datas:
+  - {fileID: 11400000, guid: ac967740d29972345bdcc35697dc446e, type: 2}
+  - {fileID: 11400000, guid: 3784601e53257cd4f98fc869474da106, type: 2}
+  - {fileID: 11400000, guid: 836aa37aaac0e3c48a5d42b0d115fd7a, type: 2}
+  - {fileID: 11400000, guid: 78d48a6f8e7a05b43a21808e37c9eecb, type: 2}
+  - {fileID: 11400000, guid: c0f0e4bd8b2cc28478e3c274e06be5d0, type: 2}
+  - {fileID: 11400000, guid: 85417644637694a4eb05fc19ecb28233, type: 2}
+  - {fileID: 11400000, guid: 50974374b25d7064885f291ca5c6187f, type: 2}
+  - {fileID: 11400000, guid: 8cf1d10a98d5c0d4e99f5872e4b83dce, type: 2}
+  - {fileID: 11400000, guid: 5b3e4abfa08610b4eb4d29ca7f72b6eb, type: 2}
+  - {fileID: 11400000, guid: 78d03c1012d74a14eb38a1a0169e121d, type: 2}
+  - {fileID: 11400000, guid: 5946c2bb97fffc44893db4c73e3214ca, type: 2}
+  - {fileID: 11400000, guid: acd87df0ed4f83a4f950246615189323, type: 2}
+  - {fileID: 11400000, guid: 80317819f9250b04b934206e3749322e, type: 2}
+  - {fileID: 11400000, guid: f1627029f07d41746a799084febdd3cb, type: 2}
+  - {fileID: 11400000, guid: 74ac7d1e9b5972a45a10e1a7832bbce2, type: 2}
+  - {fileID: 11400000, guid: ac0f212214b024b46913762f2897fad2, type: 2}
+  progressDatas:
+  - {fileID: 11400000, guid: 2c61e63a087c3564c80946882afc6881, type: 2}
+  - {fileID: 11400000, guid: 89437e9f1f4f671428584cc02ffa7ccd, type: 2}
+  - {fileID: 11400000, guid: b7f642b024bcd9b43a84870d0a1bb310, type: 2}
+  - {fileID: 11400000, guid: c3d7764eec5484b4786fbac6cecd58c1, type: 2}
+  - {fileID: 11400000, guid: ba2d2ea539c5d7d4484f22de1ed737df, type: 2}
+  isComplete: 0
+  itemClaim:
+  - id: 4
+    amount: 0

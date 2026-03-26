@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 79e99420dba35f8408fd206d0b2ada02, type: 3}
+  m_Name: XmasMissionDefeatEnemy02
+  m_EditorClassIdentifier: 
+  nameMission: Defeat Enemy
+  missionDescription: Defeat {0} enemies in Winterspace
+  pointTarget: 100
+  pointProgress: 0
+  isComplete: 0
+  reward:
+  - id: 21
+    amount: 200
+  condition: {fileID: 0}
+  gotoSource: {fileID: 0}
+  eventRegisters: 482f0000
+  descriptionWithTarget: 1
+  XmasCondition: {fileID: 11400000, guid: d13d68abeb1dcdd48891345a9e35899c, type: 2}
+  nextMission: {fileID: 11400000, guid: 0bbd76c956877c340b1bcf252571b955, type: 2}
+  isLastMission: 0

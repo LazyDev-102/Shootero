@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ce947ca91817d8b4ea978e8dd57d594a, type: 3}
+  m_Name: AssaultSatelliteModData
+  m_EditorClassIdentifier: 
+  modId: 21
+  type: 2
+  nameMod: Assault Satellite
+  modDescription: 3 Satellites can deal collision damage
+  icon: {fileID: 21300000, guid: b22a26832a857b94ca02c98913ffccd6, type: 3}
+  rarity: 3
+  maxStack: 1
+  levelRequire: 20
+  requireMods:
+  - {fileID: 11400000, guid: b113e93316fe5654bb6b1b98cc80fb3c, type: 2}
+  requireBetweenMods: []
+  notContainMods: []
+  percentColliderDamage: 0.5

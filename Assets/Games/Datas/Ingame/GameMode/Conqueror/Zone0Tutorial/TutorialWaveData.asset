@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a39502f55b77ac94e92b4e8ab1133185, type: 3}
+  m_Name: TutorialWaveData
+  m_EditorClassIdentifier: 
+  waveMultipler: 1
+  difficult: 0
+  rangeChip:
+    startValue: 6
+    endValue: 7
+  rangeHealOrb:
+    startValue: 0
+    endValue: 0
+  rangeMaterial:
+    startValue: 0
+    endValue: 0
+  rangeGear:
+    startValue: 0
+    endValue: 0
+  waveType: 3
+  enemyIds: 01000000
+  e01: {fileID: 4011754527193147505, guid: 19f3dfaf4234776468ce19c9b040a8d1, type: 3}
+  e02: {fileID: 3221388503968184966, guid: 81685290a87235244a32fda4e1b5611c, type: 3}
+  numberE01: 3

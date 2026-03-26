@@ -1,0 +1,120 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 68ad403deca1664419885a132afeec10, type: 3}
+  m_Name: ShotGunPatternData_03
+  m_EditorClassIdentifier: 
+  patternInfos:
+  - attackSpeed: 2.5
+    damagePercent: 0.5
+    numberBullet: 5
+    spreadAngle: 15
+    speedBullet: 40
+    distance:
+      startValue: 5
+      endValue: 7
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 2.5
+    damagePercent: 0.4
+    numberBullet: 9
+    spreadAngle: 15
+    speedBullet: 40
+    distance:
+      startValue: 4
+      endValue: 6
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 2.5
+    damagePercent: 0.3
+    numberBullet: 13
+    spreadAngle: 15
+    speedBullet: 40
+    distance:
+      startValue: 3
+      endValue: 5
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 2.5
+    damagePercent: 0.2
+    numberBullet: 17
+    spreadAngle: 15
+    speedBullet: 40
+    distance:
+      startValue: 2
+      endValue: 4
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  focusPatternInfos:
+  - attackSpeed: 2.5
+    damagePercent: 0.5
+    numberBullet: 5
+    spreadAngle: 10
+    speedBullet: 40
+    distance:
+      startValue: 4
+      endValue: 6
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 2.5
+    damagePercent: 0.4
+    numberBullet: 9
+    spreadAngle: 10
+    speedBullet: 40
+    distance:
+      startValue: 3
+      endValue: 5
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 2.5
+    damagePercent: 0.3
+    numberBullet: 13
+    spreadAngle: 10
+    speedBullet: 40
+    distance:
+      startValue: 2
+      endValue: 4
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 2.5
+    damagePercent: 0.2
+    numberBullet: 17
+    spreadAngle: 10
+    speedBullet: 40
+    distance:
+      startValue: 1
+      endValue: 3
+    speedRange:
+      startValue: 25
+      endValue: 45
+    accelerationSpeed: 0
+    minSpeed: 0

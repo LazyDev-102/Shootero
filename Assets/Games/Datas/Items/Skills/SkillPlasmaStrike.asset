@@ -1,0 +1,187 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ab45733979474a4998da187bb4bab06, type: 3}
+  m_Name: SkillPlasmaStrike
+  m_EditorClassIdentifier: 
+  icon: {fileID: 21300000, guid: 4c7371ab69a1a98499d7eb1f972df70e, type: 3}
+  id: 210
+  displayName: Plasma Strike
+  description: Fire a laser beam to target for {0}s, deal {1}% final damage every
+    {2}s
+  price:
+    i: 2
+    a: 50
+  type: 1
+  currentRank: 0
+  levelUnlock: 0
+  amount: 2
+  skillRankData:
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+    - Name: 'DeltaShot '
+      Type: 2
+      Value:
+        Value: 0.1
+        Type: 0
+        Order: 0
+    - Name: Duration
+      Type: 3
+      Value:
+        Value: 0.5
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 0.01
+        Type: 0
+        Order: 0
+    - Name: Fire Rate
+      Type: 1
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+    - Name: 'DeltaShot '
+      Type: 2
+      Value:
+        Value: 0.1
+        Type: 0
+        Order: 0
+    - Name: Duration
+      Type: 3
+      Value:
+        Value: 1
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 0.02
+        Type: 0
+        Order: 0
+    - Name: Fire Rate
+      Type: 1
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+    - Name: 'DeltaShot '
+      Type: 2
+      Value:
+        Value: 0.1
+        Type: 0
+        Order: 0
+    - Name: Duration
+      Type: 3
+      Value:
+        Value: 1.5
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 0.03
+        Type: 0
+        Order: 0
+    - Name: Fire Rate
+      Type: 1
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+    - Name: 'DeltaShot '
+      Type: 2
+      Value:
+        Value: 0.1
+        Type: 0
+        Order: 0
+    - Name: Duration
+      Type: 3
+      Value:
+        Value: 2
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 0.04
+        Type: 0
+        Order: 0
+    - Name: Fire Rate
+      Type: 1
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+  - datas:
+    - Name: 'Cooldown '
+      Type: 0
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+    - Name: 'DeltaShot '
+      Type: 2
+      Value:
+        Value: 0.1
+        Type: 0
+        Order: 0
+    - Name: Duration
+      Type: 3
+      Value:
+        Value: 2.5
+        Type: 0
+        Order: 0
+    - Name: Percent Damage
+      Type: 5
+      Value:
+        Value: 0.05
+        Type: 0
+        Order: 0
+    - Name: Fire Rate
+      Type: 1
+      Value:
+        Value: 5.5
+        Type: 0
+        Order: 0
+  privateSkillRankData: []
+  IsNew: 0
+  laserPrefab: {fileID: 5678426582128770439, guid: 22aca39a6393e1d44b36c55d383f3eeb,
+    type: 3}
+  effect: {fileID: 0}

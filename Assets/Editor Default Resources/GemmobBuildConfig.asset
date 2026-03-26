@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6348582e7199549bcba49ab80d43a38d, type: 3}
+  m_Name: GemmobBuildConfig
+  m_EditorClassIdentifier: 
+  scriptingDefines:
+  - key: FACEBOOK_ENABLE
+    develop: 0
+    release: 0
+    target: 0
+  enableIap: 0
+  enableAds: 0
+  enableFirebase: 0
+  developOptions: 262144
+  productionOptions: 2097152
+  keyAliasName: 
+  keyAliasPass: 
+  BuildVersion: 1.0.0
+  BuildVerCode: 100
+  KeyStorePass: 123123
+  UnityBuildVersion: 
+  GroupSkypeId: 
+  AndroidIl2CppForRelease: 1
+  iOsIl2CppForRelease: 1
+  achitecture: 3
+  iOSIcon: {fileID: 0}
+  androidIcon: {fileID: 0}
+  iOsSplashBackground: {fileID: 0}
+  androidSplashBackground: {fileID: 0}
+  iOsSplashLogo: {fileID: 0}
+  androidSplashLogo: {fileID: 0}
+  iOSTargetDevice: 2
+  iOSSdkVersion: 988
+  iOSTargetOSVersion: 8.0
+  buildTimeout: 60
+  buildNode: gemmob_server

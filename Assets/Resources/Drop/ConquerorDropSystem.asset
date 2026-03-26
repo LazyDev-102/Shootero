@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f37e10d6309dde4eb6c3c24a087e6c0, type: 3}
+  m_Name: ConquerorDropSystem
+  m_EditorClassIdentifier: 
+  conquerorDrops:
+  - {fileID: 11400000, guid: 1454efec881ec6547b636b35782d3fbf, type: 2}
+  - {fileID: 11400000, guid: 7c4f0412b5bd52544b62502da298a384, type: 2}
+  - {fileID: 11400000, guid: 8f9ca0f38fe140c40be0f8658b1103e1, type: 2}
+  - {fileID: 11400000, guid: b361fa408831a7442ad5a860c18ee667, type: 2}
+  conquerorChipDrop: {fileID: 11400000, guid: 1392b351f12551b4c97449c8380c20f0, type: 2}

@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85ad7a93335262246bb074f059aefa93, type: 3}
+  m_Name: TutorialSytemData
+  m_EditorClassIdentifier: 
+  finishTutorialIntroduce: 0
+  finishTutorialOpenChest: 0
+  finishTutorialEquipment: 0
+  finishTutorialPlayGame: 0
+  finishTutorialOpenSkill: 0
+  finishTutorialEquipSkills: 0
+  gaveSkill: 0
+  gaveKey: 0
+  rewardKey:
+    i: 111
+    a: 1
+  gaveEnergy: 0
+  rewardEnergy:
+    i: 3
+    a: 25
+  finishInfinityTutorial: 0
+  IsOpenSkillTutorial: 1

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee8741b613200614183d85ad69c52890, type: 3}
+  m_Name: Wave09-Support
+  m_EditorClassIdentifier: 
+  waveMultipler: 0
+  difficult: 0
+  rangeChip:
+    startValue: 0
+    endValue: 0
+  rangeHealOrb:
+    startValue: 0
+    endValue: 0
+  rangeMaterial:
+    startValue: 0
+    endValue: 0
+  rangeGear:
+    startValue: 0
+    endValue: 0
+  waveType: 2
+  angel: {fileID: 2744086242882014662, guid: d7350b7b21b9b36408b9f20399d8d154, type: 3}

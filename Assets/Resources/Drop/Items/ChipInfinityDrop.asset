@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0ccf1e156df5af8448b4f1950ed7c038, type: 3}
+  m_Name: ChipInfinityDrop
+  m_EditorClassIdentifier: 
+  probabilityDropData:
+  - type: 0
+    percent: 30
+  - type: 1
+    percent: 50
+  - type: 2
+    percent: 70
+  - type: 3
+    percent: 100
+  - type: 4
+    percent: 100
+  numberIconDropDatas:
+  - type: 0
+    iconRange:
+      startValue: 1
+      endValue: 2
+  - type: 1
+    iconRange:
+      startValue: 2
+      endValue: 3
+  - type: 2
+    iconRange:
+      startValue: 3
+      endValue: 4
+  - type: 3
+    iconRange:
+      startValue: 10
+      endValue: 10
+  - type: 4
+    iconRange:
+      startValue: 5
+      endValue: 7
+  iconPrefab: {fileID: 679987943998966132, guid: 9fbf3ed6b4aca8d428587194440eaec2,
+    type: 3}
+  numberPreload: 15

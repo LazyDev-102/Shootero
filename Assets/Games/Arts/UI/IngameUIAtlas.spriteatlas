@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: IngameUIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: db425572c5970a64c848426c350fd234, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 23c0cae066e313443ba0252f4b51ae8e, type: 3}
+  - {fileID: 21300000, guid: 267031f0db504e74c87493a852231725, type: 3}
+  - {fileID: 21300000, guid: eb8e6751bdf17dd4089547085afc393b, type: 3}
+  - {fileID: 21300000, guid: 776b5a51dc607934b99c9d71fd912490, type: 3}
+  - {fileID: 21300000, guid: adbea3818589b174ca2ec86d6b60c491, type: 3}
+  - {fileID: 21300000, guid: 5f56c412ef555c646bcd04de1b75b9e3, type: 3}
+  - {fileID: 21300000, guid: 2fc44e126ed89cc4b8f605411f6632d1, type: 3}
+  - {fileID: 21300000, guid: ae932a228639eab438658ba8064cba1d, type: 3}
+  - {fileID: 21300000, guid: bea257529c791864a98a6c02a2f9c0ec, type: 3}
+  - {fileID: 21300000, guid: 769589521adb1b344a958a55fea8b5f8, type: 3}
+  - {fileID: 21300000, guid: cbfe81e204a295a4a82e77bb0d73e279, type: 3}
+  - {fileID: 21300000, guid: c14bfff2ace4629449c4e205d63e5fe1, type: 3}
+  - {fileID: 21300000, guid: 23d81243486b7494699aeb1187010f45, type: 3}
+  - {fileID: 21300000, guid: 5595aa637a22f2149a1c13367837c154, type: 3}
+  - {fileID: 21300000, guid: cfd359a457bb7384da13279de8ff889f, type: 3}
+  - {fileID: 21300000, guid: e54ce8b4b39ed1641a137c7e5f896f5d, type: 3}
+  - {fileID: 21300000, guid: 7370ab352fff3754b875e59d0f6b2335, type: 3}
+  - {fileID: 21300000, guid: 1e9fbaa5a6bc299489cdcdbb6603aab4, type: 3}
+  - {fileID: 21300000, guid: d02eb506ca81ce84b8deb56e6bdd99bc, type: 3}
+  - {fileID: 21300000, guid: 0330991618c10f643b0ac2b78620d69d, type: 3}
+  - {fileID: 21300000, guid: 69d62c76f4df8414186ab607ab5cedb8, type: 3}
+  - {fileID: 21300000, guid: 326a3486fb591d44e9bc7b8c8572d037, type: 3}
+  - {fileID: 21300000, guid: 1ace5ca652efb1c419e92c4043c1aa76, type: 3}
+  - {fileID: 21300000, guid: d17be6e6b03a53b4980222289c26f14e, type: 3}
+  - {fileID: 21300000, guid: e448f61887167e145830ad3534672c68, type: 3}
+  - {fileID: 21300000, guid: 84cf3d289d695e34d894aa50cc9575ef, type: 3}
+  - {fileID: 21300000, guid: 82e79058ddb58cf4c9d6656c603f9a6d, type: 3}
+  - {fileID: 21300000, guid: cdf5b168df6755d45a8a353c77b02b02, type: 3}
+  - {fileID: 21300000, guid: 2a9efa1972bf65d44a443dbe6c4cc4ac, type: 3}
+  - {fileID: 21300000, guid: f47c9a290a2dd694d9c86911862ad7be, type: 3}
+  - {fileID: 21300000, guid: 7b99f5e9dca2b6e479a3f96a3cf8334c, type: 3}
+  - {fileID: 21300000, guid: d51d244aa85c81d4797547d3f0043f12, type: 3}
+  - {fileID: 21300000, guid: 0e16d7cad2b55a34f952efd9d451957d, type: 3}
+  - {fileID: 21300000, guid: e1da5ddad04c8f8458b884559394ce14, type: 3}
+  - {fileID: 21300000, guid: 8618160b7a2287f4eb3ddcc2626024be, type: 3}
+  - {fileID: 21300000, guid: e27c1ddbd8dc86c4e84d22c099680f94, type: 3}
+  - {fileID: 21300000, guid: 5f3bb29ceb7126c469e773a9cf43309b, type: 3}
+  - {fileID: 21300000, guid: 188515dc36ee2c44292a2ef0eeeb92a8, type: 3}
+  - {fileID: 21300000, guid: e97a05dd1e9ea784f80fda1b77eaf138, type: 3}
+  - {fileID: 21300000, guid: 3791510e171c23f43b59a220b5cb77bc, type: 3}
+  - {fileID: 21300000, guid: 738b6b3e5dc3e474ab58c24fd2220f70, type: 3}
+  - {fileID: 21300000, guid: 7065f67f4ac751c4cb8f34cf824432dc, type: 3}
+  - {fileID: 21300000, guid: 77a024dff48cad541a9cb01b30ada2f3, type: 3}
+  - {fileID: 21300000, guid: c9d9afffbf04f1e46bc08b5ad985a199, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - icon_sound off
+  - BREAK
+  - frame_gu deco 2
+  - turret_bullet
+  - frame_HP3
+  - square
+  - icon_pause
+  - icon_warning2
+  - icon_chip ingame small
+  - drop_2
+  - boss gradient
+  - frame_system level 1
+  - drop_1
+  - icon_heal
+  - drop_heal orb
+  - icon_warning1
+  - frame_loot item
+  - level up node
+  - tutorial_arrow
+  - frame_system level 2
+  - icon_reach
+  - frame_deco ship
+  - frame_result bottom
+  - turret position
+  - LEVEL UP
+  - bar_exp
+  - frame_takehit1
+  - frame_circle
+  - frame_choose mod 1
+  - icon_vibrate off
+  - turret
+  - 4ngel
+  - frame_countdown
+  - icon_maxHP
+  - icon_vibrate on
+  - bar_boss HP
+  - icon_home
+  - icon_chip ingame
+  - bar_player HP
+  - frame_pause
+  - icon_sound on
+  - CLEAR
+  - icon_ad
+  - turret_HP
+  m_RenderDataMap: {}
+  m_Tag: IngameUIAtlas
+  m_IsVariant: 0

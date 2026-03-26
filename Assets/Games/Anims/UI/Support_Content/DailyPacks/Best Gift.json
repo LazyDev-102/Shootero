@@ -1,0 +1,103 @@
+{
+"skeleton": {
+	"hash": "nNN6dI3u9zZ06HytNGPs5z1Z9nE",
+	"spine": "3.8.99",
+	"x": -138.51,
+	"y": 0.43,
+	"width": 263.32,
+	"height": 219.99,
+	"images": "./Image/",
+	"audio": "D:/Work/Spine/Shootero/Best gift/Image"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 296.12, "rotation": -90 },
+	{ "name": "bone2", "parent": "bone", "x": -101.45, "y": 2.34 },
+	{ "name": "Layer 2", "parent": "bone2", "length": 20.9, "x": -96.09, "y": 83.12 },
+	{ "name": "Layer 4", "parent": "Layer 2", "x": -1.25, "y": -0.23 }
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "bone2", "attachment": "Layer 1" },
+	{ "name": "Layer 2", "bone": "Layer 4", "attachment": "Layer 2" },
+	{ "name": "Path", "bone": "bone2", "attachment": "Path" }
+],
+"path": [
+	{
+		"name": "Path",
+		"bones": [ "Layer 2" ],
+		"target": "Path",
+		"spacing": 5.8
+	}
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 1": {
+				"Layer 1": { "x": -6.48, "y": -0.54, "rotation": 90, "width": 246, "height": 215 }
+			},
+			"Layer 2": {
+				"Layer 2": { "x": 1.36, "y": 0.57, "rotation": 90, "width": 56, "height": 58 }
+			},
+			"Path": {
+				"Path": {
+					"type": "path",
+					"lengths": [ 107.55, 215.33, 342.47, 444.87, 674.7 ],
+					"vertexCount": 15,
+					"vertices": [ -98.74, -111.75, -87.72, -110.78, -68.47, -109.09, -2.84, -90.48, 15.85, -82.37, 28.08, -77.07, 84.92, -45.46, 84.46, -5.03, 84.07, 30.35, 64.97, 60.31, 5.8, 85, -25.28, 97.97, -65.38, 108.63, -92.09, 114.71, -122.01, 121.53 ]
+				}
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"Layer 2": {
+				"color": [
+					{ "time": 0.5, "color": "ffffff00", "curve": 0.095, "c2": 1, "c3": 0.75 },
+					{ "time": 1.2333, "color": "ffffffff", "curve": 0.218, "c2": 0.21, "c3": 0.773 },
+					{ "time": 1.3333, "color": "ffffff00" }
+				],
+				"attachment": [
+					{ "name": null },
+					{ "time": 0.5, "name": "Layer 2" }
+				]
+			}
+		},
+		"bones": {
+			"bone2": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.6667, "x": 2.65, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2, "x": 2.65, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.6667 }
+				]
+			},
+			"Layer 2": {
+				"scale": [
+					{ "x": 0.052, "y": 0.052, "curve": "stepped" },
+					{ "time": 0.5, "x": 0.052, "y": 0.052, "curve": 0.136, "c2": 0.96, "c3": 0.75 },
+					{ "time": 1.3 }
+				]
+			},
+			"Layer 4": {
+				"rotate": [
+					{ "time": 0.5 },
+					{ "time": 0.9333, "angle": -100.44 },
+					{ "time": 1.3333, "angle": 6.37 }
+				]
+			}
+		},
+		"path": {
+			"Path": {
+				"position": [
+					{ "time": 0.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3333, "position": 1.06 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6baa725f39d0e8748876bb2cbf5916f5, type: 3}
+  m_Name: MaxHpUpModData
+  m_EditorClassIdentifier: 
+  modId: 16
+  type: 1
+  nameMod: HP Up
+  modDescription: Increase max HP
+  icon: {fileID: 21300000, guid: 25879ecc94ded6142a802a609d07833a, type: 3}
+  rarity: 1
+  maxStack: -1
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []
+  maxHp:
+    Value: 0.25
+    Type: 1
+    Order: 0

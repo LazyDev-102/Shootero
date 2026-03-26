@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa74b035ea5002244888c0fc7cd55247, type: 3}
+  m_Name: ChallengeDefeatEnemy_Hard
+  m_EditorClassIdentifier: 
+  challengeID: 29
+  icon: {fileID: 21300000, guid: d4070ebc43bf0e64282a7bdfc84be048, type: 3}
+  type: 0
+  rank: {fileID: 11400000, guid: fdd12975e3c265a42999790515533e50, type: 2}
+  nameMission: Defeat 3000 Enemies
+  missionDescription: 
+  pointTarget: 3000
+  pointProgress: 0
+  isComplete: 0
+  challengePoint: 1
+  chipAfkPoint: 8
+  rewards:
+  - id: 1
+    amount: 10
+  gotoSource: {fileID: 11400000, guid: 53b3f89860d6f2948b0f8fa0ca69ece7, type: 2}
+  eventRegisters: 19270000

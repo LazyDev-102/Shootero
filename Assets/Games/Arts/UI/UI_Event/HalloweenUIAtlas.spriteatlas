@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HalloweenUIAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 100
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 65
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 1
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 7f2d9818c3f69154fa52c0efa9a88374, type: 3}
+    - {fileID: 102900000, guid: 68470f418806258439997240f60a9641, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b717dfa01739b2649b84fbd56c5a2512, type: 3}
+  - {fileID: 21300000, guid: 650473d17b6f2004ba07da33bf1328f6, type: 3}
+  - {fileID: 21300000, guid: 56fb5cf116bac404a9b5258157195547, type: 3}
+  - {fileID: 21300000, guid: a92eeb226493db5479ded2419203891a, type: 3}
+  - {fileID: 21300000, guid: f712ee033a95dc04da4687d2a84fc289, type: 3}
+  - {fileID: 21300000, guid: d89d7c243ede71b428a48816712a7da2, type: 3}
+  - {fileID: 21300000, guid: bfbf9df4558393c41858be2cc90fb9c0, type: 3}
+  - {fileID: 21300000, guid: 9ed9a4253081d674b89e861b5e8be513, type: 3}
+  - {fileID: 21300000, guid: 0ac077d57e269a44fb85a5c6ce773b3f, type: 3}
+  - {fileID: 21300000, guid: 25971df6a1031144a94b7dce4525588d, type: 3}
+  - {fileID: 21300000, guid: 7fbc55177ce3c6a4d9098732a03b50b2, type: 3}
+  - {fileID: 21300000, guid: d6aa74e8a32f40f468d77160107ee43e, type: 3}
+  - {fileID: 21300000, guid: 200f138bac3d2fe4290fdf687de99be4, type: 3}
+  - {fileID: 21300000, guid: 354a5c1d198dfc84897475b5de141754, type: 3}
+  - {fileID: 21300000, guid: 47253e8ec1db6864fbeeb1b6ef059651, type: 3}
+  - {fileID: 21300000, guid: caedd8dead64c1b41b40de677bcf1dde, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - GH_reactor
+  - icon_ticket 2
+  - frame_mode_xmas
+  - frame_mission halloween
+  - icon_candy
+  - drone5_bullet
+  - deco_gift exchange
+  - deco_mission 1
+  - deco_mission 2
+  - icon_gift exchange
+  - icon_ticket 1
+  - GH_weapon
+  - GH_shield
+  - GH_propulsion
+  - icon_drone H
+  - frame_mode 4
+  m_RenderDataMap: {}
+  m_Tag: HalloweenUIAtlas
+  m_IsVariant: 0

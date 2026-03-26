@@ -1,0 +1,41 @@
+
+Space Merchant.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body
+  rotate: false
+  xy: 2, 158
+  size: 357, 305
+  orig: 365, 358
+  offset: 4, 21
+  index: -1
+L_Wing_1
+  rotate: false
+  xy: 361, 380
+  size: 67, 83
+  orig: 74, 92
+  offset: 3, 3
+  index: -1
+L_Wing_2
+  rotate: true
+  xy: 2, 2
+  size: 154, 187
+  orig: 162, 195
+  offset: 4, 4
+  index: -1
+R_Wing_1
+  rotate: false
+  xy: 361, 295
+  size: 67, 83
+  orig: 74, 92
+  offset: 4, 3
+  index: -1
+R_Wing_2
+  rotate: true
+  xy: 191, 2
+  size: 154, 187
+  orig: 162, 195
+  offset: 4, 4
+  index: -1

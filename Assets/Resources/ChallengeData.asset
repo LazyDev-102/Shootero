@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da104789f3ed81c4a8bb718b85c90bd3, type: 3}
+  m_Name: ChallengeData
+  m_EditorClassIdentifier: 
+  nameEvent: Challenge
+  checkinDay: 0
+  checkinYear: 0
+  pointTarget: 20
+  pointProgress: 20
+  maxChallenge: 3
+  cChallengeIndex: 1e0000000200000008000000
+  timeReady: 000000000000000000000000000000000000000000000000
+  delayTime: 14400
+  totalTimeToDay: 7
+  datas:
+  - datas:
+    - {fileID: 11400000, guid: 77e38cefa81107e4db02c11ff708507d, type: 2}
+    - {fileID: 11400000, guid: 832630c670e5487459cce8a0aa7936e3, type: 2}
+    - {fileID: 11400000, guid: 5369ca0029c30094ca469194caa0a3bd, type: 2}
+    - {fileID: 11400000, guid: f2daf5b0be24bfb44a5c19f8f0f38800, type: 2}
+    - {fileID: 11400000, guid: 9f075ef819aa5f4428ab94787b45b719, type: 2}
+    - {fileID: 11400000, guid: b058f1d3f9ba2954989be9b127df7e3e, type: 2}
+    - {fileID: 11400000, guid: 2725a85b2390d7941b1e2158477caeb1, type: 2}
+    - {fileID: 11400000, guid: 23320e56641796248b530d2d0524abfd, type: 2}
+    - {fileID: 11400000, guid: dc7d6e5bc0d476b419687fd90969b86f, type: 2}
+    - {fileID: 11400000, guid: a46142445dc89fd4c809368c2bf3383c, type: 2}
+    - {fileID: 11400000, guid: 2289afea7e6b3bb4d84642adec55c61c, type: 2}
+    - {fileID: 11400000, guid: 322258d811612114a842f63a83202cec, type: 2}
+    - {fileID: 11400000, guid: e7739b94c6127564ca7649a1777921ac, type: 2}
+    - {fileID: 11400000, guid: ae167dffddbc68b41a94a0f5423d5a2f, type: 2}
+  - datas:
+    - {fileID: 11400000, guid: 215fd3b5c07015d4db741420e87d7f11, type: 2}
+    - {fileID: 11400000, guid: 2f6fc6b986716194494f8c33725ecd34, type: 2}
+    - {fileID: 11400000, guid: e3b7da8f9489d124584c9b2459358ad8, type: 2}
+    - {fileID: 11400000, guid: 92d381a866b65484195d80361e0e622d, type: 2}
+    - {fileID: 11400000, guid: cd57e5e069721574ab9f420d947324d0, type: 2}
+    - {fileID: 11400000, guid: b2bc0695a7304894696cbf338de614cf, type: 2}
+    - {fileID: 11400000, guid: 41d3b733d71abdc4c94af2fd3aa8034e, type: 2}
+    - {fileID: 11400000, guid: 1fe8ff31e7e232b48ad44668df35b37b, type: 2}
+    - {fileID: 11400000, guid: ef1810988b362614ab825419ac251252, type: 2}
+    - {fileID: 11400000, guid: b21da48114b9cba44bceced2c448c7f6, type: 2}
+    - {fileID: 11400000, guid: bb12667c530409b40a2eeae618e312c5, type: 2}
+    - {fileID: 11400000, guid: 00e09a52b37ea0b46ade87d711555a88, type: 2}
+    - {fileID: 11400000, guid: 1aaef1af3ef78524aa1888432b653382, type: 2}
+    - {fileID: 11400000, guid: 82f04924a4866824eabae70c3e548314, type: 2}
+  - datas:
+    - {fileID: 11400000, guid: f11eac1b2a3ff3d4a8f768ada1782b67, type: 2}
+    - {fileID: 11400000, guid: 580db503ae1b0824fabdde602690fd9f, type: 2}
+    - {fileID: 11400000, guid: fe77a215c2d7974468513bd1c558c024, type: 2}
+    - {fileID: 11400000, guid: d4367ae9b39ad9d4ca6a3eff1ce421bb, type: 2}
+    - {fileID: 11400000, guid: a6c80ff9c372f0d4da8d073fcd0a7073, type: 2}
+    - {fileID: 11400000, guid: 47424c55f4fafef4cb476b1bbe37dab2, type: 2}
+    - {fileID: 11400000, guid: b6b19858968d64149a24780c388c9cdf, type: 2}
+    - {fileID: 11400000, guid: b6a264ef16810524aa13dc9015365046, type: 2}
+    - {fileID: 11400000, guid: 9da66db06dc4ade41aa38bde928298a7, type: 2}
+    - {fileID: 11400000, guid: 2dc0f6f49ca2bf0478b380c5b7e0df84, type: 2}
+    - {fileID: 11400000, guid: 4f678dd13592b534fb5780e285aedd34, type: 2}
+    - {fileID: 11400000, guid: 643047c3f26605941b5288776b9ffe40, type: 2}
+    - {fileID: 11400000, guid: 44950122f13da3d4fa07a96b27a03606, type: 2}
+    - {fileID: 11400000, guid: b27465de98c2dfa4faaf479ece56d25d, type: 2}
+  specialReward:
+  - id: 112
+    amount: 1
+  percentCreateItemNormal: 3c0000001e0000000a000000
+  percentCreateItemOnSkip: 140000003c00000014000000
+  isComplete: 0
+  challengeItemComplete: 
+  challengeItemProgress: 

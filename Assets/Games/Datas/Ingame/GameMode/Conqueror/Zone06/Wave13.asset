@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e5ed00ada02c6a4c8ff956c89bc476a, type: 3}
+  m_Name: Wave13
+  m_EditorClassIdentifier: 
+  preStartCondition: []
+  preEndCondition:
+  - {fileID: 11400000, guid: 2193bd0d99a1b634eb9245163eada64a, type: 2}
+  waveMultipler: 3.64
+  difficult: 1
+  rangeChip:
+    startValue: 80
+    endValue: 85
+  rangeHealOrb:
+    startValue: 1
+    endValue: 1
+  rangeMaterial:
+    startValue: 1
+    endValue: 1
+  rangeGear:
+    startValue: 1
+    endValue: 1
+  waveType: 2
+  enemyIds: 01000000090000000500000007000000
+  trapIds: 0100000002000000
+  setEventRules:
+  - {fileID: 11400000, guid: 709491436e412b84587c3f7532d4a747, type: 2}
+  - {fileID: 11400000, guid: 802afc96627966e40b0bf86bc8129ab1, type: 2}
+  - {fileID: 11400000, guid: ac04ece371e5295449d62bbb3eb87464, type: 2}
+  - {fileID: 11400000, guid: fcf3445053f995a49a2b2eb412c6be22, type: 2}
+  - {fileID: 11400000, guid: 5349c4327c6604640b8dd4dcd2fd6e88, type: 2}
+  configModeWaves:
+    limitRange:
+      startValue: 8
+      endValue: 9
+    timeRange:
+      startValue: 8
+      endValue: 10
+  difficultPercents:
+    typePercents:
+    - type: 0
+      percent: 60
+    - type: 1
+      percent: 30
+    - type: 2
+      percent: 10
+  trapDifficultPercents:
+    typePercents:
+    - type: 0
+      percent: 60
+    - type: 1
+      percent: 30
+    - type: 2
+      percent: 10
+    limitTrap: 2

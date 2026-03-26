@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9beb0828f1d0e2847bb6d5fb889b63d5, type: 3}
+  m_Name: BurnShotModData
+  m_EditorClassIdentifier: 
+  modId: 8
+  type: 0
+  nameMod: Burn Shot
+  modDescription: Bullet can burn enemy
+  icon: {fileID: 21300000, guid: 4a3ba7945248eff4c9bafcedf3910e24, type: 3}
+  rarity: 3
+  maxStack: 1
+  levelRequire: 5
+  requireMods: []
+  requireBetweenMods: []
+  notContainMods: []
+  duration: 5
+  deltaBurn: 1
+  damagePercent: 0.1

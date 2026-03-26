@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a441ddb3593819c4da7804bbb211546f, type: 3}
+  m_Name: ConquerorZoneData9
+  m_EditorClassIdentifier: 
+  source: {fileID: 0}
+  nameZone: Sand Empire
+  icon: {fileID: 0}
+  difficultMultiplier: 9
+  waveDatas:
+  - {fileID: 11400000, guid: a8ea4ec840e701e4db21334eee278d46, type: 2}
+  - {fileID: 11400000, guid: be342e333a593b4489b125a5407f91cd, type: 2}
+  - {fileID: 11400000, guid: 8d3f5580ded6ab44c95d47f5158dd9df, type: 2}
+  - {fileID: 11400000, guid: 8317a37b827180d49a1e116e87b95407, type: 2}
+  - {fileID: 11400000, guid: 8953f60f658e1df499614f926d482574, type: 2}
+  - {fileID: 11400000, guid: abbf0494a220dfc4b9ae9fc9ae4c5280, type: 2}
+  - {fileID: 11400000, guid: 87fc12cee7517ce4e82da45590fdaa55, type: 2}
+  - {fileID: 11400000, guid: 1048874febc4e4c4c97995ff07b09688, type: 2}
+  - {fileID: 11400000, guid: 202ee5e5c41eab54d8675004728a5d37, type: 2}
+  - {fileID: 11400000, guid: 17f921258a9aa6b4a97058719000943f, type: 2}
+  background:
+    staticBG: {fileID: 21300000, guid: f44abc048566dc3459c0528f098b41b2, type: 3}
+    moveBGPrefab: {fileID: 7991348307957069275, guid: 7f96a6beffb3cbd4598c726818b10a68,
+      type: 3}
+  enemyIds: 01000000040000000d0000000f00000010000000
+  minibossIds: 090000000a0000000b0000000e0000000f000000
+  bossIds: 0e000000
+  trapIds: 010000000200000003000000
+  chestIds: 010000000200000003000000
+  minibossNumberPreload: 1
+  bossNumberPreload: 1
+  trapNumberPreload: 0
+  chestNumberPreload: 10
+  firstUnlock: 0

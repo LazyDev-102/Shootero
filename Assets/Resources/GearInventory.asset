@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8278b9f9ae5d5b54f926a6d6b1809077, type: 3}
+  m_Name: GearInventory
+  m_EditorClassIdentifier: 
+  weaponrySlot: {fileID: 11400000, guid: 7e026477e495c184daacf06db7e9be28, type: 2}
+  shieldSlot: {fileID: 11400000, guid: 1e72870dbf56c8e4f8b51164f6aede63, type: 2}
+  coreSlot: {fileID: 11400000, guid: 3711d0a8d9f7bf84ba278c4de0eaf682, type: 2}
+  engineSlot: {fileID: 11400000, guid: 8afa7a34614e9b14b97250e1307efe12, type: 2}
+  droneLSlot: {fileID: 11400000, guid: 9ac177d0f4a81fd49a5924081cac7f3b, type: 2}
+  droneRSlot: {fileID: 11400000, guid: adb620fbe7d697c4aa1e9efd55aae852, type: 2}

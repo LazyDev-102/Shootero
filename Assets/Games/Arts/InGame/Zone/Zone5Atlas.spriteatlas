@@ -1,0 +1,90 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Zone5Atlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: Android
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: 47
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 1
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 2048
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 1
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 0
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: a68e4c042cfb6534aa3e3254655c8edf, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: 5af39fc1f337e204b8391d4b2df70da0, type: 3}
+  - {fileID: 21300000, guid: 25b0b622429025541804d163fa0d0e1f, type: 3}
+  - {fileID: 21300000, guid: e62b99c30fc760c469e0c1a4a05b3a68, type: 3}
+  - {fileID: 21300000, guid: 989383d55544b344fb13ec90d5291ad1, type: 3}
+  - {fileID: 21300000, guid: a3d69697b95b66248b50e664f24167ac, type: 3}
+  - {fileID: 21300000, guid: bffada97bfefe984db11028e05c0f0ed, type: 3}
+  - {fileID: 21300000, guid: 5d72a4b7f3d9d2f4fba2472ba6058335, type: 3}
+  - {fileID: 21300000, guid: c7b25588e2bb7c040b18f579a0132f82, type: 3}
+  - {fileID: 21300000, guid: c402d5ead68c32240839d17379c166b4, type: 3}
+  - {fileID: 21300000, guid: 1fe706ab9586f7f4b809a145ec75f8c2, type: 3}
+  - {fileID: 21300000, guid: 1eabe24d356446144a4021b2d1dde363, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - z5_deco S2
+  - z5_deco B2
+  - e01-5-a
+  - z5_deco S4
+  - z5_deco S3
+  - e01-5-c
+  - z5_deco B1
+  - e01-5-e
+  - e01-5-d
+  - z5_deco S1
+  - e01-5-b
+  m_RenderDataMap: {}
+  m_Tag: Zone5Atlas
+  m_IsVariant: 0

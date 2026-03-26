@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a441ddb3593819c4da7804bbb211546f, type: 3}
+  m_Name: ConquerorZoneData8
+  m_EditorClassIdentifier: 
+  source: {fileID: 0}
+  nameZone: Strange Pyramid
+  icon: {fileID: 0}
+  difficultMultiplier: 8
+  waveDatas:
+  - {fileID: 11400000, guid: baa6881dd6514d94b88d21948b23a970, type: 2}
+  - {fileID: 11400000, guid: 48667de2fcb4980409a6746e8c364fe4, type: 2}
+  - {fileID: 11400000, guid: 0be1f3e930b040d4596bf71c1bdc11bd, type: 2}
+  - {fileID: 11400000, guid: 97eac189c02e62345944797500235dde, type: 2}
+  - {fileID: 11400000, guid: 069e1144f5041f74e8ec2f4b5195c719, type: 2}
+  - {fileID: 11400000, guid: 42c0106546c536b45b3ecabb5638ef46, type: 2}
+  - {fileID: 11400000, guid: b23785fc2d43ab340a12468cfe876f3c, type: 2}
+  - {fileID: 11400000, guid: aa386cc73c5caef4984f97533f3a2026, type: 2}
+  - {fileID: 11400000, guid: ec05d29bc6d15094195433a20afa25f5, type: 2}
+  - {fileID: 11400000, guid: e3999da43d57db04888a7f4f8e085dcd, type: 2}
+  - {fileID: 11400000, guid: 73da9f802d3e50d489d7d07d7c59bab0, type: 2}
+  - {fileID: 11400000, guid: 2a12196500c378c4abb734ac3ab4ea7c, type: 2}
+  - {fileID: 11400000, guid: 35b5928e2c914ec4795f53433be0573f, type: 2}
+  - {fileID: 11400000, guid: 56184977de3fbee4382f9e4bd85f73cc, type: 2}
+  - {fileID: 11400000, guid: aa179ede9e05e7d4ba25d9cd3abb9613, type: 2}
+  - {fileID: 11400000, guid: bde9d35c8f107714a97ab5e3960eaa31, type: 2}
+  - {fileID: 11400000, guid: c30856291fb37c74fb1692234a5a9301, type: 2}
+  - {fileID: 11400000, guid: a2a0efcb7a8943e40a8771e865988911, type: 2}
+  - {fileID: 11400000, guid: 986bddff74adc6d41aabc7d03901d625, type: 2}
+  - {fileID: 11400000, guid: 0d70636a48935ef4fb8307098b2b31b1, type: 2}
+  - {fileID: 11400000, guid: 9e4ecfb759f5d3e4295a72e399a68010, type: 2}
+  - {fileID: 11400000, guid: 210428ba1846935459205b01c88953c4, type: 2}
+  - {fileID: 11400000, guid: 739f5a2536c522b42b739d24374fe1e5, type: 2}
+  - {fileID: 11400000, guid: 10ce5b64ae506314bb0900da30c7a609, type: 2}
+  - {fileID: 11400000, guid: 15ae8f620edb1144a96ed33295e69a72, type: 2}
+  background:
+    staticBG: {fileID: 21300000, guid: c1e5b4c925f6fd244b10e4cc40004cb2, type: 3}
+    moveBGPrefab: {fileID: 7991348307957069275, guid: ada9f3219e31e6f4c8f9fd0ca7457474,
+      type: 3}
+  enemyIds: 0100000005000000060000000700000011000000
+  minibossIds: 0c0000000d000000
+  bossIds: 0c000000
+  trapIds: 010000000200000003000000
+  chestIds: 010000000200000003000000
+  minibossNumberPreload: 1
+  bossNumberPreload: 1
+  trapNumberPreload: 2
+  chestNumberPreload: 15
+  firstUnlock: 0

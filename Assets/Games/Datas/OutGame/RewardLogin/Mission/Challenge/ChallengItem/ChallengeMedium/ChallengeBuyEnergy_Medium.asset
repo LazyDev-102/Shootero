@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa74b035ea5002244888c0fc7cd55247, type: 3}
+  m_Name: ChallengeBuyEnergy_Medium
+  m_EditorClassIdentifier: 
+  challengeID: 18
+  icon: {fileID: 21300000, guid: 2ee81544b7de3b24494eb1db73cddedf, type: 3}
+  type: 3
+  rank: {fileID: 11400000, guid: 0a1eaadffae634d41997c888661b30bb, type: 2}
+  nameMission: Purchase Energy 4 times
+  missionDescription: 
+  pointTarget: 4
+  pointProgress: 0
+  isComplete: 0
+  challengePoint: 1
+  chipAfkPoint: 1
+  rewards:
+  - id: 2
+    amount: 25
+  gotoSource: {fileID: 11400000, guid: 4ca252a183d70514ca1858928ea05ed6, type: 2}
+  eventRegisters: 14270000

@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: aa74b035ea5002244888c0fc7cd55247, type: 3}
+  m_Name: ChallengeEliteChest_Medium
+  m_EditorClassIdentifier: 
+  challengeID: 23
+  icon: {fileID: 21300000, guid: e7ee72c2d929de54b8881e7f40b6cbff, type: 3}
+  type: 8
+  rank: {fileID: 11400000, guid: 0a1eaadffae634d41997c888661b30bb, type: 2}
+  nameMission: Open 2 Elite Chests
+  missionDescription: 
+  pointTarget: 2
+  pointProgress: 0
+  isComplete: 0
+  challengePoint: 1
+  chipAfkPoint: 1
+  rewards:
+  - id: 2
+    amount: 125
+  gotoSource: {fileID: 11400000, guid: 5b3804fb6fd84ca4fbc05700d7ee5dd3, type: 2}
+  eventRegisters: 1f270000

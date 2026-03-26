@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f37e10d6309dde4eb6c3c24a087e6c0, type: 3}
+  m_Name: BossModeDropSystem
+  m_EditorClassIdentifier: 
+  conquerorDrops:
+  - {fileID: 11400000, guid: 9aafa95bf5d8df94b90fdf7e9cf7ed33, type: 2}
+  - {fileID: 11400000, guid: 5c0dc7e8710de184aa60747266072a00, type: 2}
+  - {fileID: 11400000, guid: 5e39d8707a7b623469b0030022020b4e, type: 2}
+  conquerorChipDrop: {fileID: 11400000, guid: 83efbcc70ff7eb24b92dc2fba1ec719c, type: 2}

@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0921c35053e27124eb882ce4b620a5b4, type: 3}
+  m_Name: ShotSplitterPatternData_03
+  m_EditorClassIdentifier: 
+  patternInfos:
+  - attackSpeed: 5
+    damagePercent: 0.7
+    numberBullet: 3
+    spreadAngle: 10
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 5
+    damagePercent: 0.6
+    numberBullet: 5
+    spreadAngle: 10
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 5
+    damagePercent: 0.5
+    numberBullet: 7
+    spreadAngle: 10
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 5
+    damagePercent: 0.4
+    numberBullet: 9
+    spreadAngle: 10
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  focusPatternInfos:
+  - attackSpeed: 5
+    damagePercent: 0.7
+    numberBullet: 3
+    spreadAngle: 5
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 5
+    damagePercent: 0.6
+    numberBullet: 5
+    spreadAngle: 5
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 5
+    damagePercent: 0.5
+    numberBullet: 7
+    spreadAngle: 5
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0
+  - attackSpeed: 5
+    damagePercent: 0.4
+    numberBullet: 9
+    spreadAngle: 5
+    speedBullet: 30
+    accelerationSpeed: 0
+    minSpeed: 0

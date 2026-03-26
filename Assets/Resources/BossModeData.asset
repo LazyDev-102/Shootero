@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 283d60cc79126da47843ec807c3e34a4, type: 3}
+  m_Name: BossModeData
+  m_EditorClassIdentifier: 
+  maxTurn: 1
+  gearCollector: {fileID: 11400000, guid: a50483eb6285b9c44821c6032d7add44, type: 2}
+  gearWaveData:
+    bossIds: 0100000002000000030000000400000005000000060000000700000008000000090000000a0000000b0000000c0000000d0000000f000000
+    dropXpDeltaTime:
+      startValue: 5
+      endValue: 10
+    xpDropPrefab: {fileID: 4877350681797091591, guid: 99e4fa3b6a05ba24b83fcea9fe0a0c2b,
+      type: 3}
+    bossModeDropInfos:
+    - Status: 1
+      Percent: 0.95
+    - Status: 1
+      Percent: 0.9
+    - Status: 1
+      Percent: 0.85
+    - Status: 1
+      Percent: 0.8
+    - Status: 1
+      Percent: 0.75
+    - Status: 1
+      Percent: 0.7
+    - Status: 1
+      Percent: 0.65
+    - Status: 1
+      Percent: 0.6
+    - Status: 1
+      Percent: 0.55
+    - Status: 1
+      Percent: 0.5
+    - Status: 1
+      Percent: 0.45
+    - Status: 1
+      Percent: 0.4
+    - Status: 1
+      Percent: 0.35
+    - Status: 1
+      Percent: 0.3
+    - Status: 1
+      Percent: 0.25
+    - Status: 1
+      Percent: 0.2
+    - Status: 1
+      Percent: 0.15
+    - Status: 1
+      Percent: 0.1
+    - Status: 1
+      Percent: 0.05
+    bossModeStats:
+    - BossId: 1
+      Hp: 30000
+      Atk: 100
+    - BossId: 2
+      Hp: 30000
+      Atk: 100
+    - BossId: 3
+      Hp: 30000
+      Atk: 100
+    - BossId: 4
+      Hp: 30000
+      Atk: 100
+    - BossId: 5
+      Hp: 30000
+      Atk: 100
+    - BossId: 6
+      Hp: 30000
+      Atk: 100
+    - BossId: 7
+      Hp: 30000
+      Atk: 100
+    - BossId: 8
+      Hp: 30000
+      Atk: 100
+    - BossId: 9
+      Hp: 30000
+      Atk: 100
+    - BossId: 10
+      Hp: 30000
+      Atk: 100
+    - BossId: 11
+      Hp: 30000
+      Atk: 100
+    - BossId: 12
+      Hp: 30000
+      Atk: 100
+    - BossId: 13
+      Hp: 30000
+      Atk: 100
+    - BossId: 14
+      Hp: 30000
+      Atk: 100
+    - BossId: 15
+      Hp: 30000
+      Atk: 100
+  BossModeInfos:
+  - sytemLevel: 10
+    timeLimit: 93
+    multiDifficult: 10
+    gearCount: 02000000
+    otherReward:
+    - id: 1
+      amount: 6750
+    - id: 5
+      amount: 675
+    - id: 906
+      amount: 10
+    - id: 111
+      amount: 1
+  - sytemLevel: 20
+    timeLimit: 123
+    multiDifficult: 20
+    gearCount: 02000000
+    otherReward:
+    - id: 1
+      amount: 22500
+    - id: 5
+      amount: 2250
+    - id: 906
+      amount: 20
+    - id: 111
+      amount: 1
+  - sytemLevel: 30
+    timeLimit: 153
+    multiDifficult: 40
+    gearCount: 0200000001000000
+    otherReward:
+    - id: 1
+      amount: 47250
+    - id: 5
+      amount: 4725
+    - id: 906
+      amount: 30
+    - id: 111
+      amount: 2
+  - sytemLevel: 40
+    timeLimit: 183
+    multiDifficult: 80
+    gearCount: 010000000100000001000000
+    otherReward:
+    - id: 1
+      amount: 81000
+    - id: 5
+      amount: 8100
+    - id: 906
+      amount: 50
+    - id: 112
+      amount: 1
+  - sytemLevel: 50
+    timeLimit: 213
+    multiDifficult: 160
+    gearCount: 010000000100000001000000
+    otherReward:
+    - id: 1
+      amount: 112500
+    - id: 5
+      amount: 11250
+    - id: 906
+      amount: 80
+    - id: 112
+      amount: 1

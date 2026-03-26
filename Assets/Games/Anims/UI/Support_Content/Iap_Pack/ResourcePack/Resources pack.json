@@ -1,0 +1,189 @@
+{
+"skeleton": {
+	"hash": "Ry/NQCNJrG0Q+L1u7BU/n4l3iho",
+	"spine": "3.8.99",
+	"x": -303.3,
+	"y": -130.07,
+	"width": 613.13,
+	"height": 480,
+	"images": "./Image/",
+	"audio": "D:/Work/Spine/Shootero/Resource pack/Image"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "length": 517.45, "rotation": -90 },
+	{ "name": "Layer 1", "parent": "bone", "length": 152.4, "rotation": 178.98, "x": -33.1, "y": 21.67 },
+	{ "name": "You may need this", "parent": "bone", "length": 75.29, "rotation": -89.31, "x": -29.47, "y": -102.59 },
+	{ "name": "Layer 2", "parent": "bone", "length": 80, "rotation": 3.9, "x": -19.49, "y": 122.35 },
+	{ "name": "Layer 16 copy", "parent": "bone", "x": -89.42, "y": -173.13 },
+	{
+		"name": "Layer 16 copy2",
+		"parent": "bone",
+		"rotation": 38.85,
+		"x": 3.02,
+		"y": 224.36,
+		"scaleX": 1.7527,
+		"scaleY": 1.7527
+	},
+	{
+		"name": "Layer 16 copy3",
+		"parent": "bone",
+		"rotation": -53.7,
+		"x": -298.87,
+		"y": 0.79,
+		"scaleX": 0.6098,
+		"scaleY": 0.6098
+	}
+],
+"slots": [
+	{ "name": "Layer 1", "bone": "Layer 1", "attachment": "Layer 1" },
+	{ "name": "Layer 2", "bone": "Layer 2", "attachment": "Layer 2" },
+	{ "name": "You may need this", "bone": "You may need this", "attachment": "You may need this" },
+	{ "name": "Layer 16 copy", "bone": "Layer 16 copy", "attachment": "Layer 16 copy" },
+	{ "name": "Layer 16 copy2", "bone": "Layer 16 copy2", "attachment": "Layer 16 copy" },
+	{ "name": "Layer 16 copy3", "bone": "Layer 16 copy3", "attachment": "Layer 16 copy" }
+],
+"skins": [
+	{
+		"name": "default",
+		"attachments": {
+			"Layer 1": {
+				"Layer 1": { "x": 76.84, "y": 0.34, "rotation": -88.98, "width": 480, "height": 480 }
+			},
+			"Layer 2": {
+				"Layer 2": { "x": 25.92, "y": -2.92, "rotation": 86.1, "width": 85, "height": 125 }
+			},
+			"Layer 16 copy": {
+				"Layer 16 copy": { "x": -0.51, "y": -0.17, "rotation": 90, "width": 70, "height": 70 }
+			},
+			"Layer 16 copy2": {
+				"Layer 16 copy": { "x": -0.51, "y": -0.17, "rotation": 90, "width": 70, "height": 70 }
+			},
+			"Layer 16 copy3": {
+				"Layer 16 copy": { "x": -0.51, "y": -0.17, "rotation": 90, "width": 70, "height": 70 }
+			},
+			"You may need this": {
+				"You may need this": { "x": 36.07, "y": 29.11, "rotation": 179.31, "width": 330, "height": 88 }
+			}
+		}
+	}
+],
+"animations": {
+	"Idle": {
+		"slots": {
+			"Layer 16 copy": {
+				"color": [
+					{ "color": "ffffff00", "curve": 0.199, "c2": 0.66, "c3": 0.439 },
+					{ "time": 0.4, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.5667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.2667, "color": "ffffff00", "curve": 0.199, "c2": 0.66, "c3": 0.439 },
+					{ "time": 1.6667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.8667, "color": "ffffff00" }
+				]
+			},
+			"Layer 16 copy2": {
+				"color": [
+					{ "color": "ffffffff" },
+					{ "time": 0.2, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.6333, "color": "ffffff00", "curve": 0.147, "c2": 0.8, "c3": 0.372 },
+					{ "time": 1, "color": "ffffffff", "curve": 0.35, "c3": 0.75 },
+					{ "time": 1.2, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.9333, "color": "ffffff00" },
+					{ "time": 2.3333, "color": "ffffffff" }
+				]
+			},
+			"Layer 16 copy3": {
+				"color": [
+					{ "color": "ffffff00", "curve": "stepped" },
+					{ "time": 0.4, "color": "ffffff00", "curve": 0.199, "c2": 0.66, "c3": 0.439 },
+					{ "time": 0.7667, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 0.9667, "color": "ffffff00", "curve": "stepped" },
+					{ "time": 1.7333, "color": "ffffff00", "curve": 0.199, "c2": 0.66, "c3": 0.439 },
+					{ "time": 2.1333, "color": "ffffffff", "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333, "color": "ffffff00" }
+				]
+			}
+		},
+		"bones": {
+			"Layer 1": {
+				"translate": [
+					{ "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.1667, "x": 9.5, "curve": 0.25, "c3": 0.75 },
+					{ "time": 2.3333 }
+				]
+			},
+			"You may need this": {
+				"translate": [
+					{ "x": 6.81, "curve": 0.351, "c2": 0.4, "c3": 0.757 },
+					{ "time": 0.7667, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.9333, "x": 9.5, "curve": 0.265, "c3": 0.618, "c4": 0.43 },
+					{ "time": 2.3333, "x": 6.81 }
+				]
+			},
+			"Layer 2": {
+				"translate": [
+					{ "x": 0.92, "curve": 0.371, "c2": 0.62, "c3": 0.71 },
+					{ "time": 0.2, "curve": 0.25, "c3": 0.75 },
+					{ "time": 1.3667, "x": 9.5, "curve": 0.243, "c3": 0.689, "c4": 0.75 },
+					{ "time": 2.3333, "x": 0.92 }
+				]
+			},
+			"Layer 16 copy": {
+				"rotate": [
+					{},
+					{ "time": 0.5667, "angle": -139.83, "curve": "stepped" },
+					{ "time": 1.2333, "angle": -139.83 },
+					{ "time": 1.2667 },
+					{ "time": 1.8667, "angle": -139.83 }
+				],
+				"scale": [
+					{ "x": 0.129, "y": 0.129 },
+					{ "time": 0.5667, "curve": "stepped" },
+					{ "time": 1.2333 },
+					{ "time": 1.2667, "x": 0.129, "y": 0.129 },
+					{ "time": 1.8667 }
+				]
+			},
+			"Layer 16 copy3": {
+				"rotate": [
+					{ "time": 0.4 },
+					{ "time": 0.9667, "angle": -139.83, "curve": "stepped" },
+					{ "time": 1.7, "angle": -139.83 },
+					{ "time": 1.7333 },
+					{ "time": 2.3333, "angle": -139.83 }
+				],
+				"scale": [
+					{ "x": 0.129, "y": 0.129, "curve": "stepped" },
+					{ "time": 0.4, "x": 0.129, "y": 0.129 },
+					{ "time": 0.9667, "curve": "stepped" },
+					{ "time": 1.7 },
+					{ "time": 1.7333, "x": 0.129, "y": 0.129 },
+					{ "time": 2.3333 }
+				]
+			},
+			"Layer 16 copy2": {
+				"rotate": [
+					{},
+					{ "time": 0.2, "angle": -66.39, "curve": "stepped" },
+					{ "time": 0.5667, "angle": -66.39 },
+					{ "time": 0.6333, "angle": 137.03 },
+					{ "time": 1.2, "angle": -66.39, "curve": "stepped" },
+					{ "time": 1.9, "angle": -66.39 },
+					{ "time": 1.9333, "angle": 137.03 },
+					{ "time": 2.3333 }
+				],
+				"scale": [
+					{},
+					{ "time": 0.2, "x": 1.131, "y": 1.131, "curve": "stepped" },
+					{ "time": 0.5667, "x": 1.131, "y": 1.131 },
+					{ "time": 0.6333, "x": 0.236, "y": 0.236 },
+					{ "time": 1.2, "x": 1.131, "y": 1.131, "curve": "stepped" },
+					{ "time": 1.9, "x": 1.131, "y": 1.131 },
+					{ "time": 1.9333, "x": 0.236, "y": 0.236 },
+					{ "time": 2.3333 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 49ad093cdb922d0428705ef08010b210, type: 3}
+  m_Name: EnergyData
+  m_EditorClassIdentifier: 
+  gemBuy:
+    item:
+      i: 3
+      a: 20
+    price:
+      i: 2
+      a: 100
+    remainRequire: 0
+    remainADay: 100
+  adsBuy:
+    item:
+      i: 3
+      a: 5
+    price:
+      i: 2
+      a: 100
+    remainRequire: 1
+    remainADay: 5
+  maxEnergy: 20
+  startCountAt: 0
+  oldTimeQuit: 0
+  energyNeedToPlay:
+    i: 3
+    a: 5

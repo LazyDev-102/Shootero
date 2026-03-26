@@ -1,0 +1,100 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8cbb98107cc031a41af370e9006ab0fa, type: 3}
+  m_Name: SpaceMerchantData
+  m_EditorClassIdentifier: 
+  rateTypes: 320000001e00000014000000
+  spaceMerchantPacks:
+  - gearType: 1
+    packInfoes:
+    - rank: 0
+      price:
+        i: 2
+        a: 80
+    - rank: 1
+      price:
+        i: 2
+        a: 240
+    - rank: 2
+      price:
+        i: 2
+        a: 700
+  - gearType: 2
+    packInfoes:
+    - rank: 0
+      price:
+        i: 2
+        a: 80
+    - rank: 1
+      price:
+        i: 2
+        a: 240
+    - rank: 2
+      price:
+        i: 2
+        a: 700
+  - gearType: 3
+    packInfoes:
+    - rank: 0
+      price:
+        i: 2
+        a: 80
+    - rank: 1
+      price:
+        i: 2
+        a: 240
+    - rank: 2
+      price:
+        i: 2
+        a: 700
+  - gearType: 4
+    packInfoes:
+    - rank: 0
+      price:
+        i: 2
+        a: 80
+    - rank: 1
+      price:
+        i: 2
+        a: 240
+    - rank: 2
+      price:
+        i: 2
+        a: 700
+  - gearType: 5
+    packInfoes:
+    - rank: 0
+      price:
+        i: 2
+        a: 80
+    - rank: 1
+      price:
+        i: 2
+        a: 240
+    - rank: 2
+      price:
+        i: 2
+        a: 700
+  - gearType: 6
+    packInfoes:
+    - rank: 0
+      price:
+        i: 2
+        a: 80
+    - rank: 1
+      price:
+        i: 2
+        a: 240
+    - rank: 2
+      price:
+        i: 2
+        a: 700

@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id">
+  <string name="gcm_defaultSenderId" translatable="false">509885652314</string>
+  <string name="google_storage_bucket" translatable="false">shootero-galaxy-space-shooter.appspot.com</string>
+  <string name="project_id" translatable="false">shootero-galaxy-space-shooter</string>
+  <string name="google_api_key" translatable="false">AIzaSyDNXeu-njh5bLcO49gG3DeLDMcy0bc6t8w</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDNXeu-njh5bLcO49gG3DeLDMcy0bc6t8w</string>
+  <string name="google_app_id" translatable="false">1:509885652314:android:110eeb348bf422f010a763</string>
+  <string name="default_web_client_id" translatable="false">509885652314-ccbe8ohb5v13q0j3hbhrng4d1qrvsde6.apps.googleusercontent.com</string>
+</resources>

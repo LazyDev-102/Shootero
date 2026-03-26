@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bf374099c301a3458a672ece7624e5d, type: 3}
+  m_Name: MinibossPrefabData
+  m_EditorClassIdentifier: 
+  minibosses:
+  - minibossBG: {r: 1, g: 0.6666667, b: 0, a: 1}
+    minibossBase: {fileID: 262902476910140183, guid: d208873b5c00b1843b537fb5ec7522ac,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.46666667, b: 0, a: 1}
+    minibossBase: {fileID: 5288662522199021722, guid: aca404abb235a3c439a4c8ccfe9bf608,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.34509805, b: 0.2627451, a: 1}
+    minibossBase: {fileID: 1709904877023400489, guid: f4fa547513f139642a16bc1eb686ff27,
+      type: 3}
+  - minibossBG: {r: 0.58431375, g: 0.13725491, b: 1, a: 1}
+    minibossBase: {fileID: 3076850437747549339, guid: e41edd2aafe82254ab786e9cb55f3934,
+      type: 3}
+  - minibossBG: {r: 0.36862746, g: 1, b: 0, a: 1}
+    minibossBase: {fileID: 2466645235432523548, guid: 4364d5b34c4825f478cf6e67e4c2f89d,
+      type: 3}
+  - minibossBG: {r: 0.13725491, g: 0.9764706, b: 1, a: 1}
+    minibossBase: {fileID: 1787689344650640029, guid: 946ef9f9bb97a6a4fb93f1f828d995eb,
+      type: 3}
+  - minibossBG: {r: 0.058823533, g: 1, b: 0.6627451, a: 1}
+    minibossBase: {fileID: 3331273434457456315, guid: f79435cd972cffa4db4819b5f973aa48,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.14509805, b: 0.2901961, a: 1}
+    minibossBase: {fileID: 6395830679146181941, guid: 9b27c57b6323646418b5c22c43bbbc2a,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.68235296, b: 0, a: 1}
+    minibossBase: {fileID: 4408740404270416244, guid: af18f797ab5d5294e8a1bc0a568a86e0,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.68235296, b: 0, a: 1}
+    minibossBase: {fileID: 6419141422430873588, guid: 36787187e2d25d7499ccdcdcb5a6ff18,
+      type: 3}
+  - minibossBG: {r: 0.58431375, g: 0.13725491, b: 1, a: 1}
+    minibossBase: {fileID: 4564707100344401416, guid: beed24e6f83fa0e419609d730808d63f,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.34509805, b: 0.2627451, a: 1}
+    minibossBase: {fileID: 1687821677992951751, guid: cd661a6ba2d1b7e4cbc64e0fda4629d2,
+      type: 3}
+  - minibossBG: {r: 0.58431375, g: 0.13725491, b: 1, a: 1}
+    minibossBase: {fileID: 192685996132636943, guid: b9ea544f2a40ff1429e6256ddfd84b45,
+      type: 3}
+  - minibossBG: {r: 0.58431375, g: 0.13725491, b: 1, a: 1}
+    minibossBase: {fileID: 5851274227841368077, guid: e98a0a589db5cc74597aeed42e9eead0,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.68235296, b: 0, a: 1}
+    minibossBase: {fileID: 3085656639599556219, guid: 05c4a5e5cac98e647a19a4f686c6a30b,
+      type: 3}
+  - minibossBG: {r: 1, g: 0.34509805, b: 0.2627451, a: 1}
+    minibossBase: {fileID: 4998997017701774816, guid: af7233492c2aea84991129599ee56f41,
+      type: 3}
+  - minibossBG: {r: 0.36862746, g: 1, b: 0, a: 1}
+    minibossBase: {fileID: 5341399562619349902, guid: 5892b852ee03fbd449b00a4db97c0bb6,
+      type: 3}

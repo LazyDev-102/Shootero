@@ -1,0 +1,54 @@
+
+Chest.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest1
+  rotate: false
+  xy: 2, 616
+  size: 518, 346
+  orig: 556, 408
+  offset: 18, 18
+  index: -1
+chest1 glow
+  rotate: false
+  xy: 436, 177
+  size: 526, 354
+  orig: 556, 408
+  offset: 14, 14
+  index: -1
+chest_skill
+  rotate: false
+  xy: 2, 185
+  size: 432, 429
+  orig: 536, 552
+  offset: 56, 61
+  index: -1
+ef_chest kill
+  rotate: false
+  xy: 522, 533
+  size: 432, 429
+  orig: 536, 552
+  offset: 56, 61
+  index: -1
+
+Chest2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+chest2
+  rotate: false
+  xy: 2, 2
+  size: 540, 392
+  orig: 556, 408
+  offset: 8, 8
+  index: -1
+chest2 glow
+  rotate: false
+  xy: 2, 396
+  size: 548, 400
+  orig: 556, 408
+  offset: 4, 4
+  index: -1

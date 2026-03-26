@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fc7f5a8fea8a17c418dcaac02a8677f7, type: 3}
+  m_Name: UnlockShipCollector
+  m_EditorClassIdentifier: 
+  nameCollector: Ship
+  items:
+  - {fileID: 11400000, guid: 3e5b41173a00e08459445b45d81a577a, type: 2}
+  - {fileID: 11400000, guid: af2e90bfdcf3cd34299b5738c601bf7a, type: 2}
+  - {fileID: 11400000, guid: 4edbed1cf61d9f0429de6038276ecf07, type: 2}
+  - {fileID: 11400000, guid: 017efa3ec9a8fda4ba22b412f7f4d553, type: 2}
+  - {fileID: 11400000, guid: f6a5dd1473e847c4cbb85051663f1d5f, type: 2}
+  - {fileID: 11400000, guid: 6bec8506937a16946b8cdbf1c726d122, type: 2}
+  - {fileID: 11400000, guid: 0f79116246e5c714085434432d8db509, type: 2}
+  - {fileID: 11400000, guid: 1f5d3906eda6abc43bb653f8cd571e9f, type: 2}
+  - {fileID: 11400000, guid: 73a1fe51e346c604f9d8f916b8574525, type: 2}
